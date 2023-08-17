@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md",
+                "file": "Plano de Estudos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49b3a22c2420a66f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tracker App.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md",
+                "file": "Tracker App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md",
+                "file": "Tracker App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md"
+                "file": "Tracker App.md"
               }
             }
           }
@@ -146,9 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379d5ce7020e8c4d",
+  "active": "49b3a22c2420a66f",
   "lastOpenFiles": [
     "Plano de Estudos.md",
+    "Tracker App.md",
+    "Curso/AWS - Cloud Practitioner/IAM.md",
+    "Curso/AWS - Cloud Practitioner/AWS - Basics.md",
+    "Curso/AWS - Cloud Practitioner",
+    "Curso",
     "Faculdade - ADS/Redes/Aula introdutória.md",
     "Chat BOT/Planejamento.md",
     "Chat BOT",
