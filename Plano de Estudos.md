@@ -1,4 +1,4 @@
-> OBJETIVO ATUAL: **AWS practitioner**
+z> OBJETIVO ATUAL: **AWS practitioner**
 
 **META:** Pos-graduação na *FIAP*
 **APÓS:** MBA Mackenzie
@@ -13,6 +13,8 @@ Gatilho -> Estar na biblioteca || Tomar um banho e pegar um café
 ---
 
 ### Metodologia de Estudos
+
+Modo de estudo: sessão -> conteúdo aws -> exercícios
 
 Entender o porque, o sentido. *exercícios*
 Eficiência, utilizar uma estratégia, estudar sabendo para o que vou precisar utilzar
