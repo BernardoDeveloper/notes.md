@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b4b19f41b296a4f4",
+        "id": "becaed9ed2d7c2e6",
         "type": "tabs",
         "children": [
           {
-            "id": "379d5ce7020e8c4d",
+            "id": "5259a0a3519a7f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md",
+                "file": "Plano de Estudos.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md",
+                "file": "Plano de Estudos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md",
+                "file": "Plano de Estudos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade - ADS/Redes/Aula introdutória.md"
+                "file": "Plano de Estudos.md"
               }
             }
           }
@@ -146,13 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "379d5ce7020e8c4d",
+  "active": "d6e09918fb6be55c",
   "lastOpenFiles": [
+    "Tracker App.md",
+    "Images/Screenshot_2023-08-17_19-35-50.png",
+    "Images",
+    "Curso/AWS - Cloud Practitioner/Untitled.md",
+    "Curso/AWS - Cloud Practitioner/IAM.md",
+    "Curso/AWS - Cloud Practitioner/EC2.md",
+    "Curso/AWS - Cloud Practitioner/AWS - Course.md",
+    "Curso/AWS - Cloud Practitioner/AWS - Basics.md",
+    "Curso/AWS - Cloud Practitioner",
+    "Curso",
+    "Trics.md",
     "Plano de Estudos.md",
+    "Images/Screenshot_2023-07-23_23-35-13.png",
     "Faculdade - ADS/Redes/Aula introdutória.md",
     "Chat BOT/Planejamento.md",
     "Chat BOT",
-    "Trics.md",
     "Faculdade - ADS/Engenharia de Software I/Conteúdo Do semestre.md",
     "Template/Template - Aulas.md",
     "Faculdade - ADS/Redes/Test.md",

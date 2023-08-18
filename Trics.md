@@ -16,4 +16,9 @@ Saber e dividir os problemas em pequenas partes. -> Para isso utilizar testes é
 + Importante > maior produtividade
 + Corriqueiras - mais fácil
 
+*Zona de atividade*
+
+Um hábito um local
+MESA = ESTUDAR
+
 ### Reduzir Procastinação

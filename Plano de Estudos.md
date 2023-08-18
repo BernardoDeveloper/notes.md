@@ -1,4 +1,4 @@
-> OBJETIVO ATUAL: **AWS practitioner**
+z> OBJETIVO ATUAL: **AWS practitioner**
 
 **META:** Pos-graduação na *FIAP*
 **APÓS:** MBA Mackenzie
@@ -14,13 +14,15 @@ Gatilho -> Estar na biblioteca || Tomar um banho e pegar um café
 
 ### Metodologia de Estudos
 
+Modo de estudo: sessão -> conteúdo aws -> exercícios
+
 Entender o porque, o sentido. *exercícios*
 Eficiência, utilizar uma estratégia, estudar sabendo para o que vou precisar utilzar
 
-+ [ ] AWS Practitioner
-	+ [Curso AWS 1](https://www.youtube.com/watch?v=bGZXVslod5E)
-	+ [Curso AWS 2](https://www.youtube.com/watch?v=NXcvR5TV_Jw&t=527s)
-	+ [Curso AWS 3](https://www.youtube.com/watch?v=v3D6B_8RYZU&t=1s)
+*Tools:* Pomodoro (50/10 - 4) | Anki | Youtube Music
+
++ [ ] AWS Cloud Practitioner
+	+ Curso AWS - Udemy
 	+ [Live de Simulados](https://www.youtube.com/watch?v=sDK4RbQcjx8)
 	
 	+ [PDF de Exercícios](https://d1.awsstatic.com/pt_BR/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Sample-Questions.pdf)
@@ -28,3 +30,7 @@ Eficiência, utilizar uma estratégia, estudar sabendo para o que vou precisar u
 
 + [ ] Curso de DevOps
 	+ [DevOps Course](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs)
+
+---
+
+Sábado: 8hr - 9hr | Servidor de inglês treinar speaking
