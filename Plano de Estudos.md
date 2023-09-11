@@ -1,4 +1,4 @@
-z> OBJETIVO ATUAL: **AWS practitioner**
+OBJETIVO ATUAL: **AWS practitioner**
 
 **META:** Pos-graduação na *FIAP*
 **APÓS:** MBA Mackenzie
