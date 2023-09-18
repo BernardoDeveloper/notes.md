@@ -1,5 +1,4 @@
 Data: 2023-08-09
-Aula: Fundamentos (base, bits e conceitos)
 #redes
 
 ---

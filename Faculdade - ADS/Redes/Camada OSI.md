@@ -1,5 +1,4 @@
 Data: 2023-09-06
-Aula: Camada OSI
 #redes
 
 ---

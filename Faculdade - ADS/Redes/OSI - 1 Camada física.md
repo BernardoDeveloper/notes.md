@@ -1,5 +1,4 @@
 Data: 2023-08-30
-Aula: OSI e topologia
 #redes
 
 ---
