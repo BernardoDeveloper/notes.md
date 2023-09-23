@@ -31,7 +31,7 @@ Todo o material que teremos nesse semestre.
 
 + Modelos Ágeis
 	+ O que é o processo ágil?
-	+ Modelso ágeis de processo
+	+ Modelos ágeis de processo
 		+ XP
 		+ SCRUM
 		+ FDD (Feature Driven Development)

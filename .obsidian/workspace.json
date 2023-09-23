@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "574901741cd68caa",
+            "id": "71ad885df1d26e11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Faculdade - ADS/Engenharia de Software I/Revisao.md",
+                "file": "Faculdade - ADS/PIM - v1/Engenharia de Software.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a5aa92ef5ccfff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Faculdade - ADS/Engenharia de Software I/Conteúdo inicial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Faculdade - ADS/Engenharia de Software I/Revisao.md",
+                "file": "Faculdade - ADS/PIM - v1/Engenharia de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Faculdade - ADS/Engenharia de Software I/Revisao.md",
+                "file": "Faculdade - ADS/PIM - v1/Engenharia de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Faculdade - ADS/Engenharia de Software I/Revisao.md"
+                "file": "Faculdade - ADS/PIM - v1/Engenharia de Software.md"
               }
             }
           },
@@ -157,26 +169,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "574901741cd68caa",
+  "active": "71ad885df1d26e11",
   "lastOpenFiles": [
-    "Faculdade - ADS/Engenharia de Software I/Revisão.md",
-    "Faculdade - ADS/Engenharia de Software I/Revisao.md",
+    "Faculdade - ADS/Engenharia de Software I/Conteúdo inicial.md",
+    "Faculdade - ADS/PIM - v1/fluxo_grama.png",
+    "Faculdade - ADS/PIM - v1/Engenharia de Software.md",
+    "Faculdade - ADS/Engenharia de Software I/Conteúdo Do semestre.md",
+    "Faculdade - ADS/Redes/Revisão Redes.md",
     "Carreira - Firmware Developer.md",
+    "Faculdade - ADS/Redes/Revisão - REDES.md",
+    "Faculdade - ADS/Redes/OSI - 2 Enlace.md",
+    "Images/NetworkTopologies.png",
+    "Faculdade - ADS/Redes/Camada OSI.md",
+    "Images/Pasted image 20230918223318.png",
+    "Images/Pasted image 20230919231600.png",
+    "Faculdade - ADS/Redes/OSI - 1 Camada física.md",
+    "Bernardo Gualberto Silva.md",
+    "Images/Pasted image 20230918222134.png",
+    "Images/Pasted image 20230918222310.png",
+    "Faculdade - ADS/Redes/Aula introdutória.md",
+    "Faculdade - ADS/Engenharia de Software I/Revisao.md",
+    "Faculdade - ADS/Engenharia de Software I/UNIVESP - Engenharia de Software.md",
+    "Faculdade - ADS/Engenharia de Software I/Revisão.md",
     "Faculdade - ADS/LTP/Básico.md",
     "Plano de Estudos.md",
     "Curso/Untitled.md",
     "Faculdade - ADS/LTP",
     "Faculdade - ADS/Redes/Base.md",
-    "Faculdade - ADS/Engenharia de Software I/Conteúdo Do semestre.md",
-    "Faculdade - ADS/Engenharia de Software I/Conteúdo inicial.md",
-    "Faculdade - ADS/Redes/OSI - 2 Enlace.md",
     "Começar a programar.md",
-    "Faculdade - ADS/Redes/OSI - 1 Camada física.md",
     "Template/Template - Aulas.md",
-    "Faculdade - ADS/Redes/Aula introdutória.md",
-    "Faculdade - ADS/Redes/Camada OSI.md",
-    "Faculdade - ADS/PIM - v1/Engenharia de Software.md",
-    "Faculdade - ADS/PIM - v1/fluxo_grama.png",
     "Faculdade - ADS/AVA/Matemática para computação.md",
     "Faculdade - ADS/PIM - v1",
     "Faculdade - ADS/Untitled.md",
@@ -186,13 +207,8 @@
     "investimento/Fundamentals.md",
     "Curso/AWS - Cloud Practitioner/Fundamentals.md",
     "investimento",
-    "Curso/AWS - Cloud Practitioner/EC2.md",
-    "Curso/AWS - Cloud Practitioner/AWS - Basics.md",
-    "Curso/AWS - Cloud Practitioner/AWS - Course.md",
-    "Tracker App.md",
     "Images/Screenshot_2023-08-17_19-35-50.png",
     "Images",
-    "Curso/AWS - Cloud Practitioner/IAM.md",
     "Curso/AWS - Cloud Practitioner",
     "Curso",
     "Images/Screenshot_2023-07-23_23-35-13.png",

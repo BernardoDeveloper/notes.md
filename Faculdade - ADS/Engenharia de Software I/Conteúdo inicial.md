@@ -40,3 +40,5 @@ Engenharia de software orienta como o projeto deve seguir
 Organizar as atividades do desenvolvimento
 Verificar se o cliente quer o que está fazendo
 Viabilidade antes do projeto ser iniciado, verificar se é possível criar o que o usuário quer. Se sim levantar os requisitos.
+
+Bom software - funcionalidade e performance

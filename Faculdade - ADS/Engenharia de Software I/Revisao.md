@@ -61,6 +61,3 @@ Modelos ágeis (técnicas, regras e ideias):
 + SCRUM
 + Kaban
 + Crystal ...
-
-### SCRUM
-Um *framework* para gerenciar e organizar um projeto.
