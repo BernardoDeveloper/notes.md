@@ -23,7 +23,8 @@ Teremos o nosso sistema divido em duas partes uma delas irá conter duas colunas
 ---
 
 ### Tarefas:
-- [ ] Levantamento detalhado dos requisitos - Hudson;
+- [ ] Estimar datas para as atividades;
+- [ ] Levantamento detalhado dos requisitos e prioridades - Hudson;
 - [ ] Planejar o sistema, a forma que os terminais vão se relacionar entre si - Todo mundo;
 - [ ] Separar as tarefas para cada requisito (para construir um RF temos que definir quais são as tarefas para obter o resultado) - Matheus Corsa;
 - [ ] Arquitetura do sistema (modelo ágil, cascata, espiral, etc...) - Matheus Corsa & Hudson;
