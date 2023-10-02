@@ -1,9 +1,11 @@
-Data: 2023-08-09
-#redes
+Source: Glauco - UNIP
+Project: #project/faculdade
+Areas: #areas/network
+Related: [[Redes]]
 
 ---
 
-# Aula introdutória
+# Conteúdo
 **Analisar:** um dos conceitos mais importantes nesse campo de atuação, sempre devemos nos atentar a todos os detalhes.
 **Material:** a responsabilidade do material é totalmente minha.
 

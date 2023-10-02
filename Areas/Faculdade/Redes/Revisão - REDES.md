@@ -1,5 +1,12 @@
-Data: 2023-09-19
-#redes
+Notes:
+- [[Camada OSI]]
+- [[OSI - 1 Camada física]]
+- [[OSI - 1 Camada física]]
+
+Source: Redes by Andrew Tanenbaum
+Project: #project/faculdade 
+Areas: #areas/network 
+Related: [[Redes]]
 
 ---
 

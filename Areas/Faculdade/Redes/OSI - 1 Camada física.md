@@ -1,5 +1,10 @@
-Data: 2023-08-30
-#redes
+Notes:
+- [[Camada OSI]]
+
+Source: Glauco - UNIP
+Project: #project/faculdade 
+Areas: #areas/network 
+Related: [[Camada OSI]]
 
 ---
 

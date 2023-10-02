@@ -1,5 +1,10 @@
-Data: 2023-09-06
-#redes
+Notes:
+- [[Aula introdutória]]
+
+Source: Glauco - UNIP
+Project: #project/faculdade 
+Areas: #areas/network 
+Related: [[Redes]]
 
 ---
 

@@ -1,9 +1,13 @@
-data: 2023-09-13
-#redes #revisao
+Notes:
+- [[CODE - Second Brain]]
+
+Source: Glauco - UNIP
+Project: #project/faculdade 
+Areas: #areas/network 
+Related: [[Camada OSI]]
 
 ---
 
-> Topologia
 # conteúdo
 separada em duas partes *mac* (media acess point) e *llc* (controle de link lógico)
 

@@ -1,3 +1,0 @@
-- [ ] Banho gelado - dia: 0 ;
-- [ ] Parar - dia: 0;
-- [ ] Alimentação, remover açucar - dia: 0;

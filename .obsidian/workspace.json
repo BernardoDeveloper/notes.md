@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af7a181edbe393c5",
+        "id": "53b4e90fb6e1fbfa",
         "type": "tabs",
         "children": [
           {
-            "id": "ba398caaccf7f22e",
+            "id": "c8b6476d7a88cdba",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarefas.md",
+                "file": "VOU VENCER.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,45 +22,19 @@
             }
           },
           {
-            "id": "569c310f0d8bec99",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Livro - Aprendizado/Hábitos.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "f50989d40f0ada81",
+            "id": "c9fdce4948923548",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "230166dbd3ef462d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Curso/Car Learning/Explain.md",
+                "file": "Areas/Curso/Car Learning/Explain.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md",
+                "file": "Areas/Curso/Car Learning/Explain.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md",
+                "file": "Areas/Curso/Car Learning/Explain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md"
+                "file": "Areas/Curso/Car Learning/Explain.md"
               }
             }
           },
@@ -198,52 +172,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f50989d40f0ada81",
+  "active": "c9fdce4948923548",
   "lastOpenFiles": [
-    "Tarefas.md",
-    "Images/Pasted image 20230927124851.png",
-    "Images/Pasted image 20230927124607.png",
-    "Images/Pasted image 20230927124231.png",
-    "Curso/Car Learning/Explain.md",
-    "Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md",
-    "Livro - Aprendizado/Hábitos.md",
-    "Livro - Aprendizado/Livro - Aprendizado.md",
-    "Livro - Aprendizado/Second Brain.md",
-    "Livro - Aprendizado/Disciplina.md",
-    "Livro - Aprendizado/Como aprender.md",
-    "Curso/Maratona Injeção",
-    "Curso/Car Learning",
-    "Faculdade - ADS/PIM - v1/PIM - Engenharia de Software.md",
-    "Faculdade - ADS/PIM - v1/PIM.md",
-    "Livro - Aprendizado/Entendendo Algoritimos.md",
-    "Livro - Aprendizado/Logaritmo.md",
-    "Livro - Aprendizado/Hábitos Atômicos.md",
-    "Faculdade - ADS/Redes/Revisão - REDES.md",
-    "Faculdade - ADS/Redes/Redes.md",
-    "Faculdade - ADS/Engenharia de Software I/Revisao - Engenharia de software.md",
-    "Curso/C codecademy/C - Notes.md",
-    "Curso/C codecademy",
-    "Faculdade - ADS/Faculdade - ADS.md",
-    "Faculdade - ADS/Engenharia de Software I/Engenharia de Software.md",
-    "Faculdade - ADS/Redes/Revisão Redes.md",
-    "Life/Carreira - Firmware Developer.md",
-    "Life/Life.md",
-    "Livro - Aprendizado/Nação dopamina.md",
-    "Livro - Aprendizado/A busca disciplinada por menos.md",
-    "Life/Investimentos - Fundamentals.md",
-    "Livro - Aprendizado",
-    "Faculdade - ADS/PIM - v1/fluxo_grama.png",
-    "Images/NetworkTopologies.png",
-    "Images/Pasted image 20230918223318.png",
-    "Images/Pasted image 20230919231600.png",
-    "Images/Pasted image 20230918222134.png",
-    "Images/Pasted image 20230918222310.png",
-    "Faculdade - ADS/LTP",
-    "Faculdade - ADS/PIM - v1",
-    "Images/Pasted image 20230912225420.png",
-    "Faculdade - ADS/AVA",
-    "Life",
-    "Images",
-    "Curso/AWS - Cloud Practitioner"
+    "Resource/Life/Bernardo Gualberto Silva.md",
+    "Resource/Life/Investimentos - Fundamentals.md",
+    "Resource/Life/Life.md",
+    "VOU VENCER.md",
+    "Resource/Life/Carreira - Firmware Developer.md",
+    "Areas/Curso/C codecademy/C - Notes.md",
+    "Areas/Faculdade/Redes/Revisão - REDES.md",
+    "Areas/Faculdade/Redes/Redes.md",
+    "Areas/Faculdade/Redes/OSI - 2 Enlace.md",
+    "Areas/Faculdade/Redes/OSI - 1 Camada física.md",
+    "Areas/Faculdade/Redes/Camada OSI.md",
+    "Areas/Faculdade/Redes/Aula introdutória.md",
+    "Areas/Faculdade/Engenharia de Software I/Revisao - Engenharia de software.md",
+    "Areas/Faculdade/Engenharia de Software I/UNIVESP - Engenharia de Software.md",
+    "Areas/Faculdade/Engenharia de Software I/Engenharia de Software.md",
+    "Areas/Faculdade/Engenharia de Software I/Conteúdo inicial.md",
+    "Areas/Faculdade/Engenharia de Software I/Conteúdo Do semestre.md",
+    "Areas/Faculdade/AVA/Matemática para computação.md",
+    "Template/Template - Aulas.md",
+    "Areas/Faculdade/Faculdade - ADS.md",
+    "Template/Default - CODE.md",
+    "Areas/Faculdade/Provas.md",
+    "Active/Jobs.md",
+    "Resource/Livro - Aprendizado/CODE - Second Brain.md",
+    "Active/Active.md",
+    "Areas/Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md",
+    "Active",
+    "Dead Files",
+    "Resource",
+    "Areas",
+    "Active",
+    "Resource/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
+    "Resource/Images/Pasted image 20230927202843.png",
+    "Resource/Images/Pasted image 20230927201254.png",
+    "Resource/Images/Pasted image 20230927124851.png",
+    "Resource/Images/Pasted image 20230927124607.png",
+    "Resource/Images/Pasted image 20230927124231.png",
+    "Areas/Curso/Maratona Injeção",
+    "Areas/Curso/Car Learning",
+    "Areas/Curso/C codecademy",
+    "Resource/Livro - Aprendizado",
+    "Areas/Faculdade/PIM - v1/fluxo_grama.png",
+    "Resource/Images/NetworkTopologies.png",
+    "Resource/Images/Pasted image 20230918223318.png",
+    "Resource/Images/Pasted image 20230919231600.png",
+    "Faculdade - ADS/LTP"
   ]
 }
