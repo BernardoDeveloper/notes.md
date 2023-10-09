@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "53b4e90fb6e1fbfa",
+        "id": "e190befd78bd4eff",
         "type": "tabs",
         "children": [
           {
-            "id": "c8b6476d7a88cdba",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VOU VENCER.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c9fdce4948923548",
+            "id": "5e227923d18f09ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Curso/Car Learning/Explain.md",
+                "file": "Areas/Life/Segundo Cérebro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Curso/Car Learning/Explain.md",
+                "file": "Areas/Life/Segundo Cérebro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Curso/Car Learning/Explain.md",
+                "file": "Areas/Life/Segundo Cérebro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Curso/Car Learning/Explain.md"
+                "file": "Areas/Life/Segundo Cérebro.md"
               }
             }
           },
@@ -172,19 +157,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c9fdce4948923548",
+  "active": "5e227923d18f09ef",
   "lastOpenFiles": [
-    "Resource/Life/Bernardo Gualberto Silva.md",
-    "Resource/Life/Investimentos - Fundamentals.md",
-    "Resource/Life/Life.md",
-    "VOU VENCER.md",
-    "Resource/Life/Carreira - Firmware Developer.md",
+    "Areas/Life/Segundo Cérebro.md",
+    "Areas/Faculdade/Redes/OSI - 3 Rede.md",
+    "Areas/Life",
+    "Areas/Faculdade/Redes/OSI - 1 Camada física.md",
+    "Areas/Faculdade/Redes/OSI - 2 Enlace.md",
+    "Areas/Faculdade/Redes/Camada OSI.md",
     "Areas/Curso/C codecademy/C - Notes.md",
+    "Areas/Curso/Car Learning/Explain.md",
+    "VOU VENCER.md",
+    "Resource/Life/Investimentos - Fundamentals.md",
+    "Resource/Livro - Aprendizado/Como aprender.md",
+    "Resource/Livro - Aprendizado/Livro - Aprendizado.md",
+    "Areas/Faculdade/PIM - v1/PIM - Engenharia de Software.md",
+    "Areas/Faculdade/PIM - v1/PIM.md",
+    "Resource/Life/Bernardo Gualberto Silva.md",
+    "Resource/Life/Life.md",
+    "Resource/Life/Carreira - Firmware Developer.md",
     "Areas/Faculdade/Redes/Revisão - REDES.md",
     "Areas/Faculdade/Redes/Redes.md",
-    "Areas/Faculdade/Redes/OSI - 2 Enlace.md",
-    "Areas/Faculdade/Redes/OSI - 1 Camada física.md",
-    "Areas/Faculdade/Redes/Camada OSI.md",
     "Areas/Faculdade/Redes/Aula introdutória.md",
     "Areas/Faculdade/Engenharia de Software I/Revisao - Engenharia de software.md",
     "Areas/Faculdade/Engenharia de Software I/UNIVESP - Engenharia de Software.md",
@@ -193,13 +186,6 @@
     "Areas/Faculdade/Engenharia de Software I/Conteúdo Do semestre.md",
     "Areas/Faculdade/AVA/Matemática para computação.md",
     "Template/Template - Aulas.md",
-    "Areas/Faculdade/Faculdade - ADS.md",
-    "Template/Default - CODE.md",
-    "Areas/Faculdade/Provas.md",
-    "Active/Jobs.md",
-    "Resource/Livro - Aprendizado/CODE - Second Brain.md",
-    "Active/Active.md",
-    "Areas/Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md",
     "Active",
     "Dead Files",
     "Resource",
@@ -218,7 +204,6 @@
     "Areas/Faculdade/PIM - v1/fluxo_grama.png",
     "Resource/Images/NetworkTopologies.png",
     "Resource/Images/Pasted image 20230918223318.png",
-    "Resource/Images/Pasted image 20230919231600.png",
-    "Faculdade - ADS/LTP"
+    "Resource/Images/Pasted image 20230919231600.png"
   ]
 }
