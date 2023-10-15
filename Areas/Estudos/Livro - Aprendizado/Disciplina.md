@@ -1,5 +1,7 @@
-Data: 2023-09-26
-#life
+Source: Mineirão - YouTube
+Project: #project/studies 
+Areas: #areas/personal_development
+Related: [[Life]]
 
 ---
 

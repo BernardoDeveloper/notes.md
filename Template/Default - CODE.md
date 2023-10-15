@@ -1,7 +1,4 @@
-Notes:
-- [[CODE - Second Brain]]
-
-Source: [font](https://google.com)
+Source: font
 Project: #project/project_name
 Areas: #areas/area_name
 Related: [[Life]]

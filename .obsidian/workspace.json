@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e190befd78bd4eff",
+        "id": "6cce2b4612c917d5",
         "type": "tabs",
         "children": [
           {
-            "id": "5e227923d18f09ef",
+            "id": "2ffaba9f43ff6045",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Life/Segundo Cérebro.md",
-                "mode": "source",
+                "file": "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Life/Segundo Cérebro.md",
+                "file": "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Life/Segundo Cérebro.md",
+                "file": "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Life/Segundo Cérebro.md"
+                "file": "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md"
               }
             }
           },
@@ -157,53 +157,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e227923d18f09ef",
+  "active": "2ffaba9f43ff6045",
   "lastOpenFiles": [
+    "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md",
+    "Areas/Estudos/Faculdade/Faculdade - ADS.md",
+    "Areas/Estudos/Livro - Aprendizado/Livro - Aprendizado.md",
+    "Areas/Life/filme.md",
+    "Areas/Estudos/Curso/Car Learning/Explain.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 2 Enlace.md",
+    "test.md",
+    "Areas/Estudos/Livro - Aprendizado/Disciplina.md",
+    "Areas/Estudos/Livro - Aprendizado/Entendendo Algoritimos.md",
+    "Areas/Estudos/Livro - Aprendizado/CODE - Second Brain.md",
+    "Areas/Estudos/Livro - Aprendizado/Como aprender.md",
     "Areas/Life/Segundo Cérebro.md",
-    "Areas/Faculdade/Redes/OSI - 3 Rede.md",
+    "Areas/Estudos/Faculdade/AVA/Matemática para computação.md",
+    "Areas/Estudos/Faculdade/PIM - v1/PIM - Engenharia de Software.md",
+    "Areas/Estudos/Faculdade/PIM - v1/PIM.md",
+    "Areas/Estudos/Faculdade/Provas.md",
+    "Areas/Estudos/Livro - Aprendizado/Nação dopamina.md",
+    "Areas/Estudos/Livro - Aprendizado/Logaritmo.md",
+    "Areas/Estudos/Livro - Aprendizado/Hábitos Atômicos.md",
+    "Areas/Estudos/Livro - Aprendizado/A busca disciplinada por menos.md",
+    "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 4 Sessão & 5 Apresentação.md",
+    "Areas/Estudos/Sistemas Embarcados",
+    "Areas/Untitled",
+    "Areas/Projetos",
+    "Areas",
+    "Areas/Estudos",
+    "Template/Default - CODE.md",
+    "Areas/Life/Jobs.md",
+    "Areas/Life/AMBEV.md",
+    "Areas/Life/VOU VENCER.md",
     "Areas/Life",
-    "Areas/Faculdade/Redes/OSI - 1 Camada física.md",
-    "Areas/Faculdade/Redes/OSI - 2 Enlace.md",
-    "Areas/Faculdade/Redes/Camada OSI.md",
-    "Areas/Curso/C codecademy/C - Notes.md",
-    "Areas/Curso/Car Learning/Explain.md",
-    "VOU VENCER.md",
-    "Resource/Life/Investimentos - Fundamentals.md",
-    "Resource/Livro - Aprendizado/Como aprender.md",
-    "Resource/Livro - Aprendizado/Livro - Aprendizado.md",
-    "Areas/Faculdade/PIM - v1/PIM - Engenharia de Software.md",
-    "Areas/Faculdade/PIM - v1/PIM.md",
-    "Resource/Life/Bernardo Gualberto Silva.md",
-    "Resource/Life/Life.md",
-    "Resource/Life/Carreira - Firmware Developer.md",
-    "Areas/Faculdade/Redes/Revisão - REDES.md",
-    "Areas/Faculdade/Redes/Redes.md",
-    "Areas/Faculdade/Redes/Aula introdutória.md",
-    "Areas/Faculdade/Engenharia de Software I/Revisao - Engenharia de software.md",
-    "Areas/Faculdade/Engenharia de Software I/UNIVESP - Engenharia de Software.md",
-    "Areas/Faculdade/Engenharia de Software I/Engenharia de Software.md",
-    "Areas/Faculdade/Engenharia de Software I/Conteúdo inicial.md",
-    "Areas/Faculdade/Engenharia de Software I/Conteúdo Do semestre.md",
-    "Areas/Faculdade/AVA/Matemática para computação.md",
-    "Template/Template - Aulas.md",
     "Active",
     "Dead Files",
-    "Resource",
+    "Source",
     "Areas",
-    "Active",
-    "Resource/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
-    "Resource/Images/Pasted image 20230927202843.png",
-    "Resource/Images/Pasted image 20230927201254.png",
-    "Resource/Images/Pasted image 20230927124851.png",
-    "Resource/Images/Pasted image 20230927124607.png",
-    "Resource/Images/Pasted image 20230927124231.png",
-    "Areas/Curso/Maratona Injeção",
-    "Areas/Curso/Car Learning",
-    "Areas/Curso/C codecademy",
-    "Resource/Livro - Aprendizado",
-    "Areas/Faculdade/PIM - v1/fluxo_grama.png",
-    "Resource/Images/NetworkTopologies.png",
-    "Resource/Images/Pasted image 20230918223318.png",
-    "Resource/Images/Pasted image 20230919231600.png"
+    "Source/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
+    "Source/Images/Pasted image 20230927202843.png",
+    "Source/Images/Pasted image 20230927201254.png",
+    "Source/Images/Pasted image 20230927124851.png",
+    "Source/Images/Pasted image 20230927124607.png",
+    "Source/Images/Pasted image 20230927124231.png",
+    "Areas/Estudos/Faculdade/PIM - v1/fluxo_grama.png",
+    "Source/Images/NetworkTopologies.png",
+    "Source/Images/Pasted image 20230918223318.png",
+    "Source/Images/Pasted image 20230919231600.png"
   ]
 }

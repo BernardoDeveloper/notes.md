@@ -1,6 +1,3 @@
-Notes:
-- [[CODE - Second Brain]]
-
 Source: Glauco - UNIP
 Project: #project/faculdade 
 Areas: #areas/network 

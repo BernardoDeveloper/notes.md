@@ -1,3 +1,10 @@
+Source: Tiago Forte
+Project: #project/book
+Areas: #areas/studies 
+Related: [[Life]]
+
+---
+
 ## C - Captura
 Capturar os seus conhecimentos, pensamentos, ideias;
 Capturar somente o essencial;

@@ -1,5 +1,7 @@
-Data: 2023-09-26
-#car
+Source: YouTube Videos
+Project: #project/studies 
+Areas: #areas/microcontroller 
+Related: [[C - Notes]]
 
 ---
 
