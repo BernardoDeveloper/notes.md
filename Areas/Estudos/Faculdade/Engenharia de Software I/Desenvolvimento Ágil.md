@@ -22,3 +22,8 @@ Para ser possível a implementação de uma metologia ágil precisamos de um pro
 
 **Objetivos:**
 Não faz sentido ter que esperar para criar as funcionalidades. *Inovação contínua:* associada a um ambiente, os produtos se *adaptam*, as entregas são reduzidas, no processo e pessoas tem capacidade de *adaptação*, ter os resultados *confiáveis*.
+
+> Rapidez != agilidade
+
+steak holder = quem está envolvido diretamente/indiretamente em um projeto de desenvolvimento.
+

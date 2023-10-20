@@ -6,28 +6,28 @@ Engenheiro de Software apaixonado por criar aplicações de alta qualidade e per
 ## Experiência Profissional
 ### Redeservice | São Paulo, São Paulo | 05/2023 - presente
 - **Cargo**: [Analista]
-- Responsabilidades: Realizar manutenção e monitoramento e servidores Linux e Windows, fazer automações com Python e Bash e desenvolvimento de PABX com Asterisk.  
+- Responsabilidades: Realizar manutenção e monitoramento de servidores Linux e Windows, fazer automações com Python, Bash Script e desenvolvimento de PABX com Asterisk.  
 - Tecnologias:  
 	- CentOS  
 	- Windows Server  
 	- Python  
-	- Bash  
+	- Bash Script  
 	- Git  
 	- Asterisk
 
 ### Global Vant | Home Office, Mato Grosso | 05/2021 - 03/2022
-- **Cargo**: [Jovem Aprendiz]
+- **Cargo**: [Desenvolvedor]
 - Responsabilidades: Desenvolver, criar e fazer manutenções em aplicações web.  
 - Tecnologias:  
-	-  React.JS  
+	- React.JS  
 	- Tailwind  
 	- VueJS  
-	- NodeJS  
-	- JavaScript | TypeScript  
+	- Node.JS  
+	- JavaScript & TypeScript  
 	- PostgreSQL
 
 ### AutomatSmart | São Caetano do Sul, São Paulo | 09/2020 - 03/2021
-- **Cargo**: [Jovem Aprendiz]
+- **Cargo**: [Desenvolvedor]
 - Responsabilidades: Criar e fazer manutenções em serviços oferecidos pela empresa.
 - Tecnologias:  
 	-  C#
@@ -48,12 +48,13 @@ Engenheiro de Software apaixonado por criar aplicações de alta qualidade e per
 - Python
 - Git
 - SQL
+- Catia
 
 ## Certificações
 - Learn C | Codecademy | 10/2023
-- BASH script | NetworkChuck | 06/2023
+- BASH Script | NetworkChuck | 06/2023
 - Curso C# completo e OOP | Udemy | 05/2023
-- Api com C# e .Net Core | Udemy | 08/2022
+- API com C# e .Net Core | Udemy | 08/2022
 - Learn Go | Codecademy | 08/2021
 - Linux | Curso em Vídeo | 07/2021
 
@@ -62,4 +63,4 @@ Engenheiro de Software apaixonado por criar aplicações de alta qualidade e per
 - **English**: Intermediate
 
 ## Interesses e Atividades
-- Atualmente estou aprendendo a desenvolver para sistemas embarcados, com Arduino e aprimorando os meus conhecimentos em C. Profissionalmente quero me tornar um desenvolvedor de firmware direcionado ao mundo automobilístico.
+- Atualmente estou aprendendo a desenvolver para sistemas embarcados, com Arduino e Microcontroladores PIC aprimorando os meus conhecimentos em C. Profissionalmente quero me tornar um desenvolvedor de firmware direcionado ao mundo automobilístico.

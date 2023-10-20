@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md",
-                "mode": "preview",
+                "file": "Source/Life/Bernardo Gualberto Silva.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md",
+                "file": "Source/Life/Bernardo Gualberto Silva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md",
+                "file": "Source/Life/Bernardo Gualberto Silva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md"
+                "file": "Source/Life/Bernardo Gualberto Silva.md"
               }
             }
           },
@@ -159,10 +159,23 @@
   },
   "active": "2ffaba9f43ff6045",
   "lastOpenFiles": [
+    "Areas/Estudos/Faculdade/Redes/Como funciona a ferramenta.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 4 Sessão & 5 Apresentação.md",
+    "Source/Life/Bernardo Gualberto Silva.md",
+    "Areas/Life/filme.md",
+    "Areas/Life/Jobs.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 3 Rede.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/Desenvolvimento Ágil.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/Engenharia de Software.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/Conteúdo Do semestre.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/Conteúdo inicial.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/Revisao - Engenharia de software.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/UNIVESP - Engenharia de Software.md",
+    "Areas/Estudos/Faculdade/Provas.md",
+    "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md",
     "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md",
     "Areas/Estudos/Faculdade/Faculdade - ADS.md",
     "Areas/Estudos/Livro - Aprendizado/Livro - Aprendizado.md",
-    "Areas/Life/filme.md",
     "Areas/Estudos/Curso/Car Learning/Explain.md",
     "Areas/Estudos/Faculdade/Redes/OSI - 2 Enlace.md",
     "test.md",
@@ -172,24 +185,11 @@
     "Areas/Estudos/Livro - Aprendizado/Como aprender.md",
     "Areas/Life/Segundo Cérebro.md",
     "Areas/Estudos/Faculdade/AVA/Matemática para computação.md",
-    "Areas/Estudos/Faculdade/PIM - v1/PIM - Engenharia de Software.md",
-    "Areas/Estudos/Faculdade/PIM - v1/PIM.md",
-    "Areas/Estudos/Faculdade/Provas.md",
-    "Areas/Estudos/Livro - Aprendizado/Nação dopamina.md",
-    "Areas/Estudos/Livro - Aprendizado/Logaritmo.md",
-    "Areas/Estudos/Livro - Aprendizado/Hábitos Atômicos.md",
-    "Areas/Estudos/Livro - Aprendizado/A busca disciplinada por menos.md",
-    "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md",
-    "Areas/Estudos/Faculdade/Redes/OSI - 4 Sessão & 5 Apresentação.md",
     "Areas/Estudos/Sistemas Embarcados",
     "Areas/Untitled",
     "Areas/Projetos",
     "Areas",
     "Areas/Estudos",
-    "Template/Default - CODE.md",
-    "Areas/Life/Jobs.md",
-    "Areas/Life/AMBEV.md",
-    "Areas/Life/VOU VENCER.md",
     "Areas/Life",
     "Active",
     "Dead Files",
