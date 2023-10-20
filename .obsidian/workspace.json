@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6cce2b4612c917d5",
+        "id": "537f4634ee297538",
         "type": "tabs",
         "children": [
           {
-            "id": "2ffaba9f43ff6045",
+            "id": "b8daa736d3ccc5ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,11 +149,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2ffaba9f43ff6045",
+  "active": "b8daa736d3ccc5ab",
   "lastOpenFiles": [
+    "Source/Life/Bernardo Gualberto Silva.md",
     "Areas/Estudos/Faculdade/Redes/Como funciona a ferramenta.md",
     "Areas/Estudos/Faculdade/Redes/OSI - 4 Sessão & 5 Apresentação.md",
-    "Source/Life/Bernardo Gualberto Silva.md",
     "Areas/Life/filme.md",
     "Areas/Life/Jobs.md",
     "Areas/Estudos/Faculdade/Redes/OSI - 3 Rede.md",
