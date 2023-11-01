@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "537f4634ee297538",
+        "id": "f67d654b767b53fe",
         "type": "tabs",
         "children": [
           {
-            "id": "b8daa736d3ccc5ab",
+            "id": "801a4318266e43d9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "My Life.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "32f165ffba047e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md",
+                "file": "Areas/Estudos/Faculdade/Engenharia de Software I/Práticas de Engenharia de Software.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md",
+                "file": "Areas/Estudos/Faculdade/Engenharia de Software I/Práticas de Engenharia de Software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md",
+                "file": "Areas/Estudos/Faculdade/Engenharia de Software I/Práticas de Engenharia de Software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Source/Life/Bernardo Gualberto Silva.md"
+                "file": "Areas/Estudos/Faculdade/Engenharia de Software I/Práticas de Engenharia de Software.md"
               }
             }
           },
@@ -157,34 +172,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b8daa736d3ccc5ab",
+  "active": "32f165ffba047e50",
   "lastOpenFiles": [
-    "Areas/Estudos/Faculdade/Engenharia de Software I/Conteúdo inicial.md",
+    "My Life.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/Práticas de Engenharia de Software.md",
+    "Riquesa.md",
+    "Semana 3010 - 0311.md",
+    "Areas/Estudos/Faculdade/Redes/Camada OSI.md",
+    "Areas/Estudos/Faculdade/Provas.md",
+    "Areas/Estudos/Faculdade/Faculdade - ADS.md",
+    "Areas/Estudos/Faculdade/Redes/Revisão - REDES.md",
+    "Areas/Estudos/Faculdade/Redes/Redes.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 4 Sessão & 5 Apresentação.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 3 Rede.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 2 Enlace.md",
+    "Areas/Estudos/Faculdade/Redes/OSI - 1 Camada física.md",
+    "Areas/Estudos/Faculdade/Redes/Como funciona a ferramenta.md",
+    "Areas/Estudos/Faculdade/Redes/Aula introdutória.md",
     "Areas/Estudos/Faculdade/Engenharia de Software I/Revisao - Engenharia de software.md",
     "Areas/Estudos/Faculdade/Engenharia de Software I/Engenharia de Software.md",
     "Areas/Estudos/Faculdade/Engenharia de Software I/Desenvolvimento Ágil.md",
+    "Areas/Estudos/Faculdade/Engenharia de Software I/Conteúdo inicial.md",
     "Areas/Estudos/Faculdade/Engenharia de Software I/Conteúdo Do semestre.md",
+    "Source/Life/Bernardo Gualberto Silva.md",
+    "Source/Life/Carreira - Firmware Developer.md",
+    "Source/Life/Investimentos - Fundamentals.md",
+    "Source/Life/Life.md",
     "Areas/Estudos/Curso/Maratona Injeção/Acerto de Injeções Progamavéis.md",
     "Areas/Estudos/Curso/Car Learning/Explain.md",
-    "Areas/Estudos/Curso/C codecademy/C - Notes.md",
-    "Source/Life/Bernardo Gualberto Silva.md",
-    "Areas/Estudos/Faculdade/Redes/Como funciona a ferramenta.md",
-    "Areas/Estudos/Faculdade/Redes/OSI - 4 Sessão & 5 Apresentação.md",
-    "Areas/Life/filme.md",
-    "Areas/Life/Jobs.md",
-    "Areas/Estudos/Faculdade/Redes/OSI - 3 Rede.md",
-    "Areas/Estudos/Faculdade/Engenharia de Software I/UNIVESP - Engenharia de Software.md",
-    "Areas/Estudos/Faculdade/Provas.md",
-    "Areas/Estudos/Sistemas Embarcados/Microcontroladores.md",
-    "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md",
-    "Areas/Estudos/Faculdade/Faculdade - ADS.md",
-    "Areas/Estudos/Livro - Aprendizado/Livro - Aprendizado.md",
-    "Areas/Estudos/Faculdade/Redes/OSI - 2 Enlace.md",
-    "test.md",
-    "Areas/Estudos/Livro - Aprendizado/Disciplina.md",
-    "Areas/Estudos/Livro - Aprendizado/Entendendo Algoritimos.md",
-    "Areas/Estudos/Livro - Aprendizado/CODE - Second Brain.md",
-    "Areas/Estudos/Livro - Aprendizado/Como aprender.md",
     "Areas/Estudos/Sistemas Embarcados",
     "Areas/Untitled",
     "Areas/Projetos",
