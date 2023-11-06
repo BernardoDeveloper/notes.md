@@ -1,19 +1,19 @@
 Rua Serra Da Cantareira, 174 | São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva@gmail.com
 
 ## Resumo Profissional
-Engenheiro de Software apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Especialização em automação e gerenciamento de servidores Linux e Windows. Comprometido com aprendizado contínuo e aspirante a desenvolvedor de firmware na indústria automobilística.
+Engenheiro de Software apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Especialização em automação e gerenciamento de servidores Linux e Windows. Comprometido com aprendizado contínuo.
 
 ## Experiência Profissional
 ### Redeservice | São Paulo, São Paulo | 05/2023 - presente
-- **Cargo**: [Analista]
-- Responsabilidades: Realizar manutenção e monitoramento de servidores Linux e Windows, fazer automações com Python, Bash Script e desenvolvimento de PABX com Asterisk.  
+- **Cargo**: [Desenvolvedor]
+- Responsabilidades: Realizar a manutenção de funcionalidades no sistema de CRM e Discador para sistemas de telefonia utilizando VB.Net, C# e SQL.
 - Tecnologias:  
-	- CentOS  
-	- Windows Server  
-	- Python  
-	- Bash Script  
-	- Git  
-	- Asterisk
+	+ C#  
+	+ Visual Basic  
+	+ SQL Server  
+	+ Linux  
+	+ Bash  
+	+ Git
 
 ### Global Vant | Home Office, Mato Grosso | 05/2021 - 03/2022
 - **Cargo**: [Desenvolvedor]
@@ -51,6 +51,7 @@ Engenheiro de Software apaixonado por criar aplicações de alta qualidade e per
 - Catia
 
 ## Certificações
+- CS50’s Introduction to Computer Science | Harvard | 11/2023
 - Learn C | Codecademy | 10/2023
 - BASH Script | NetworkChuck | 06/2023
 - Curso C# completo e OOP | Udemy | 05/2023
@@ -61,6 +62,3 @@ Engenheiro de Software apaixonado por criar aplicações de alta qualidade e per
 ## Idiomas
 - **Português**: Nativo/Fluente
 - **English**: Intermediate
-
-## Interesses e Atividades
-- Atualmente estou aprendendo a desenvolver para sistemas embarcados, com Arduino e Microcontroladores PIC aprimorando os meus conhecimentos em C. Profissionalmente quero me tornar um desenvolvedor de firmware direcionado ao mundo automobilístico.

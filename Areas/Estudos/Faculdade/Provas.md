@@ -13,4 +13,4 @@
 | --- | --- | --- |
 | Redes | 8.5 | - |
 | Engenharia de Software | 7.0 | - |
-| Programação | - | - |
+| Programação | 9.0 | - |

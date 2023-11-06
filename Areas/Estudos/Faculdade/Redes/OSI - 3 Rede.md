@@ -1,10 +1,7 @@
-Notes:
-- [[Camada OSI]]
-
 Source: Glauco - UNIP
 Project: #project/faculdade 
 Areas: #areas/network 
-Related: [[Redes]]
+Related: [[Camada OSI]]
 
 ---
 
