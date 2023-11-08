@@ -27,7 +27,7 @@ Traduz o que está na camada *sessão* para o *aplicativo*, um formato comum par
 ---
 
 #### Criptografia
-Lá trás não era utilizados sistemas de criptografia como o FTP posso utilizar um sniffer por exemplo como um Wireshark eu consigo ver os dados e pacotes quee stão sendo transmitidos;
+Lá trás não era utilizados sistemas de criptografia como o FTP posso utilizar um sniffer por exemplo como um Wireshark eu consigo ver os dados e pacotes que estão sendo transmitidos em uma rede;
 Utilizamos um código pré-definido para poder embaralhar os dados, ela pode ser feita por hardware ou por software;
 Receptor e Emissor devem conhecer o algoritmo de criptografia;
 Código pode ser estabelecido por *Hardware* ou *Software*;

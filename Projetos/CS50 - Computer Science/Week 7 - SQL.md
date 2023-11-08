@@ -5,6 +5,10 @@ Related: [[Life]]
 
 ---
 
+[SQL Advanced course](https://youtube.com/playlist?list=PL1XF9qjV8kH12PTd1WfsKeUQU6e83ldfc&si=EXnSAb2FtMDwXfay)
+[Training teste](https://leetcode.com/tag/database/)
+[Hackerank](https://www.hackerrank.com/domains/sql)
+
 Todas, ou a grande maioria das aplicações tem relações com dados que podem ser gerenciados, para isso utilizamos o SQL um linguagem para manipulação de dados ler, escrever, realizar edição em um geral. Os banco de dados são como arquivos `.csv` eles se organizam por tabelas, colunas e linhas.
 
 **With:** No Visual Basic é muito utilizada para acessar os métodos ou propriedades de um objeto.
@@ -32,4 +36,4 @@ SQL faz basicamente **CRUD** (Criar, Ler, Atualizar e Deletar)
 
 
 
-**AVG, LOWER, MAX, MAX, MIN, UPPER, , LIKE, ORDER BY, LIMIT, **
+**AVG, LOWER, MAX, MAX, MIN, UPPER, LIKE, ORDER BY, LIMIT**

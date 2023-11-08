@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f67d654b767b53fe",
+        "id": "e054f95bac53b3a9",
         "type": "tabs",
         "children": [
           {
-            "id": "801a4318266e43d9",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "My Life.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "e814894aef37b3fd",
+            "id": "de72c031838eef7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Estudos/Curso/CS50 Computer Science/Week 7 - SQL.md",
+                "file": "Arquivos/PARA - Method.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/Estudos/Curso/CS50 Computer Science/Week 7 - SQL.md",
+                "file": "Arquivos/PARA - Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Estudos/Curso/CS50 Computer Science/Week 7 - SQL.md",
+                "file": "Arquivos/PARA - Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Estudos/Curso/CS50 Computer Science/Week 7 - SQL.md"
+                "file": "Arquivos/PARA - Method.md"
               }
             }
           },
@@ -172,53 +157,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e814894aef37b3fd",
+  "active": "de72c031838eef7d",
   "lastOpenFiles": [
+    "Arquivos/Resumo do vídeo - o meu segundo cérebro.md",
+    "Arquivos/obter foco.md",
+    "Arquivos/PARA - Method.md",
+    "Recursos",
+    "Areas/Finanças/FIIs.md",
     "My Life.md",
-    "Areas/Estudos/Curso/CS50 Computer Science/Week 7 - SQL.md",
-    "Areas/Estudos/Curso/CS50 Computer Science",
-    "Areas/Estudos/CS50 Computer Science/Week 7 - SQL.md",
-    "Areas/Estudos/CS50 Computer Science",
-    "Riquesa.md",
-    "Semana 3010 - 0311.md",
-    "Template/Default - CODE.md",
-    "Areas/Life/Life/Investimentos - Fundamentals.md",
-    "Areas/Life/Life/Life.md",
-    "Areas/Life/Life/Carreira - Firmware Developer.md",
-    "Areas/Life/Life/Bernardo Gualberto Silva.md",
-    "Areas/Life/VOU VENCER.md",
-    "Areas/Life/Segundo Cérebro.md",
-    "Areas/Life/Jobs.md",
-    "Areas/Life/filme.md",
-    "Areas/Life/AMBEV.md",
-    "Areas/Estudos/Livro - Aprendizado/Nação Dopamina.md",
+    "0 - Recursos para notas",
+    "Arquivos",
+    "Areas/Estudos/Curso/Car Learning/Microcontroladores.md",
+    "Areas/Estudos/Curso/Car Learning/Explain.md",
+    "Areas/Estudos/Curso/Car Learning/Acerto de Injeções Progamavéis.md",
+    "Areas/Livros/Nação Dopamina.md",
     "Areas/Estudos/Livro - Aprendizado/Livro - Aprendizado.md",
     "Areas/Estudos/Livro - Aprendizado/Disciplina.md",
     "Areas/Estudos/Livro - Aprendizado/CODE - Second Brain.md",
-    "Areas/Estudos/Curso/Car Learning/Acerto de Injeções Progamavéis.md",
-    "Areas/Estudos/Faculdade/Provas.md",
+    "Areas/Livros",
     "Areas/Estudos/Faculdade/Faculdade - ADS.md",
-    "Areas/Estudos/Faculdade/Redes/Revisão - REDES.md",
-    "Areas/Estudos/Faculdade/Redes/Redes.md",
-    "Areas/Estudos/Faculdade/Redes/OSI - 4 Sessão & 5 Apresentação.md",
-    "Areas/Estudos/Faculdade/Redes/OSI - 3 Rede.md",
-    "Source/Images/Pasted image 20231104080139.png",
-    "Source/Images/Pasted image 20231104075310.png",
-    "Areas/Estudos/Curso/Sistemas Embarcados",
-    "Areas/Untitled",
-    "Areas/Projetos",
-    "Areas",
-    "Areas/Estudos",
-    "Areas/Life",
-    "Active",
-    "Dead Files",
-    "Source/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
-    "Source/Images/Pasted image 20230927202843.png",
-    "Source/Images/Pasted image 20230927201254.png",
-    "Source/Images/Pasted image 20230927124851.png",
-    "Source/Images/Pasted image 20230927124607.png",
-    "Source/Images/Pasted image 20230927124231.png",
+    "Areas/Estudos/Faculdade/Provas.md",
+    "Projetos/Faculdade/Semestre 1",
+    "Projetos/Faculdade",
+    "Areas/Relacionamento",
+    "Areas/Saúde",
+    "Areas/Finanças",
+    "Projetos/CS50 - Computer Science",
+    "Projetos/Faculdade/Semestre 1/Redes/OSI - 3 Rede.md",
+    "Projetos/Faculdade/Semestre 1/Redes/OSI - 4 Sessão & 5 Apresentação.md",
+    "Projetos/Faculdade/Semestre 1/Redes/OSI - 2 Enlace.md",
+    "Projetos/CS50 - Computer Science/Week 7 - SQL.md",
+    "Areas/Estudos/CS50 Computer Science/Week 7 - SQL.md",
+    "Riquesa.md",
+    "Semana 3010 - 0311.md",
+    "0 - Recursos para notas/Template/Default - CODE.md",
+    "Areas/Life/Life/Investimentos - Fundamentals.md",
+    "Areas/Life/Life/Life.md",
+    "Areas/Life/Life/Carreira - Firmware Developer.md",
+    "0 - Recursos para notas/Images/Pasted image 20231104080139.png",
+    "0 - Recursos para notas/Images/Pasted image 20231104075310.png",
+    "0 - Recursos para notas/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
+    "0 - Recursos para notas/Images/Pasted image 20230927202843.png",
+    "0 - Recursos para notas/Images/Pasted image 20230927201254.png",
+    "0 - Recursos para notas/Images/Pasted image 20230927124851.png",
+    "0 - Recursos para notas/Images/Pasted image 20230927124607.png",
+    "0 - Recursos para notas/Images/Pasted image 20230927124231.png",
     "Areas/Estudos/Faculdade/PIM - v1/fluxo_grama.png",
-    "Source/Images/NetworkTopologies.png"
+    "0 - Recursos para notas/Images/NetworkTopologies.png"
   ]
 }
