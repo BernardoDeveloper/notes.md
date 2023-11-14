@@ -1,5 +1,6 @@
 {
   "accentColor": "",
   "theme": "obsidian",
-  "cssTheme": "Typomagical"
+  "cssTheme": "Typomagical",
+  "baseFontSize": 19
 }

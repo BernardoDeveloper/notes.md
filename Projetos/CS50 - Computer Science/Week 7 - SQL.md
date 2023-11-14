@@ -33,7 +33,5 @@ SQL faz basicamente **CRUD** (Criar, Ler, Atualizar e Deletar)
 **ORDER BY:** Forma de ordernar os dados
 **LIMIT:** Limita a quantidade de linhas que irá retornar
 **GROUP BY:** Juntar os valores de uma coluna com a outra, por exemplo agruapr nome, e o count de nome. `GROUP BY column_name`
+**FILTER:** AVG, LOWER, MAX, MIN, UPPER, LIKE
 
-
-
-**AVG, LOWER, MAX, MAX, MIN, UPPER, LIKE, ORDER BY, LIMIT**
