@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d641bcc8613ed305","x":300,"y":-30,"width":250,"height":60,"color":"1","type":"text","text":"Listagem dos temas"},
+		{"id":"03d0e3279e6ed045","x":300,"y":120,"width":250,"height":110,"color":"5","type":"text","text":"\\> nota\n\\< que a nota anterior\n\\< que a nota anterior"},
+		{"id":"9deaa327057dc870","x":700,"y":60,"width":250,"height":115,"color":"3","type":"text","text":"Criar um array, e popular ele com os dados do arquivo"},
+		{"id":"dfe0df8bbb2381ce","x":700,"y":242,"width":250,"height":78,"color":"3","type":"text","text":"Organizar a ordem com bubble sort"},
+		{"id":"d6f82fb9d195d30f","x":-40,"y":-35,"width":250,"height":70,"color":"4","type":"text","text":"Temas.csv\nid;nome;text;nota"}
+	],
+	"edges":[
+		{"id":"2361be7adb398cca","fromNode":"d641bcc8613ed305","fromSide":"left","toNode":"d6f82fb9d195d30f","toSide":"right"},
+		{"id":"7f1afeca3d2c4a67","fromNode":"d641bcc8613ed305","fromSide":"bottom","toNode":"03d0e3279e6ed045","toSide":"top"},
+		{"id":"aee57ee0011cc33b","fromNode":"9deaa327057dc870","fromSide":"left","toNode":"03d0e3279e6ed045","toSide":"right"},
+		{"id":"152cfad614a6382a","fromNode":"9deaa327057dc870","fromSide":"bottom","toNode":"dfe0df8bbb2381ce","toSide":"top"}
+	]
+}

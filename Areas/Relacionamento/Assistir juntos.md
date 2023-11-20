@@ -1,1 +1,1 @@
-- [ ] Anime - Spy x family
+- [x] Anime - Spy x family
