@@ -1,3 +1,5 @@
+#areas 
+
 Preciso organizar me em relação a minha vida espiritual, separando e dividindo entre congregar na minha comum e na da minha namorada.
 
 - Aos sábados sempre congregar no Jardim Thelma.

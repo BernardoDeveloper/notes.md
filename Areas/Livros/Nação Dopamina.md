@@ -1,7 +1,6 @@
 
 Source: Lembke, Anna - Nação Dopamina
-Project: #project/project_name
-Areas: #areas/area_name
+Areas: #areas
 Related: [[Life]]
 
 ---

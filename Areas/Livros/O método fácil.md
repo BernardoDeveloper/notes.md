@@ -1,3 +1,5 @@
+#areas 
+
 A png afeta nosso cérebro de diversas maneiras, e também nossas vidas como trabalho e relacionamentos.
 Um ponto muito importante de ter em mente é que a png não alivia o estresse e quem o causa, pois ela eleva muito os níveis de dopamina no nosso cérebro deixando a nossa base muito elevada.
 Deixando a png eu não estou perdendo ABSOLUTAMENTE NADA!
