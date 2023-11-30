@@ -22,23 +22,16 @@
       }
     },
     {
-      "query": "tag:#resource",
+      "query": "tag:#livro  ",
       "color": {
         "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:archives",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
+        "rgb": 6084269
       }
     }
   ],
-  "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": 0,
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
@@ -46,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7850061692181027,
+  "scale": 0.40933949962514876,
   "close": true
 }

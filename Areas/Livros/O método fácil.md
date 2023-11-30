@@ -21,4 +21,3 @@ Todo o tempo gasto com a png está sendo inútil, está perdendo toda a sua viri
 Você não quer utilizar mas *faz lavagem celebral em si mesmo* para que continue viciado, mantendo a cabeça na areia.
 
 A png é uma cadeia, que se não for quebrada estara preso a ela a vida inteira, perdendo a virilidade, perdendo uma vida saudável e feliz. Podendo desfrutar de todos os momentos da vida e dando maiores alegria a quem está do seu lado.
-

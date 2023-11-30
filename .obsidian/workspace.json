@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "966f04fc47795f86",
+        "id": "a8fb3deb0348fe8c",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc320d83207a7b7",
+            "id": "74cbcb4df40ccf76",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/Organização Pessoal/Estágio XP Inc..md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9f8e1f8f1655573e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recursos/Respeito.md",
+                "file": "Areas/Livros/Criando um segundo cérebro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursos/Respeito.md",
+                "file": "Areas/Livros/Criando um segundo cérebro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursos/Respeito.md",
+                "file": "Areas/Livros/Criando um segundo cérebro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursos/Respeito.md"
+                "file": "Areas/Livros/Criando um segundo cérebro.md"
               }
             }
           },
@@ -157,34 +172,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8bc320d83207a7b7",
+  "active": "9f8e1f8f1655573e",
   "lastOpenFiles": [
+    "Areas/Livros/O método fácil.md",
+    "Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
+    "Projetos/Nexo/Projeto.md",
+    "Projetos/Nexo/Serviço final.md",
+    "Arquivos/Resumo do vídeo - o meu segundo cérebro.md",
+    "Arquivos/PARA - Method.md",
     "Recursos/Respeito.md",
+    "Projetos/Nexo/Core - Acesso do Administrador.md",
+    "Projetos/Portal de Vendas/Reunião 28-11 (apresentação do sistema).md",
+    "Projetos/Nexo/Core - Acesso do usuário.md",
+    "Areas/Livros/Criando um segundo cérebro.md",
+    "Areas/Organização Pessoal/Estágio XP Inc..md",
+    "Areas/Livros/Nação Dopamina.md",
+    "Projetos/Nexo/Começar a empreender.md",
+    "Projetos/Portal de Vendas",
+    "Areas/Organização Pessoal/Organização.md",
+    "Areas/Organização Pessoal/ensino músico.md",
+    "Areas/Finanças/Caixinhas do nubank.md",
+    "Areas/Organização Pessoal/sono - produtividade - alimentação.md",
+    "Recursos/Bernardo Gualberto Silva.md",
     "Areas/Organização Pessoal/Roupas.md",
     "Arquivos/obter foco.md",
-    "Arquivos/Resumo do vídeo - o meu segundo cérebro.md",
     "Areas/Saúde/Treino.md",
     "Areas/Saúde/Untitled.md",
-    "Projetos/Nexo/Projeto.md",
     "Projetos/Nexo/Sistema.md",
     "Projetos/CS50 - Computer Science/Week 7 - SQL.md",
     "Projetos/Faculdade/Semestre 1/Redes/Aula introdutória.md",
-    "Projetos/PIM/Museu/Listagem dos Temas.md",
-    "Recursos/Bernardo Gualberto Silva.md",
-    "Areas/Relacionamento/Presentes.md",
-    "Areas/Relacionamento/Assistir juntos.md",
-    "Areas/Organização Pessoal/Espiritual/20-11-23 Piraporinha.md",
-    "Areas/Organização Pessoal/Reflexão familiar.md",
-    "Areas/Organização Pessoal/Organização Pessoal.md",
-    "Areas/Organização Pessoal/Igreja.md",
-    "Areas/Organização Pessoal/Familia, Amigos.md",
-    "Areas/Organização Pessoal/ensino músico.md",
-    "Areas/Livros/Criando um segundo cérebro.md",
-    "Areas/Livros/Nação Dopamina.md",
-    "Areas/Livros/O método fácil.md",
-    "Areas/Finanças/Carteira de investimento.md",
-    "Areas/Finanças/Divisão do salário.md",
-    "Areas/Estudos/SQL/SQL - Anotações.md",
     "Areas/Organização Pessoal/Espiritual",
     "Projetos/Nexo",
     "Projetos/PIM/Museu/Listagem Dos Temas.canvas",
@@ -195,7 +211,6 @@
     "0 - Recursos para notas",
     "Arquivos",
     "Areas/Livros",
-    "Projetos/Faculdade/Semestre 1",
     "0 - Recursos para notas/Images/Pasted image 20231104080139.png",
     "0 - Recursos para notas/Images/Pasted image 20231104075310.png",
     "0 - Recursos para notas/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
