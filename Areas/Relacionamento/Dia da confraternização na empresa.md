@@ -1,3 +1,5 @@
+Dia 08/12/23
+
 1- Como seria no lugar dela:
 Eu não me sentiria com um peso ou viria maldade nem sentiria cíumes, pois sou um bom namorado sempre procuro dar o máximo de atenção, carinho e amor possível. Sempre procuro melhorar os pontos que estou errando, e também se eu não fosse um bom namorada você falaria comigo o que preciso melhorar.
 

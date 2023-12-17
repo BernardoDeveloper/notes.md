@@ -11,12 +11,8 @@
             "id": "cb66515e992aba5f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5110321044922
+    "width": 345.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Projetos/Nexo/Input - Inserção de um novo dispositivo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,14 +152,16 @@
   },
   "active": "cb66515e992aba5f",
   "lastOpenFiles": [
+    "Areas/Relacionamento/Descrição sobre o atual estado do nosso relacionamento.md",
+    "Areas/Relacionamento/Presentes.md",
+    "Areas/Relacionamento/Dia da confraternização na empresa.md",
+    "Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
     "Projetos/Nexo/Core - Acesso do usuário.md",
     "Projetos/Nexo/Core - Acesso do Administrador.md",
     "Projetos/Nexo/Começar a empreender.md",
-    "Areas/Relacionamento/08-12-23 Dia da confraternização na empresa.md",
     "Projetos/Nexo/Sistema.md",
     "Areas/Finanças/Mentalidade financeira.md",
     "Areas/Organização Pessoal/Estágio XP Inc..md",
-    "Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
     "Arquivos/Dessistir.md",
     "Arquivos/obter foco.md",
     "Arquivos/PARA - Method.md",
@@ -184,8 +179,6 @@
     "Areas/Finanças/Caixinhas do nubank.md",
     "Areas/Organização Pessoal/sono - produtividade - alimentação.md",
     "Recursos/Bernardo Gualberto Silva.md",
-    "Areas/Organização Pessoal/Roupas.md",
-    "Areas/Saúde/Treino.md",
     "Areas/Organização Pessoal/Espiritual",
     "Projetos/Nexo",
     "Projetos/PIM/Museu/Listagem Dos Temas.canvas",

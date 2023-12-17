@@ -6,5 +6,6 @@
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "none",
   "sanctum@@color-accent-rgb-d": "165, 119, 218",
   "sanctum@@color-accent-rgb-l": "165, 119, 218",
-  "sanctum@@checkbox-color-rgb": "165, 119, 218"
+  "sanctum@@checkbox-color-rgb": "165, 119, 218",
+  "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black"
 }
