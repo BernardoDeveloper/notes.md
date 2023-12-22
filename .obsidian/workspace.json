@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f5acc785594dbc00",
+        "id": "bd04059cb66c2d8a",
         "type": "tabs",
         "children": [
           {
-            "id": "cb66515e992aba5f",
+            "id": "e10fe44cd9acd57c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projetos/Fluig Academy/CRM verso.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#areas",
+                "query": "cérebro",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 345.5110321044922,
-    "collapsed": true
+    "width": 345.5110321044922
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projetos/Fluig Academy/CRM verso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projetos/Fluig Academy/CRM verso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projetos/Fluig Academy/CRM verso.md"
+              }
             }
           },
           {
@@ -150,35 +157,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cb66515e992aba5f",
+  "active": "e10fe44cd9acd57c",
   "lastOpenFiles": [
-    "Areas/Relacionamento/Descrição sobre o atual estado do nosso relacionamento.md",
-    "Areas/Relacionamento/Presentes.md",
-    "Areas/Relacionamento/Dia da confraternização na empresa.md",
+    "Projetos/Fluig Academy/Datasets.md",
+    "Projetos/Fluig Academy/CRM verso.md",
+    "Projetos/Fluig Academy/Conceitos base sobre Protheus e TOTVS Fluig.md",
+    "Projetos/Fluig Academy/ADVPL.md",
     "Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
+    "Arquivos/Resumo do vídeo - o meu segundo cérebro.md",
+    "Areas/Livros/O método fácil.md",
+    "Areas/Livros/Nação Dopamina.md",
+    "Areas/Finanças/Mentalidade financeira.md",
     "Projetos/Nexo/Core - Acesso do usuário.md",
     "Projetos/Nexo/Core - Acesso do Administrador.md",
     "Projetos/Nexo/Começar a empreender.md",
-    "Projetos/Nexo/Sistema.md",
-    "Areas/Finanças/Mentalidade financeira.md",
-    "Areas/Organização Pessoal/Estágio XP Inc..md",
+    "Projetos/Fluig Academy",
+    "Areas/Estudos/Untitled",
+    "Areas/Livros/A psicologia financeira.md",
+    "Areas/Relacionamento/Relacionamento.md",
+    "Areas/Relacionamento/Assistir juntos.md",
     "Arquivos/Dessistir.md",
+    "Areas/Relacionamento/Descrição sobre o atual estado do nosso relacionamento.md",
+    "Areas/Relacionamento/Presentes.md",
+    "Areas/Relacionamento/Dia da confraternização na empresa.md",
+    "Projetos/Nexo/Sistema.md",
+    "Areas/Organização Pessoal/Estágio XP Inc..md",
     "Arquivos/obter foco.md",
     "Arquivos/PARA - Method.md",
-    "Areas/Livros/O método fácil.md",
     "Areas/Livros/Criando um segundo cérebro.md",
-    "Areas/Livros/Nação Dopamina.md",
     "Projetos/Nexo/Projeto.md",
     "Projetos/Nexo/Serviço final.md",
-    "Arquivos/Resumo do vídeo - o meu segundo cérebro.md",
-    "Recursos/Respeito.md",
-    "Projetos/Portal de Vendas/Reunião 28-11 (apresentação do sistema).md",
     "Projetos/Portal de Vendas",
-    "Areas/Organização Pessoal/Organização.md",
-    "Areas/Organização Pessoal/ensino músico.md",
-    "Areas/Finanças/Caixinhas do nubank.md",
-    "Areas/Organização Pessoal/sono - produtividade - alimentação.md",
-    "Recursos/Bernardo Gualberto Silva.md",
     "Areas/Organização Pessoal/Espiritual",
     "Projetos/Nexo",
     "Projetos/PIM/Museu/Listagem Dos Temas.canvas",
@@ -187,8 +196,6 @@
     "Areas/Estudos",
     "Recursos",
     "0 - Recursos para notas",
-    "Arquivos",
-    "Areas/Livros",
     "0 - Recursos para notas/Images/Pasted image 20231104080139.png",
     "0 - Recursos para notas/Images/Pasted image 20231104075310.png",
     "0 - Recursos para notas/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
