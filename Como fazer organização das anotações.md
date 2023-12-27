@@ -1,0 +1,1 @@
+Ao fazer uma anotação eu faço a seguinte pergunta "Em qual projeto isso será mais útil?", caso ela não seja útil para nada atualmente posso guarda-la para alguma **Area** da minha vida, ou em **Recursos** que é como uma *bilbioteca* com informações úteis para eu poder utilizar

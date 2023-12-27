@@ -1,0 +1,5 @@
+ccb em um salinha na praia.
+Atualmente no meu relacionamento eu tenho que reduzir as brincadeiras que eu faço pois sou muito infantil em muitas situações - acabei recebendo uma "bronca" da minha sogra, pelas brincadeiras em algumas vezes *inapropidas* - esse final de semana acabei errando nesse ponto pois eu fiz duas brincadeiras zuadas como ter levantado a minha namorada no colo e também de ter dito que a minha sogra viria junto de brinde no meu casamento.
+
+Outro ponto que está me incomodando é o bigode da minha namorada. Antes realmente o bigode ela era bem expressivo isso me incomodava muito, atualmente ela o fez *graças a Deus* mas não de uma forma tão detalhada.
+Ainda não sei se comento esse caso com ela, pensando agora acho que seria importante pois isso possa se tornar algo que desagaste o nosso relcionamento com o passar do tempo.

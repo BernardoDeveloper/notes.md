@@ -12,3 +12,5 @@ Muito utilizado para automatizar processos, integrar os processos de venda e ger
 *Soap UI* e *Postman* conseguir fazer as requisições sobre os serviços web do protheus.
 [[ADVPL]] é uma linguagem de programação que podemos fazer APIs que consomem bases de dados e também realizam automatizações do ERP Protheus e com ela retornar *métodos* que podem ser consumidos por *serviços* via Rest ou SOAP.
 No Fluig podemos consumir os <u>métodos</u> de uma API via *serviços*.
+
+[[Datasets]]
