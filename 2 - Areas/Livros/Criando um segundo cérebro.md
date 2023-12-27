@@ -21,3 +21,6 @@ Os nossos pensamentos ficam em uma revoada de passáros sem ter um lugar para po
 
 Um dos problemas do excesso de informação é a falta de atenção, pois recebemos tantas informações que não conseguimos dar atenção a nada.
 
+> Temos que tomar cuidado em não receber informações de mais, senão passaremos somente a **gerir** informações sem coloca-las em *prática* no mundo exterior.
+
+Também implementar o PARA nos arquivos digitais organizados.
