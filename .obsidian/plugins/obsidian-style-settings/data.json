@@ -8,5 +8,7 @@
   "sanctum@@color-accent-rgb-l": "165, 119, 218",
   "sanctum@@checkbox-color-rgb": "165, 119, 218",
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
-  "sanctum@@dark-mode-contrast-mode": "sanctum-black"
+  "sanctum@@dark-mode-contrast-mode": "sanctum-black",
+  "Appearance-light@@card-layout-open-light": false,
+  "Appearance-dark@@card-layout-open-dark": false
 }

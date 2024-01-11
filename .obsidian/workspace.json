@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "bd04059cb66c2d8a",
+        "id": "b8073e3c1348f548",
         "type": "tabs",
         "children": [
           {
-            "id": "24eb27bc342eb501",
+            "id": "5f58ce6c48918ca5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Areas/Livros/Criando um segundo cérebro.md",
+                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb20ef610b7ed95f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Projetos/TAG - Protheus/ADVPL.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cérebro",
+                "query": "angular",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 334.5110321044922
+    "width": 281.5
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -85,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Areas/Livros/Criando um segundo cérebro.md",
+                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Areas/Livros/Criando um segundo cérebro.md",
+                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Areas/Livros/Criando um segundo cérebro.md"
+                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md"
               }
             }
           },
@@ -159,54 +171,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24eb27bc342eb501",
+  "active": "5f58ce6c48918ca5",
   "lastOpenFiles": [
-    "2 - Areas/Livros/A psicologia financeira.md",
-    "2 - Areas/Livros/Criando um segundo cérebro.md",
-    "2 - Areas/Relacionamento/Próximo ao término.md",
-    "3 - Recursos/Regras estoicas.md",
-    "2 - Areas/Relacionamento/Assistir juntos.md",
-    "2 - Areas/Relacionamento/Relacionamento.md",
-    "2 - Areas/Relacionamento/Dia da confraternização na empresa.md",
-    "2 - Areas/Relacionamento/Descrição sobre o atual estado do nosso relacionamento.md",
-    "1 - Projetos/Fluig Academy/Datasets.md",
-    "1 - Projetos/Fluig Academy/Conceitos base sobre Protheus e TOTVS Fluig.md",
-    "3 - Recursos/Usar menos o celular.md",
-    "1 - Projetos/Fluig Academy/CRM verso.md",
-    "1 - Projetos/Fluig Academy/ADVPL.md",
-    "3 - Recursos/Respeito.md",
-    "3 - Recursos/Bernardo Gualberto Silva.md",
-    "2 - Areas/Relacionamento/Viagem para a praia no Natal de 2023.md",
-    "Arquivos/Untitled.md",
-    "3 - Recursos/Dessistir.md",
-    "Como fazer organização das anotações.md",
-    "4 - Arquivos",
-    "3 - Recursos",
-    "2 - Areas",
-    "1 - Projetos",
-    "3 - Recursos/PARA - Method.md",
-    "3 - Recursos/Do zero ao bilhão - Primo Rico e Guilherme Benchmol.md",
-    "Arquivos/CCB.md",
-    "1 - Projetos/Nexo/Input - Inserção de um novo dispositivo.md",
-    "3 - Recursos/Resumo do vídeo - o meu segundo cérebro.md",
-    "2 - Areas/Livros/O método fácil.md",
-    "2 - Areas/Livros/Nação Dopamina.md",
-    "1 - Projetos/Fluig Academy",
-    "Areas/Estudos/Untitled",
-    "1 - Projetos/Portal de Vendas",
-    "2 - Areas/Organização Pessoal/Espiritual",
-    "1 - Projetos/Nexo",
-    "1 - Projetos/PIM/Museu/Listagem Dos Temas.canvas",
-    "2 - Areas/Organização Pessoal",
-    "4 - Arquivos/Images/Pasted image 20231104080139.png",
-    "4 - Arquivos/Images/Pasted image 20231104075310.png",
-    "4 - Arquivos/Images/d63230_23446762e1e64e1491eeffa45a7b39d0~mv2.webp",
-    "4 - Arquivos/Images/Pasted image 20230927202843.png",
-    "4 - Arquivos/Images/Pasted image 20230927201254.png",
-    "4 - Arquivos/Images/Pasted image 20230927124851.png",
-    "4 - Arquivos/Images/Pasted image 20230927124607.png",
-    "4 - Arquivos/Images/Pasted image 20230927124231.png",
-    "Areas/Estudos/Faculdade/PIM - v1/fluxo_grama.png",
-    "4 - Arquivos/Images/NetworkTopologies.png"
+    "1 - Projetos/TAG - Portal de Vendas/Fazer a paginação das tabelas.md",
+    "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
+    "1 - Projetos/TAG - Protheus/Conceitos base sobre Protheus e TOTVS Fluig.md",
+    "1 - Projetos/TAG - Protheus/Datasets.md",
+    "1 - Projetos/TAG - Protheus/Dicionário de dados Protheus.md",
+    "1 - Projetos/TAG - Protheus/Protheus.md",
+    "1 - Projetos/TAG - Protheus/Protheus configurador.md",
+    "1 - Projetos/TAG - Protheus/APSDU.md",
+    "1 - Projetos/TAG - Protheus/ADVPL.md",
+    "1 - Projetos/Estudo de design/Tipografia.md",
+    "1 - Projetos/Estudo de design/Se tornar um designer.md",
+    "1 - Projetos/Freelancer/Aprender JavaScript e Angular.md",
+    "1 - Projetos/TAG - Protheus/Arquitetura Protheus.md",
+    "4 - Arquivos/Images/Pasted image 20240111110403.png",
+    "1 - Projetos/TAG - Protheus/Arquitetura Protheus.canvas",
+    "1 - Projetos/TAG - Cloud/CLOUD - Serviços exclusivos.md",
+    "1 - Projetos/TAG - Cloud",
+    "4 - Arquivos/Images/Pasted image 20240110160837.png",
+    "4 - Arquivos/Images/Pasted image 20240110154549.png",
+    "4 - Arquivos/Images/Pasted image 20240110141549.png",
+    "4 - Arquivos/Images/Pasted image 20240110130141.png",
+    "4 - Arquivos/Images/Pasted image 20240110133040.png",
+    "4 - Arquivos/Images/Pasted image 20240110130433.png",
+    "4 - Arquivos/Images/Pasted image 20240110095602.png",
+    "4 - Arquivos/Images/Pasted image 20240110101255.png",
+    "4 - Arquivos/Images/Pasted image 20240110100452.png",
+    "2 - Areas/Finanças/Declarar ativos.md",
+    "1 - Projetos/TAG - Site principal/Alterações realizadas no site da TAG Systems.md",
+    "1 - Projetos/TAG - Portal de Vendas/Alterações realizadas no site da TAG Systems.pdf",
+    "1 - Projetos/Estudo de design/UI e UX/Design.md",
+    "1 - Projetos/TAG - Site principal",
+    "1 - Projetos/TAG - Portal de Vendas/Desenvolvimento das telas.md",
+    "1 - Projetos/Estudo de design/UI e UX/Portifólio de referência.md",
+    "1 - Projetos/Nexo/Nome.md",
+    "1 - Projetos/Nexo/Ideias para o sistema.md",
+    "3 - Recursos/Mindset/Criando um segundo cérebro.md",
+    "1 - Projetos/Estudo de design/UI e UX",
+    "1 - Projetos/Estudo de design",
+    "4 - Arquivos/Relacionamento/Nação Dopamina.md",
+    "2 - Areas/Organização Pessoal/O método fácil.md",
+    "2 - Areas/Organização Pessoal/Igreja.md",
+    "2 - Areas/Organização Pessoal/Familia, Amigos.md",
+    "1 - Projetos/Freelancer",
+    "3 - Recursos/Profissional/Bernardo Gualberto Silva.pdf",
+    "2 - Areas/Finanças/Organização",
+    "1 - Projetos/Nexo/Agência de marketing",
+    "1 - Projetos/Nexo/Site principal",
+    "1 - Projetos/Faculdade/PIM/Museu/Listagem Dos Temas.canvas"
   ]
 }

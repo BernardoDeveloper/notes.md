@@ -27,3 +27,7 @@ nNota1 := 10
 nNota2 := 8.5
 ```
 
+### Definições do ADVPL, Protheus e Fluig
+PRW: advpl
+TLPP: advpl maior abordagem
+RPO: Repositórios

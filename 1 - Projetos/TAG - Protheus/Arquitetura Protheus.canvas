@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1a921a4d1ac7ed4c","x":40,"y":20,"width":250,"height":60,"color":"6","type":"text","text":"Servidor de banco de dados - SQL Server"},
+		{"id":"021b2250c93fe92a","x":-210,"y":-140,"width":250,"height":60,"color":"1","type":"text","text":"DBAcess - ODBC"},
+		{"id":"36a47ea980ad63a6","x":-460,"y":20,"width":250,"height":60,"color":"6","type":"text","text":"Servidor de Aplicação - TOTVS Protheus"},
+		{"id":"4dbe6a28a2c6aa54","x":-460,"y":-280,"width":250,"height":60,"color":"4","type":"text","text":"Application Server\nAppServer / Serviço"},
+		{"id":"ae5827796ad50879","x":-109,"y":-280,"width":250,"height":60,"color":"3","type":"text","text":"Usuário"}
+	],
+	"edges":[
+		{"id":"c6d351779b6fa8e2","fromNode":"1a921a4d1ac7ed4c","fromSide":"top","toNode":"021b2250c93fe92a","toSide":"right"},
+		{"id":"517ab6f61d3bf645","fromNode":"021b2250c93fe92a","fromSide":"left","toNode":"36a47ea980ad63a6","toSide":"top"},
+		{"id":"38ccfa0478e5bb4d","fromNode":"36a47ea980ad63a6","fromSide":"left","toNode":"4dbe6a28a2c6aa54","toSide":"left"},
+		{"id":"ba9cbe54a036cee3","fromNode":"4dbe6a28a2c6aa54","fromSide":"right","toNode":"ae5827796ad50879","toSide":"left"}
+	]
+}
