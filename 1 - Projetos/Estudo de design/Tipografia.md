@@ -29,4 +29,19 @@ Utilizar mais de uma família de fonte
 **Sem serifas:** forma geométrica, compor títulos, estética moderna.
 **Serifa grosaa:** Detalhes marcante sem suavizar os traços, utilizada como display.
 **Script:** Suaves, parecem feitas a mão, títulos e pequenos blocos de texto, serifada combina bem.
-**Blackletter:** 
+
+**Pangrama:** frase utilizada para mostrar uma fonte, por conter todos os caracteres nessa frase.
+
+> Para cada situação e caso de uso vou utilizar uma categoria de tipografia e uma família tipográfica diferente.
+
+Utilizamos fontes diferentes para criar a principal coisa na web, criar contraste.
+
+## Escolher uma tipografia
+**Funcional:** ser neutra foco em ser legivel, e que tenha bom contraste com bastante variação - Arial, Open Sans, Roboto, Source Sans, IBM Plex Sans, Lato;
+**Corpo de texto:** leiturabilidade, tem que ser familiar e precisamos de contraste - Arial, Roboto Slab, Open Sans, Alegreya;
+**Título:** Tem que combinar com o estilo do site, pode ser a mesma do corpo, precisa ter consistência para ornar com o site;
+
+Onde escolher fonte:
+- [Google Fonts](https://fonts.google.com)
+- [Adobe Fonts](https://fonts.adobe.com)
+- [Typewolf (inspiração)](https://www.typewolf.com)

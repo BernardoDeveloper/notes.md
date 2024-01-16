@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b8073e3c1348f548",
+        "id": "57ea427ba8392303",
         "type": "tabs",
         "children": [
           {
-            "id": "5f58ce6c48918ca5",
+            "id": "2d5ba5320109abc8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cb20ef610b7ed95f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Projetos/TAG - Protheus/ADVPL.md",
+                "file": "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "angular",
+                "query": "a psi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
+                "file": "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
+                "file": "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/TAG - Protheus/Aplicar Patch.md"
+                "file": "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md"
               }
             }
           },
@@ -171,55 +159,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5f58ce6c48918ca5",
+  "active": "2d5ba5320109abc8",
   "lastOpenFiles": [
-    "1 - Projetos/TAG - Portal de Vendas/Fazer a paginação das tabelas.md",
-    "1 - Projetos/TAG - Protheus/Aplicar Patch.md",
-    "1 - Projetos/TAG - Protheus/Conceitos base sobre Protheus e TOTVS Fluig.md",
-    "1 - Projetos/TAG - Protheus/Datasets.md",
-    "1 - Projetos/TAG - Protheus/Dicionário de dados Protheus.md",
-    "1 - Projetos/TAG - Protheus/Protheus.md",
-    "1 - Projetos/TAG - Protheus/Protheus configurador.md",
-    "1 - Projetos/TAG - Protheus/APSDU.md",
-    "1 - Projetos/TAG - Protheus/ADVPL.md",
+    "2 - Areas/TAG/TAG - Chamados/Problemas.md",
+    "2 - Areas/TAG/Almoço.md",
+    "4 - Arquivos/Images/Pasted image 20240116112304.png",
+    "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Criação do parâmetros.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Criação dos campos.md",
+    "4 - Arquivos/Images/Pasted image 20240116112312.png",
+    "4 - Arquivos/Images/Pasted image 20240116104105.png",
+    "4 - Arquivos/Images/Pasted image 20240116111902.png",
+    "4 - Arquivos/Images/Pasted image 20240116111849.png",
+    "4 - Arquivos/Images/Pasted image 20240116111731.png",
+    "4 - Arquivos/Images/Pasted image 20240116111725.png",
+    "4 - Arquivos/Images/Pasted image 20240116111515.png",
+    "4 - Arquivos/Images/Pasted image 20240116111504.png",
+    "4 - Arquivos/Images/Pasted image 20240116111329.png",
+    "2 - Areas/TAG/Acessos TCLOUD.md",
+    "2 - Areas/Estudos/Lista de livros.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião com o Percy no sábado de manhã 13-01-24.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião 28-11-23 (apresentação do sistema).md",
+    "1 - Projetos/Estudo de design/Identidade Visual.md",
     "1 - Projetos/Estudo de design/Tipografia.md",
-    "1 - Projetos/Estudo de design/Se tornar um designer.md",
-    "1 - Projetos/Freelancer/Aprender JavaScript e Angular.md",
-    "1 - Projetos/TAG - Protheus/Arquitetura Protheus.md",
-    "4 - Arquivos/Images/Pasted image 20240111110403.png",
-    "1 - Projetos/TAG - Protheus/Arquitetura Protheus.canvas",
-    "1 - Projetos/TAG - Cloud/CLOUD - Serviços exclusivos.md",
-    "1 - Projetos/TAG - Cloud",
-    "4 - Arquivos/Images/Pasted image 20240110160837.png",
-    "4 - Arquivos/Images/Pasted image 20240110154549.png",
-    "4 - Arquivos/Images/Pasted image 20240110141549.png",
-    "4 - Arquivos/Images/Pasted image 20240110130141.png",
-    "4 - Arquivos/Images/Pasted image 20240110133040.png",
-    "4 - Arquivos/Images/Pasted image 20240110130433.png",
-    "4 - Arquivos/Images/Pasted image 20240110095602.png",
-    "4 - Arquivos/Images/Pasted image 20240110101255.png",
-    "4 - Arquivos/Images/Pasted image 20240110100452.png",
-    "2 - Areas/Finanças/Declarar ativos.md",
-    "1 - Projetos/TAG - Site principal/Alterações realizadas no site da TAG Systems.md",
-    "1 - Projetos/TAG - Portal de Vendas/Alterações realizadas no site da TAG Systems.pdf",
+    "1 - Projetos/Estudo de design/Semana da Identidade visual/Untitled.md",
+    "1 - Projetos/Estudo de design/Semana da Identidade visual",
+    "2 - Areas/Finanças/Como posso fazer dinheiro.md",
+    "2 - Areas/Finanças/organização financeira.md",
+    "2 - Areas/Finanças/Mentalidade financeira.md",
+    "2 - Areas/Finanças/A psicologia financeira.md",
+    "2 - Areas/Finanças/Caixinhas do nubank.md",
     "1 - Projetos/Estudo de design/UI e UX/Design.md",
-    "1 - Projetos/TAG - Site principal",
-    "1 - Projetos/TAG - Portal de Vendas/Desenvolvimento das telas.md",
-    "1 - Projetos/Estudo de design/UI e UX/Portifólio de referência.md",
-    "1 - Projetos/Nexo/Nome.md",
-    "1 - Projetos/Nexo/Ideias para o sistema.md",
-    "3 - Recursos/Mindset/Criando um segundo cérebro.md",
+    "2 - Areas/TAG/TAG - Protheus/ADVPL.md",
+    "2 - Areas/TAG/TAG - Protheus/Aplicar Patch.md",
+    "2 - Areas/TAG/TAG - Protheus/Protheus.md",
+    "2 - Areas/TAG/TAG - Protheus/APSDU.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Desenvolvimento das telas.md",
+    "2 - Areas/TAG/TAG - Chamados/Sipratech - Geração automática do certificado.md",
+    "2 - Areas/TAG",
+    "2 - Areas/TAG/TAG - Chamados",
+    "2 - Areas/TAG/TAG - Protheus/Conceitos base sobre Protheus e TOTVS Fluig.md",
+    "1 - Projetos/Untitled",
+    "2 - Areas/TAG/TAG - Protheus/Arquitetura Protheus.canvas",
+    "2 - Areas/TAG/TAG - Cloud",
+    "1 - Projetos/TAG - Portal de Vendas/Alterações realizadas no site da TAG Systems.pdf",
+    "2 - Areas/TAG/TAG - Site principal",
     "1 - Projetos/Estudo de design/UI e UX",
     "1 - Projetos/Estudo de design",
-    "4 - Arquivos/Relacionamento/Nação Dopamina.md",
-    "2 - Areas/Organização Pessoal/O método fácil.md",
-    "2 - Areas/Organização Pessoal/Igreja.md",
-    "2 - Areas/Organização Pessoal/Familia, Amigos.md",
     "1 - Projetos/Freelancer",
-    "3 - Recursos/Profissional/Bernardo Gualberto Silva.pdf",
-    "2 - Areas/Finanças/Organização",
-    "1 - Projetos/Nexo/Agência de marketing",
-    "1 - Projetos/Nexo/Site principal",
     "1 - Projetos/Faculdade/PIM/Museu/Listagem Dos Temas.canvas"
   ]
 }

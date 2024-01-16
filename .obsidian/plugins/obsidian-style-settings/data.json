@@ -10,5 +10,13 @@
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
   "sanctum@@dark-mode-contrast-mode": "sanctum-black",
   "Appearance-light@@card-layout-open-light": false,
-  "Appearance-dark@@card-layout-open-dark": false
+  "Appearance-dark@@card-layout-open-dark": false,
+  "minimal-style@@callouts-style": "callouts-default",
+  "minimal-style@@window-title-off": false,
+  "minimal-advanced@@styled-scrollbars": false,
+  "minimal-advanced@@cursor": "default",
+  "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
+  "sanctum@@no-sanctum-icons": false,
+  "sanctum@@nav-folder-indicators": false,
+  "sanctum@@colorful-active-nav": false
 }

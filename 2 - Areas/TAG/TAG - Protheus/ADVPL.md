@@ -31,3 +31,7 @@ nNota2 := 8.5
 PRW: advpl
 TLPP: advpl maior abordagem
 RPO: Repositórios
+RDMAKE: conjunto de fontes
+ICMS: Imposto
+
+SF4: tabela de cadastro de TES
