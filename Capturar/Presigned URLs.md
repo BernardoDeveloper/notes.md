@@ -1,0 +1,1 @@
+Um conceito utilizado que é colocar um token direto em uma URL, mas ele expira de uma forma muito rápida coisa de 5-10min, do Back-end ele enviar para o Front-end uma URL assinada e com isso o Front-end poderá ter acesso ao serviço dessa URL, depois que ela é utilizada a URL expira.

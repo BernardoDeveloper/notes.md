@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"629d14dd8f32d557","x":-360,"y":-100,"width":250,"height":60,"color":"4","type":"text","text":"Relatórios do TomTicket"},
+		{"id":"e30363699b16fdad","x":-160,"y":0,"width":140,"height":50,"color":"2","type":"text","text":"Grafana"},
+		{"id":"f236dc17a3d76603","x":60,"y":-60,"width":142,"height":60,"color":"5","type":"text","text":"Dashboard"}
+	],
+	"edges":[
+		{"id":"840f11b885053798","fromNode":"629d14dd8f32d557","fromSide":"bottom","toNode":"e30363699b16fdad","toSide":"left","color":"#ffffff"},
+		{"id":"9481a9ee475e9b19","fromNode":"e30363699b16fdad","fromSide":"right","toNode":"f236dc17a3d76603","toSide":"left","color":"#ffffff"}
+	]
+}

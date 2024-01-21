@@ -19,3 +19,5 @@ Typewolf tipografia:
 - [Venda de desenhos](https://www.roastroyce.com/)
 
 - [Site de fotografia Tokyo - Retro/Futurista](https://prism-on.tokyo/shinjuku/)
+
+[Site bonito, ferramenta para dev fazer requisição http no terminal](https://httpie.io/)

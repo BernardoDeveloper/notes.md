@@ -1,4 +1,4 @@
-2- [x] Verificar como ela faz a nota usando a TES 80-20 na sipra
+- [x] Verificar como ela faz a nota usando a TES 80-20 na sipra
 
 ![[Pasted image 20240115100442.png]]
 

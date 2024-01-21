@@ -2,7 +2,10 @@ Seguindo ideias e e regras claras conseguimos montar uma boa tipografia.
 
 ### Escala
 1. Seis é um bom número;
-2. Contraste: definir uma escala que a diferença seja visível;
+2. Contraste: definir uma escala que a diferença seja visível - 14 e 18 (diferença: 28%) não usar 44 e 48 (diferença: 9%);
+3. Entre 6 a 12 variações suficiente para hierarquia;
+4. Legibilidade entre 14 e 28 para texto;
+5. [site com escala definida](https://m2.material.io/design/typography/the-type-system.html#type-scale)
 
 ### Altura de linha
 1.4x - 1.5x do tamnho do texto é o ideal, considerando fontes semelhante as Helvetica e Arial.
@@ -10,6 +13,7 @@ Unidade de medida **em** é basciamente o tamnho do texto então no css -> 1.4em
 
 ### Largura da linha
 13 palavras são o suficiente para compor uma linha de texto, sempre bom definir um *max-width*.
+
 
 ### Alinhamento
 esquerda = facilita leitura

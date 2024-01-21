@@ -1,0 +1,1 @@
+Precisamos criar aplicações stateles -> não podem guardar as informações em disco, para assim a aplicação poder escalar, deve ser possível apagar o servidor e subir ele em qualquer lugar sem problemas.
