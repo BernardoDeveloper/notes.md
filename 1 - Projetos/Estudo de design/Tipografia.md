@@ -49,3 +49,5 @@ Onde escolher fonte:
 - [Google Fonts](https://fonts.google.com)
 - [Adobe Fonts](https://fonts.adobe.com)
 - [Typewolf (inspiração)](https://www.typewolf.com)
+
+[[Tipografia na prática]]
