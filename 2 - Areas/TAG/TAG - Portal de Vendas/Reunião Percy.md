@@ -16,4 +16,3 @@ pedidos, ao selecionar o cliente
 - [ ] Filtros em produtos;
 - [ ] Titulos pendentes - finanças:
 	- [ ] Arrumar toda a tela;
-

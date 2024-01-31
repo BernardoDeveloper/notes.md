@@ -7,8 +7,8 @@ Gatilho: ele vai fazer uma automatização, uma função. Configurado no configu
 
 Verificar se o Alisson já fez um TES, caso não tenha feito fazer um d-para.
 
-536 -> 608: APLICACAO DE MATERIA PRIMA
-537 -> 609: COBRANCA DE MAO DE OBRA
+536 -> 608: APLICACAO DE MATERIA PRIMA -> 80%
+537 -> 609: COBRANCA DE MAO DE OBRA -> 20%
 
 C6_QTDVEN = quantidade
 C6_PRCVEN = preço unitário

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8db09ef81ef0500a",
+        "id": "5c842baae7f1272a",
         "type": "tabs",
         "children": [
           {
-            "id": "8098c8b2f22e0cd5",
+            "id": "b4ebf3e3dc3e7171",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md",
+                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "texto para",
+                "query": "609",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md",
+                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md",
+                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md"
+                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md"
               }
             }
           },
@@ -159,19 +159,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8098c8b2f22e0cd5",
+  "active": "b4ebf3e3dc3e7171",
   "lastOpenFiles": [
+    "2 - Areas/TAG/Almoço.md",
+    "2 - Areas/TAG/Novo Site.md",
+    "2 - Areas/TAG/Servidor para a aplicação.md",
+    "2 - Areas/TAG/Gerenciamento de Senhas.md",
+    "Pasted image 20240130094545.png",
+    "Pasted image 20240130094459.png",
+    "Pasted image 20240130093618.png",
+    "Pasted image 20240130093606.png",
+    "Pasted image 20240130093505.png",
+    "1 - Projetos/Blaze/Layout base.md",
+    "1 - Projetos/Blaze",
+    "2 - Areas/TAG/Reuniões/Reunião SEGURANÇA.md",
+    "2 - Areas/TAG/Reuniões/Organização de estudos WEB.md",
+    "2 - Areas/TAG/Reuniões/Conversar com o Thiago.md",
+    "3 - Recursos/Profissional/Conseguir trabalho.md",
+    "3 - Recursos/Profissional/Untitled.md",
+    "1 - Projetos/Code/Chat Online.md",
+    "1 - Projetos/Faculdade/Semestre 1/Redes/Camada OSI.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Trabalhando no sábado dia 27-01.md",
+    "2 - Areas/TAG/TAG - Chamados/Sipratech - Remoção de parâmetros para deletar uma Nota Fiscal.md",
+    "3 - Recursos/Profissional/O que estudar.md",
+    "2 - Areas/TAG/Treinamento/Protheus/Inicial conceitos.md",
+    "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md",
+    "2 - Areas/TAG/Treinamento/Protheus",
+    "2 - Areas/TAG/Treinamento",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md",
     "2 - Areas/TAG/TAG - Portal de Vendas/Criação do parâmetros.md",
-    "2 - Areas/Trabalho/O que estudar.md",
     "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
-    "2 - Areas/Trabalho/Conseguir trabalho.md",
     "2 - Areas/Trabalho",
     "1 - Projetos/Estudo de design/Cores.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md",
-    "2 - Areas/TAG/Almoço.md",
     "2 - Areas/TAG/GitHub - como usar.md",
     "2 - Areas/TAG/Iniciar os app.md",
-    "2 - Areas/TAG/Reuniões/Reunião sobre API e integração.md",
     "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Thiago.md",
     "4 - Arquivos/Images/Pasted image 20240124205431.png",
     "4 - Arquivos/Images/Pasted image 20240124203728.png",
@@ -180,35 +201,14 @@
     "4 - Arquivos/Images/Pasted image 20240124145908.png",
     "1 - Projetos/Estudo de design/Design.md",
     "1 - Projetos/Estudo de design/Resumo sobre a diretriz de contraste WCAG.md",
-    "2 - Areas/TAG/TAG - Chamados/Alíria Sipra - Ligação.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião 28-11-23 (apresentação do sistema).md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião com o Percy no sábado de manhã 13-01-24.md",
-    "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Desenvolvimento das telas.md",
-    "1 - Projetos/Estudo de design/Tipografia.md",
-    "4 - Arquivos/Images/Pasted image 20240122211923.png",
-    "4 - Arquivos/Images/Pasted image 20240122211836.png",
-    "1 - Projetos/Estudo de design/Referência, arquivos base/Tipografia na prática.md",
-    "4 - Arquivos/Template/Pasted image 20240122210445.png",
-    "1 - Projetos/Estudo de design/Identidade Visual.md",
-    "1 - Projetos/Estudo de design/Lista de estudo.md",
-    "1 - Projetos/Estudo de design/Conseguir trabalhos.md",
-    "2 - Areas/Saúde/Calistenia.md",
-    "2 - Areas/TAG/Apresentações/Apresentação sobre o Grafana para montar os Dashboard.md",
-    "1 - Projetos/Code/Chat Online.md",
-    "4 - Arquivos/Images/Pasted image 20240120110427.png",
     "1 - Projetos/Code",
     "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
     "2 - Areas/TAG/Apresentações",
     "2 - Areas/TAG/Reuniões",
     "2 - Areas/Conexão inexplicavél",
-    "4 - Arquivos/Images/Pasted image 20240118082033.png",
     "1 - Projetos/Estudo de design/Semana da Identidade visual",
     "2 - Areas/TAG",
-    "2 - Areas/TAG/TAG - Chamados",
     "2 - Areas/TAG/TAG - Protheus/Arquitetura Protheus.canvas",
-    "2 - Areas/TAG/TAG - Cloud",
-    "1 - Projetos/TAG - Portal de Vendas/Alterações realizadas no site da TAG Systems.pdf",
     "1 - Projetos/Faculdade/PIM/Museu/Listagem Dos Temas.canvas"
   ]
 }
