@@ -1,3 +1,8 @@
+Source: Vídeo no YouTube que não tenho o link
+Related: [[Criando um segundo cérebro]]
+
+---
+
 A importância de um segundo cérebro é muito grande nos dias atuais pela *obesidade de informações* pois assim conseguimos **organizar as informações**.
 Com um segundo cérebro eu fico livre e me sinto disposto para fazer as coisas que eu preciso fazer.
 Com a ajuda do computador, podemos organizar e separar os nosso pensamentos (esse computador irá filtrar o que precisamos fazer).

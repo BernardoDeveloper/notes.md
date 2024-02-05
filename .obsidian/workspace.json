@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5c842baae7f1272a",
+        "id": "de9e7747f045c633",
         "type": "tabs",
         "children": [
           {
-            "id": "b4ebf3e3dc3e7171",
+            "id": "19cb0b0c09bb5770",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md",
-                "mode": "source",
-                "source": false
+                "file": "1 - Projetos/Blaze/Git.canvas",
+                "viewState": {
+                  "x": 152.74695205469416,
+                  "y": -52.212427422999546,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -48,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "609",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md",
+                "file": "1 - Projetos/Blaze/Git.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md",
+                "file": "1 - Projetos/Blaze/Git.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md"
+                "file": "1 - Projetos/Blaze/Git.canvas"
               }
             }
           },
@@ -159,55 +162,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4ebf3e3dc3e7171",
+  "active": "19cb0b0c09bb5770",
   "lastOpenFiles": [
-    "2 - Areas/TAG/Almoço.md",
-    "2 - Areas/TAG/Novo Site.md",
-    "2 - Areas/TAG/Servidor para a aplicação.md",
-    "2 - Areas/TAG/Gerenciamento de Senhas.md",
-    "Pasted image 20240130094545.png",
-    "Pasted image 20240130094459.png",
-    "Pasted image 20240130093618.png",
-    "Pasted image 20240130093606.png",
-    "Pasted image 20240130093505.png",
-    "1 - Projetos/Blaze/Layout base.md",
-    "1 - Projetos/Blaze",
-    "2 - Areas/TAG/Reuniões/Reunião SEGURANÇA.md",
-    "2 - Areas/TAG/Reuniões/Organização de estudos WEB.md",
-    "2 - Areas/TAG/Reuniões/Conversar com o Thiago.md",
+    "1 - Projetos/Blaze/Git.canvas",
+    "Untitled.md",
     "3 - Recursos/Profissional/Conseguir trabalho.md",
-    "3 - Recursos/Profissional/Untitled.md",
-    "1 - Projetos/Code/Chat Online.md",
-    "1 - Projetos/Faculdade/Semestre 1/Redes/Camada OSI.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Trabalhando no sábado dia 27-01.md",
-    "2 - Areas/TAG/TAG - Chamados/Sipratech - Remoção de parâmetros para deletar uma Nota Fiscal.md",
+    "2 - Areas/TAG/Task.md",
+    "2 - Areas/TAG/Gerenciamento de Senhas.md",
+    "Capturar/Request in api.md",
+    "1 - Projetos/Blaze/Untitled",
+    "1 - Projetos/Blaze/Layout base.md",
+    "1 - Projetos/Blaze/Code Resources.md",
+    "Como fazer organização das anotações.md",
+    "2 - Areas/Saúde/Untitled.md",
+    "2 - Areas/Estudos/Lista de livros.md",
+    "2 - Areas/Estudos/SQL/SQL - Anotações.md",
+    "2 - Areas/Estudos/Um homem mais respeitado.md",
+    "2 - Areas/Espiritual/20-11-23 Piraporinha.md",
+    "2 - Areas/Conexão inexplicavél/Tudo no Notion compartilhado com o meu nenê.md",
+    "2 - Areas/Conexão inexplicavél/Viagens.md",
+    "3 - Recursos/Financeiro/Do zero ao bilhão - Primo Rico e Guilherme Benchmol.md",
+    "3 - Recursos/Financeiro/Financeiro.md",
     "3 - Recursos/Profissional/O que estudar.md",
-    "2 - Areas/TAG/Treinamento/Protheus/Inicial conceitos.md",
-    "2 - Areas/TAG/TAG - Chamados/Sipratech - Criação de TES.md",
+    "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
+    "3 - Recursos/Profissional/Profissional.md",
+    "3 - Recursos/Mindset/Usar menos o celular.md",
+    "3 - Recursos/Mindset/Resumo do vídeo - o meu segundo cérebro.md",
+    "3 - Recursos/Mindset/Respeito.md",
+    "3 - Recursos/Mindset/Regras estoicas.md",
+    "3 - Recursos/Mindset/PARA - Method.md",
+    "1 - Projetos/Wine",
+    "4 - Arquivos/Images/Pasted image 20240130093505.png",
+    "4 - Arquivos/Images/Pasted image 20240130094545.png",
+    "4 - Arquivos/Images/Pasted image 20240130094459.png",
+    "4 - Arquivos/Images/Pasted image 20240130093618.png",
+    "4 - Arquivos/Images/Pasted image 20240130093606.png",
+    "1 - Projetos/Blaze",
     "2 - Areas/TAG/Treinamento/Protheus",
     "2 - Areas/TAG/Treinamento",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Criação do parâmetros.md",
-    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
     "2 - Areas/Trabalho",
-    "1 - Projetos/Estudo de design/Cores.md",
-    "2 - Areas/TAG/GitHub - como usar.md",
-    "2 - Areas/TAG/Iniciar os app.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Thiago.md",
     "4 - Arquivos/Images/Pasted image 20240124205431.png",
     "4 - Arquivos/Images/Pasted image 20240124203728.png",
     "4 - Arquivos/Images/Pasted image 20240124204332.png",
     "4 - Arquivos/Images/Pasted image 20240124203521.png",
     "4 - Arquivos/Images/Pasted image 20240124145908.png",
-    "1 - Projetos/Estudo de design/Design.md",
-    "1 - Projetos/Estudo de design/Resumo sobre a diretriz de contraste WCAG.md",
     "1 - Projetos/Code",
     "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
     "2 - Areas/TAG/Apresentações",
     "2 - Areas/TAG/Reuniões",
     "2 - Areas/Conexão inexplicavél",
-    "1 - Projetos/Estudo de design/Semana da Identidade visual",
-    "2 - Areas/TAG",
     "2 - Areas/TAG/TAG - Protheus/Arquitetura Protheus.canvas",
     "1 - Projetos/Faculdade/PIM/Museu/Listagem Dos Temas.canvas"
   ]

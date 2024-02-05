@@ -12,3 +12,5 @@ Verificar se o Alisson já fez um TES, caso não tenha feito fazer um d-para.
 
 C6_QTDVEN = quantidade
 C6_PRCVEN = preço unitário
+
+inovar auto - não

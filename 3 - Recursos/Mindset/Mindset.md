@@ -1,0 +1,1 @@
+Notas relacionadas para ter uma mentalidade melhor, arquivo de base.

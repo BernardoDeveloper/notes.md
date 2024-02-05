@@ -1,3 +1,8 @@
+Source: YouTube Fe Alves [Como se tornar mais atraente](https://www.youtube.com/watch?v=FG2FYdtutwc)
+Related: [[Regras estoicas]]
+
+---
+
 #resources
 
 A base para qualquer tipo de confiança, criando um ambiente melhor ao meu redor.

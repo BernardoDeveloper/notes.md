@@ -1,4 +1,5 @@
-Relacionado a: [[obter foco]]
+Source: Não encontrei a referência
+Related: [[Mindset]]
 
 ---
 

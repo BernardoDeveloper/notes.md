@@ -1,3 +1,8 @@
+Source: Luana Carolina YouTube [Quebrar o vício no celular](https://www.youtube.com/watch?v=QNiHj-A4JyU)
+Related: [[Mindset]] & [[Sobre Dessistir]]
+
+---
+
 Ele mata o nosso tempo, por exemplo de manhã não comemos, não se arrumamos, não investimos em nossos sonhos.
 O usar o celular não é sobre lazer, não é entreterimento.
 Toda oportunidade de evitar o tédio, nos usamos o celular, ao invés de comtemplar o nada. Ficamos o tempo inteiro atrás de estimulos, perdemos a resistência ao tédio.

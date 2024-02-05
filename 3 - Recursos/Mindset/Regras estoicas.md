@@ -1,3 +1,8 @@
+Source: YouTube Fe Alves [Regras estoicas](https://www.youtube.com/watch?v=X2F-3ynDoow)
+Related: [[Mindset]]
+
+---
+
 Foco do estoico é o autocontrole.
 
 1. Focar no que eu tenho controle: um homem confiante consegue focar naquilo que ele tem controle, faz o que tem que fazer. E não se apegar nas coisas que eu não tenho controle. Não tentar controlar o que eu não tenho controle. *Controlar* meus pensamentos e atitudes.

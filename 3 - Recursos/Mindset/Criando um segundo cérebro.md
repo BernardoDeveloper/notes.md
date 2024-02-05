@@ -1,3 +1,10 @@
+Source: Livro Criando um segundo Cérebro - Tiago Forte
+Related: [[Mindset]]
+
+---
+
+Ponto principal: **APLICAR**
+
 #areas #livro
 
 > A mente serve para ter **ideias** e não para **armazenar** elas.

@@ -1,3 +1,8 @@
+Source: [Podcast do primo rico com o dono da XP Inc.](https://www.youtube.com/watch?v=XbbdVZFlK_o&t=0s)
+Related: [[Financeiro]]
+
+---
+
 Fracaso: é sobre o seu sucesso, ele não é o oposoto do sucesso, a forma que você interpreta-lo será como você irá obter seu sucesso.
 Conseguimos ver oportunidade na derreta.
 

@@ -1,3 +1,8 @@
+Source: Vídeo no YouTube do Tiago Forte sobre o [PARA Method](https://www.youtube.com/watch?v=T6Mfl1OywM8&t=0s)
+Related: [[Criando um segundo cérebro]]
+
+---
+
 O *PARA* é um **framework** criado para ajudar a organizar e estruturar as ideias e pensamentos. Ele é divido e organizado para que não precisamos armazenar todas as informações e sim separar e dividir as mesmas, separadas por:
 
 | Sigla | Definição |
