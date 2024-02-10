@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1- Portal de vendas]]
+
+---
+
 Para acessar o painel temos que passar a data no padrão `AAAAmmdd` nos dois primeiros campos.
 
 Ideias e inspirações de painel do Dribbble:

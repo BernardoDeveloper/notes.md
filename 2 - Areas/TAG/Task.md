@@ -1,1 +1,0 @@
-- [ ] Template em  wordpress com plataforma de estudos

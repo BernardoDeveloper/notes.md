@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Melhorias]]
+
+---
+
 **Segurança:**
 1. Precisamos definir um conjunto de aplicativos para utilizarmos, por exemplo para eu editar um arquivo do World (.docx) ou um arquivo do Excel (.xlsx) eu posso utilizar aplicativos gratuitos como o LibreOffice, mas também um aplicativo creckeado como o pacote Office - o que seria ruim em relação a imagem da empresa - uma solução é o pacote [GSUITE](https://workspace.google.com/intl/pt-BR/) do Google que temos um editor de arquivos para `.docx`, `.xlsx` entre outros e com a vantagem de um armazenamento Cloud para podermos ter todas as informações compartilhada entre os funcionários.
 2. Também é importante realizar o gerenciamento das senhas, para que todos os funcionários tenham acesso mas ao mesmo tempo sejam senhas seguras e o mais importante que sejam aramzenadas de forma criptografada temos o [Bitwarden](https://bitwarden.com/products/personal/)

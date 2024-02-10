@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 Instancias: posso ter appserver rest ou soap para subir uma nova instancia (webserver) do protheus.
 Wizard a forma de configurar o server por painel sem ser via `.ini` com isso será gerado uma página com o web service.
 

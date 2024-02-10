@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 *Dataset de integração:* Forma de manipular os dados no Fluig.
 painel de controle do Fluig > datasets.
 

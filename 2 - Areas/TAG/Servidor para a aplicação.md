@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Melhorias]]
+
+---
+
 Na amazon AWS EC2, com uma instância semelhante a da VPS da Hostgator, fica com o seguinte valor:
 
 ![[Pasted image 20240130093505.png]]

@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Melhorias]]
+
+---
+
 ## Introdução
 Administrar dados é organizar.
 Aqui a ideia é apresentar uma solução para um problema que encontramos.

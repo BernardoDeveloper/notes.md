@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Melhorias]]
+
+---
+
 Requisitos: ter o Git instalado no computador.
 
 ## Terminal:
@@ -51,3 +56,7 @@ Em seguida informe o que você alterou, e clique no botão azul.
 
 Na parte superior o botão será atualizado ficando como Push (enviar os arquivos) ao clicar as suas alterações estarão no repositório:
 ![[Pasted image 20240118082710.png]]
+
+
+
+### Conceitos base

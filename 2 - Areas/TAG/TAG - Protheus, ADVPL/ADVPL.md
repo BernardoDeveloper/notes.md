@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 Funções em *advpl*
 
 - Function: função da totvs - fontes padrão que a TOTVS criam
@@ -17,7 +22,7 @@ Uma variavél *pública* com o mesmo nome de uma *privada* a *privada* irá derr
 
 Syntaxe:
 
-```tlpp
+```prw
 // Instanciar: topologia nome as tipo (tipo opcional)
 Local nNota1 as Integer
 Local nNota2
@@ -26,6 +31,29 @@ Local nNota2
 nNota1 := 10
 nNota2 := 8.5
 ```
+
+#### Tipos de variaveis:
+
+```prw
+/**
+Numérico: 3 / 21.000 / 0.4 / 2000
+Boolean: .T. / .F.
+Caractere: "D" / "C"
+Data: DATE()
+Array: {"Val1", "Val2", "Val3"}
+Bloco: {||VALOR := 1,MsgAlert("Valor: " + cValToChar(valor))}
+*/
+```
+
+#### Funções para manipular array
+AADD() -> Inserir um item em um array
+AINS() -> Inserir um elemento em qualquer posição do array
+ACLONE() -> Copia um array para outro
+ADEL() -> Exclui um elemento do array, subistituindo seu valor por `null`
+ASIZE() -> Redefine a estrutura de array pre-existente
+LEN() -> tamanho do array
+
+Seguem o padrão de parâmetro -> (array_name, value)
 
 ### Definições do ADVPL, Protheus e Fluig
 PRW: advpl

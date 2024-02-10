@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 Foco do financeiro ele trata de saldos bancários, foco é gerenciar as contas a pagar e receber -> deixando o saldo gerenciavél
 
 Precisamos de um *banco* configurado pois ele será responsável por dar baixa no seu dinheiro a receber e ao pagar.

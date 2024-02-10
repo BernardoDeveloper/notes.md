@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Chamados da TAG Systems]]
+
+---
+
 **Sipra e Sipratech:** regime triutário diferente;
 
 O problema é o trabalho para gerar o certificado, e a ideia é automatizar o processo

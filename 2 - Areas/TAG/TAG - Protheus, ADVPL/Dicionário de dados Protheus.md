@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 São as SX uma família de tabelas que temos no Protheus
 
 | Nome da tabela | Utilidade |  |

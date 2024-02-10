@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Ecosistema da TAG, Protheus]]
+
+---
+
 **ST_FILTFIL**
 ![[Pasted image 20240116105754.png]]
 ![[Pasted image 20240116101422.png]]

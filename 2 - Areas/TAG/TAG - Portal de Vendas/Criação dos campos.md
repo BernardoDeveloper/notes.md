@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Ecosistema da TAG, Protheus]]
+
+---
+
 **E4_YSELLER**
 ![[Pasted image 20240116094700.png]]
 ![[Pasted image 20240116094711.png]]

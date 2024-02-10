@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 Gerenciador de tabelas e informações do Protheus e fazer a modificação dos dados ele quem reflete tudo que está no Protheus.
 
 **Tabelas:**

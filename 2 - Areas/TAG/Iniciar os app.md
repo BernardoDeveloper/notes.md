@@ -1,1 +1,0 @@
-para iniciar o SmartCliente no serviços habilitar o dbacess

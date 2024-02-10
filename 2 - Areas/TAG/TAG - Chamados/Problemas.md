@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Chamados da TAG Systems]]
+
+---
+
 ### Alterar valor na base
 Ao pressionar a tecla `F4` consulta o saldo do produto;
 No [[APSDU]] para saber qual tabela temos que alterar podemos verificar no site [que contém as tabelas](https://terminaldeinformacao.com/wp-content/tabelas/sb2.php)

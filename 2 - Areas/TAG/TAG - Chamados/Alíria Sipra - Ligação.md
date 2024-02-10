@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Chamados da TAG Systems]]
+
+---
+
 Na contabilidade pediu uma TES não inteligente.
 A segunda e terceira linha não podem ser duplicadas -> o nome não pode estar igual do material.
 E la em baixo adiciona a o código da mão de obra e e quantidade.

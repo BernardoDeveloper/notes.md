@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[Melhorias]]
+
+---
+
 ### Identidade Visual
 Atualmente no nosso mercado temos diversas empresas sendo criada a todo momento, para isso você precisa se destacar uma dessas formas e pelo sentido humano visual, através de uma boa aparência a forma de se aprensentar para as outras pessoas pode te garantir uma carteira de clientes mais amplas. Em muitos casos como por exemplo o *Sistematizei* possa ser que o serviço oferecido não tenha uma qualidade tão alta mas mesmo assism por se portar e ter um "visual" na internet ele é o mais atraente.
 

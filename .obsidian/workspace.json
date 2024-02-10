@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "de9e7747f045c633",
+        "id": "ceb29d0114b0fc23",
         "type": "tabs",
         "children": [
           {
-            "id": "19cb0b0c09bb5770",
+            "id": "19fa130095910203",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Blaze/Git.canvas",
-                "viewState": {
-                  "x": 152.74695205469416,
-                  "y": -52.212427422999546,
-                  "zoom": 0
-                }
+                "file": "3 - Recursos/Mindset/Livros para alcança bons resultados.md",
+                "mode": "source",
+                "source": false
               }
+            }
+          },
+          {
+            "id": "0f61752e747837e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - Areas/TAG/Gerenciamento de Senhas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "961355bebdff7784",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -51,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tags",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 322.5
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -88,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Blaze/Git.canvas",
+                "file": "3 - Recursos/Mindset/Livros para alcança bons resultados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Blaze/Git.canvas",
+                "file": "3 - Recursos/Mindset/Livros para alcança bons resultados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Blaze/Git.canvas"
+                "file": "3 - Recursos/Mindset/Livros para alcança bons resultados.md"
               }
             }
           },
@@ -162,35 +179,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19cb0b0c09bb5770",
+  "active": "19fa130095910203",
   "lastOpenFiles": [
-    "1 - Projetos/Blaze/Git.canvas",
-    "Untitled.md",
-    "3 - Recursos/Profissional/Conseguir trabalho.md",
-    "2 - Areas/TAG/Task.md",
     "2 - Areas/TAG/Gerenciamento de Senhas.md",
-    "Capturar/Request in api.md",
-    "1 - Projetos/Blaze/Untitled",
-    "1 - Projetos/Blaze/Layout base.md",
-    "1 - Projetos/Blaze/Code Resources.md",
-    "Como fazer organização das anotações.md",
-    "2 - Areas/Saúde/Untitled.md",
-    "2 - Areas/Estudos/Lista de livros.md",
-    "2 - Areas/Estudos/SQL/SQL - Anotações.md",
-    "2 - Areas/Estudos/Um homem mais respeitado.md",
-    "2 - Areas/Espiritual/20-11-23 Piraporinha.md",
-    "2 - Areas/Conexão inexplicavél/Tudo no Notion compartilhado com o meu nenê.md",
-    "2 - Areas/Conexão inexplicavél/Viagens.md",
-    "3 - Recursos/Financeiro/Do zero ao bilhão - Primo Rico e Guilherme Benchmol.md",
-    "3 - Recursos/Financeiro/Financeiro.md",
-    "3 - Recursos/Profissional/O que estudar.md",
+    "3 - Recursos/Mindset/Livros para alcança bons resultados.md",
+    "().md",
+    "2 - Areas/TAG/TAG - Chamados/Tutorial - Atualizando Arquivos no GitHub usando Visual Studio Code.md",
+    "2 - Areas/TAG/GitHub - como usar.md",
+    "GitHub.md",
+    "2 - Areas/Finanças/Quitar dívidas.md",
+    "2 - Areas/TAG/TAG - Chamados/GitHub Allfood.md",
+    "2 - Areas/Organização Pessoal/Rotina.md",
+    "2 - Areas/Programação/Diferença do Cloudflare R2 para o Amazon S3.md",
+    "2 - Areas/Programação/Escalabilidade.md",
+    "2 - Areas/Programação",
+    "2 - Areas/Organização Pessoal/Como fazer organização das anotações.md",
+    "2 - Areas/Organização Pessoal/Organização Pessoal.md",
+    "2 - Areas/TAG/TAG - Protheus, ADVPL/ADVPL.md",
     "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
+    "1 - Projetos/Blaze/Git.canvas",
+    "1 - Projetos/Blaze/Code Resources.md",
+    "2 - Areas/TAG/TAG - Protheus, ADVPL/1 - Aprendizado, Treinamentos.md",
+    "1 - Projetos/Faculdade/Semestre 1/Redes/Redes.md",
+    "1 - Projetos/Faculdade/Semestre 1/Redes/Camada OSI.md",
     "3 - Recursos/Profissional/Profissional.md",
-    "3 - Recursos/Mindset/Usar menos o celular.md",
-    "3 - Recursos/Mindset/Resumo do vídeo - o meu segundo cérebro.md",
-    "3 - Recursos/Mindset/Respeito.md",
-    "3 - Recursos/Mindset/Regras estoicas.md",
-    "3 - Recursos/Mindset/PARA - Method.md",
+    "2 - Areas/TAG/TAG Systems.md",
+    "2 - Areas/TAG/Servidor para a aplicação.md",
+    "2 - Areas/TAG/Melhorias.md",
+    "2 - Areas/TAG/Ecosistema da TAG, Protheus.md",
+    "2 - Areas/TAG/TAG - Cloud/CLOUD - Serviços exclusivos.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Reunião Percy.md",
+    "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
+    "2 - Areas/TAG/ADVPL",
+    "1 - Projetos/Blaze/Untitled",
     "1 - Projetos/Wine",
     "4 - Arquivos/Images/Pasted image 20240130093505.png",
     "4 - Arquivos/Images/Pasted image 20240130094545.png",
@@ -207,11 +228,8 @@
     "4 - Arquivos/Images/Pasted image 20240124203521.png",
     "4 - Arquivos/Images/Pasted image 20240124145908.png",
     "1 - Projetos/Code",
-    "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
     "2 - Areas/TAG/Apresentações",
-    "2 - Areas/TAG/Reuniões",
-    "2 - Areas/Conexão inexplicavél",
-    "2 - Areas/TAG/TAG - Protheus/Arquitetura Protheus.canvas",
+    "2 - Areas/TAG/TAG - Protheus, ADVPL/Arquitetura Protheus.canvas",
     "1 - Projetos/Faculdade/PIM/Museu/Listagem Dos Temas.canvas"
   ]
 }

@@ -1,15 +1,15 @@
-Rua Serra Da Cantareira, 174 | São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva@gmail.com
+Rua Serra Da Cantareira, 174 | São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva@gmail.com | https://www.linkedin.com/in/bernardogualberto/details/certifications/
 
 ## Resumo Profissional
-Engenheiro de Software apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Conhecimento em automação e gerenciamento de servidores Linux e Windows. Comprometido com aprendizado contínuo.
+Desenvolvedor Front-End apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Comprometido com aprendizado contínuo.
 
 ## Experiência Profissional
 ### TPR Systems | São Bernardo do Campo, São Paulo | 01/2024 - presente
-- **Cargo**: [Desenvolvedor Full-Stack]
-- Responsabilidades: Realizar a codificação de funcionalidades em sistemas web full-stack e em sistemas TOTVS Protheus com Fluig.
+- **Cargo**: [Desenvolvedor]
+- Responsabilidades: Realizar a codificação de funcionalidades em sistemas web full-stack e no sistema TOTVS Protheus com ADVPL.
 - Tecnologias:  
-	+ Javascript  
-	+ Tlpp  
+	+ JavaScript, TypeScript e Angular  
+	+ Tlpp, Prw  
 	+ SQL (MySql e SQL Server)  
 	+ Bash
 	+ Git
@@ -29,9 +29,9 @@ Engenheiro de Software apaixonado por criar aplicações de alta qualidade e per
 - **Cargo**: [Desenvolvedor]
 - Responsabilidades: Desenvolver, criar e fazer manutenções em aplicações web.  
 - Tecnologias:  
-	- React.JS  
 	- Tailwind  
 	- VueJS  
+	- Nuxt.JS
 	- Node.JS  
 	- JavaScript & TypeScript  
 	- PostgreSQL
@@ -51,20 +51,21 @@ Engenheiro de Software apaixonado por criar aplicações de alta qualidade e per
 - **Título**: [Análise e Desenvolvimento de Sistemas]
 
 ## Habilidades Técnicas
-- C#
+- JavaScript
+- TypeScript
+- Vue.JS
+- Nuxt.JS
+- Node.JS
 - Linux
 - Bash
-- Python
 - Git
 - SQL
 
 ## Certificações
 - Integração TOTVS Fluig x TOTVS Protheus | TOTVS | 11/2023
-- Learn C | Codecademy | 10/2023
+- TOTVS Fluig Dev Start | TOTVS | 11/2023
 - BASH Script | NetworkChuck | 06/2023
-- Curso C# completo e OOP | Udemy | 05/2023
-- API com C# e .Net Core | Udemy | 08/2022
-- Learn Go | Codecademy | 08/2021
+- Javascript | Curso em Vídeo | 12/2021
 - Linux | Curso em Vídeo | 07/2021
 
 ## Idiomas

@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 Eu compilo o código no ambiente de desenvolvimento e depois eu vou no painel da totvs vou em `geração de patch` e depois seleciona o nome fonte.
 Escolhe o nome do fonte e gera o arquivo **.ptm**
 Com ele gerado vai no CLOUD e aplicar pacote

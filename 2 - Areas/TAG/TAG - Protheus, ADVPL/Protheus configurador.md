@@ -1,3 +1,8 @@
+Source: Bernardo
+Related: [[1 - Aprendizado, Treinamentos]]
+
+---
+
 Um módulo do Protheus
 
 Criação de usuário, pode ser definido um série de encargos e resitrições no sistema do Protheus, como filiais que ele poderá acessar e etc:
