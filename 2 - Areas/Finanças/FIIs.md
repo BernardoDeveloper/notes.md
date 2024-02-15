@@ -1,3 +1,8 @@
+Source: Mentalidade e conteúdos online
+Related: [[Mentalidade financeira]]
+
+---
+
 MXRF11: 5 cota
 VGHF11: 4 cota
 HGCR11: 1 cota

@@ -1,3 +1,8 @@
+Source: Mentalidade e conteúdos online
+Related: [[Mentalidade financeira]]
+
+---
+
 Preciso me organizar para conquistar meus objetivos, desejos e necessidades;
 
 Meu objetivo: comprar meu apartamento a vista: R$ 180.000,00;

@@ -1,3 +1,8 @@
+Source: Mentalidade e conteúdos online
+Related: [[Mentalidade financeira]]
+
+---
+
 Diversificação dos investimentos:
 
 Estabilizar em renda fixa, para ter a segurança:

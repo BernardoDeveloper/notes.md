@@ -5,31 +5,38 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#areas  ",
+      "query": "conexão",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#project  ",
+      "query": "mentalidade",
       "color": {
         "a": 1,
         "rgb": 14725458
       }
     },
     {
-      "query": "tag:#livro  ",
+      "query": "TAG System",
       "color": {
         "a": 1,
         "rgb": 6084269
       }
+    },
+    {
+      "query": "faculdade",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": -0.7,
   "nodeSizeMultiplier": 1,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.393952892195265,
+  "scale": 0.3939528921952658,
   "close": true
 }

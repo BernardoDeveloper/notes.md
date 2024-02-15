@@ -1,3 +1,8 @@
+Source: Mentalidade e conteúdos online
+Related: [[Mentalidade financeira]]
+
+---
+
 Anotar todas as dívidas que tenho atualmente:
 - [ ] Organizze app - 7 parcelas total R$ 107,65
 - [ ] Origamid curso - 10 Parcelas total R$ 372,54

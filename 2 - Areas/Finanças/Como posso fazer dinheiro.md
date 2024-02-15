@@ -1,3 +1,8 @@
+Source: Mentalidade e conteúdos online
+Related: [[Mentalidade financeira]]
+
+---
+
 Já tenho uma renda fixa, passiva de R$ 1800
 Tenho que ter a mentalidade de saber com o que gastar esse dinheiro -> preciso começar a guardar o dinheiro, criando uma [[organização financeira]]
 
