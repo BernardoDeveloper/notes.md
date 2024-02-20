@@ -1,3 +1,7 @@
+Related: [[Faculdade]]
+
+---
+
 Organização das minhas anotações sobre redes:
 
 **NP1:**

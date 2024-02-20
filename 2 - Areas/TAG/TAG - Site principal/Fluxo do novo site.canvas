@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"93ea34b000fed2ef","x":-125,"y":-30,"width":250,"height":60,"color":"1","type":"text","text":"Selecionar cliente"},
+		{"id":"c21d095fda030a31","x":-320,"y":160,"width":250,"height":60,"color":"5","type":"text","text":"Christeyns"},
+		{"id":"b9d833e0ea6c8dfa","x":-40,"y":160,"width":250,"height":60,"color":"5","type":"text","text":"Keymparts"},
+		{"id":"3d5f907b91140612","x":240,"y":160,"width":250,"height":60,"color":"5","type":"text","text":"SipraTech"}
+	],
+	"edges":[
+		{"id":"d31559a97428c8c5","fromNode":"93ea34b000fed2ef","fromSide":"bottom","toNode":"c21d095fda030a31","toSide":"top","color":"2"},
+		{"id":"5f5dfde97da9642a","fromNode":"93ea34b000fed2ef","fromSide":"bottom","toNode":"b9d833e0ea6c8dfa","toSide":"top","color":"2"},
+		{"id":"3bee6134baba9427","fromNode":"93ea34b000fed2ef","fromSide":"bottom","toNode":"3d5f907b91140612","toSide":"top","color":"2"}
+	]
+}
