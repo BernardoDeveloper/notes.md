@@ -1,4 +1,4 @@
-São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva@gmail.com | https://www.linkedin.com/in/bernardogualberto/
+São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva@gmail.com | [Linkedin](https://www.linkedin.com/in/bernardogualberto/) | [GitHub](https://github.com/BernardoDeveloper)
 
 ## Resumo Profissional
 Desenvolvedor apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Comprometido com aprendizado contínuo.
@@ -50,26 +50,8 @@ Desenvolvedor apaixonado por criar aplicações de alta qualidade e performance.
 ### UNIP | São Paulo, São Paulo | 06/2025
 - **Título**: [Análise e Desenvolvimento de Sistemas]
 
-## Habilidades Técnicas
-- JavaScript, TypeScript e Node.JS
-- Nuxt.JS e Angular
-- Linux
-- Bash
-- Git
-- SQL
-
-## Projetos
-- FrontEnd:
-	- Na **TAG Systems** desenvolvi um portal utilizando HTML, CSS e JS integrado com php onde são realizadas integrações com o sistemas TOTVS Protheus, criando um Dashboard completo com gráficos interativos e comunicação via API
-	- [Clone completo de uma plataforma de apostas](https://github.com/Chorumazer/Chorublaze-frontend) com esse projeto desenvolvi interfaces dinâmicas, responsivas integradas a uma API BackEnd, os dados são carregados de forma dinâmica 🚧em desenvolvimento 🚧
-	- [Chat em tempo real com Socket.IO](https://github.com/BernardoDeveloper/Chat) foi criado um chat utilizando Nuxt.JS e UnoCSS fazendo a criação de um canal de comunicação em tempo real com Socket.IO
-- BackEnd:
-	- [POWF](https://github.com/BernardoDeveloper/powf) projeto realizado com Golang, para ser um Google Drive like onde você consegue definir um *path* para salvar seus arquivos e serão salvos de forma criptografada e compactada
-	- [GitHub CLI](https://github.com/BernardoDeveloper/GithubCLI) transformando a página inicial do GitHub em uma CLI, transformando a imagem de perfil do usuário inforamado em ASCII e mostrando o seu arquivo README principal do perfil
-	- [WebApi .NET Core](https://github.com/BernardoDeveloper/WebApiDotnetCore) API no padrão REST relizando integração com o banco de dados com o *Entity Framework*
-	- [Login Sytem](https://github.com/BernardoDeveloper/LoginSystem) sistema de login com Java e Spring boot, integrando o Spring security, JPA e interando os dados no Postgres, realizando password encode, envio de e-mail e validação de e-mail
-
 ## Certificações
+- UI Design para iniciantes | Origamid | 01/2024
 - Spring Data MongoDB | AmigosCode | 06/2021
 - Spring Boot For Beginners | AmigosCode | 06/2021
 - BASH Script | NetworkChuck | 06/2023

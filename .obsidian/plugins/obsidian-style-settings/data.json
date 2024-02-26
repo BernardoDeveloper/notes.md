@@ -18,5 +18,6 @@
   "sanctum@@light-mode-contrast-mode": "sanctum-default-light",
   "sanctum@@no-sanctum-icons": false,
   "sanctum@@nav-folder-indicators": false,
-  "sanctum@@colorful-active-nav": false
+  "sanctum@@colorful-active-nav": false,
+  "typomagical-colour@@theme-variant": "obsidian-high-contrast"
 }

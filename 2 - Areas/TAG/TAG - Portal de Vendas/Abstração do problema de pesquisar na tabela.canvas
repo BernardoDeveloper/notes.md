@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"ef5bdf22fff2d696","x":-120,"y":-40,"width":250,"height":60,"type":"text","text":"FilterFuncion()"},
+		{"id":"9d9bb3efa6014477","x":-245,"y":180,"width":250,"height":60,"type":"text","text":"Component to use FilterFunction()"},
+		{"id":"21e04d505e4f8f98","x":20,"y":165,"width":250,"height":90,"type":"text","text":"Other random component and use the same FilterFunction()\n"}
+	],
+	"edges":[
+		{"id":"b55df4675082b60d","fromNode":"ef5bdf22fff2d696","fromSide":"bottom","toNode":"9d9bb3efa6014477","toSide":"top"},
+		{"id":"cb22de53fc771105","fromNode":"ef5bdf22fff2d696","fromSide":"bottom","toNode":"21e04d505e4f8f98","toSide":"top"}
+	]
+}

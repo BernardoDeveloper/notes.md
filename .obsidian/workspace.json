@@ -4,24 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "db238e1e6dd1c0ae",
+        "id": "a69c213bea6add42",
         "type": "tabs",
         "children": [
           {
-            "id": "2e714411127c838e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "230d9500921260d9",
+            "id": "205d2b4bca7113f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Aula 1 - apresentação.md",
+                "file": "3 - Recursos/Profissional/Convencer alguém em 90s.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab4faf7866fbbbed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Aula 1 - apresentação.md",
+                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Aula 1 - apresentação.md",
+                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Aula 1 - apresentação.md"
+                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md"
               }
             }
           },
@@ -168,10 +172,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "230d9500921260d9",
+  "active": "ab4faf7866fbbbed",
   "lastOpenFiles": [
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Banco de dados.md",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
+    "3 - Recursos/Profissional/Convencer alguém em 90s.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/NOVO/Sistema de carregaemento.md",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados",
+    "3 - Recursos/Mindset/Arrumar a minha vida.md",
+    "2 - Areas/TAG/TAG - Portal de Vendas/NOVO",
+    "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
+    "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
+    "2 - Areas/Finanças/Renda extra.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Aula 1 - apresentação.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
     "1 - Projetos/Faculdade/Semestre 1/Redes/Redes.md",
     "1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Engenharia de Software.md",
     "1 - Projetos/Faculdade/Faculdade.md",
@@ -192,13 +207,6 @@
     "2 - Areas/Finanças/organização financeira.md",
     "2 - Areas/Finanças/Quitar dívidas.md",
     "2 - Areas/Finanças/A psicologia financeira.md",
-    "2 - Areas/Finanças/Caixinhas do nubank.md",
-    "2 - Areas/Finanças/Carteira de investimento.md",
-    "2 - Areas/Finanças/Como posso fazer dinheiro.md",
-    "2 - Areas/Finanças/FIIs.md",
-    "2 - Areas/TAG/Melhorias do portal.md",
-    "2 - Areas/TAG/Acessos TCLOUD.md",
-    "2 - Areas/TAG/TAG - Cloud/CLOUD - Serviços exclusivos.md",
     "2 - Areas/TAG/TAG - Treinamento",
     "2 - Areas/Programação",
     "1 - Projetos/Blaze/Git.canvas",
@@ -211,9 +219,6 @@
     "4 - Arquivos/Images/Pasted image 20240130094459.png",
     "4 - Arquivos/Images/Pasted image 20240130093618.png",
     "4 - Arquivos/Images/Pasted image 20240130093606.png",
-    "1 - Projetos/Blaze",
-    "2 - Areas/TAG/Treinamento/Protheus",
-    "2 - Areas/TAG/Treinamento",
     "4 - Arquivos/Images/Pasted image 20240124205431.png",
     "4 - Arquivos/Images/Pasted image 20240124203728.png",
     "4 - Arquivos/Images/Pasted image 20240124204332.png",
