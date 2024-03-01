@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a69c213bea6add42",
+        "id": "a889b83218d3c73f",
         "type": "tabs",
         "children": [
           {
-            "id": "205d2b4bca7113f3",
+            "id": "3d14b8abaa2d8ebe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - Recursos/Profissional/Convencer alguém em 90s.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab4faf7866fbbbed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
+                "file": "1 - Projetos/Empreender/Ideia.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
+                "file": "1 - Projetos/Empreender/Ideia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
+                "file": "1 - Projetos/Empreender/Ideia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md"
+                "file": "1 - Projetos/Empreender/Ideia.md"
               }
             }
           },
@@ -172,48 +159,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab4faf7866fbbbed",
+  "active": "3d14b8abaa2d8ebe",
   "lastOpenFiles": [
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Banco de dados.md",
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
     "3 - Recursos/Profissional/Convencer alguém em 90s.md",
+    "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
+    "1 - Projetos/Empreender/Ideia.md",
+    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Requisitos Funcionais e Não Funcionais.md",
+    "1 - Projetos/Empreender",
+    "1 - Projetos/Freelancer/Aprender JavaScript e Angular.md",
+    "Untitled.md",
+    "1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Revisao - Engenharia de software.md",
+    "1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Conteúdo inicial.md",
+    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Engenharia de software 2.md",
+    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2",
+    "2 - Areas/TAG/Acessos TCLOUD.md",
+    "2 - Areas/Conexão inexplicavél/Conexão perfeita.md",
+    "Reunião sobre o portal.md",
+    "2 - Areas/Conexão inexplicavél/Conteúdo para enviar.md",
+    "2 - Areas/Conexão inexplicavél/Como o casal enriquece junto.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula 01.md",
+    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
+    "1 - Projetos/Estudo de design/Cores.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Interface do usuário.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Conceitos iniciais.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
+    "3 - Recursos/Profissional/Atlas.md",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Banco de dados.md",
     "2 - Areas/TAG/TAG - Portal de Vendas/NOVO/Sistema de carregaemento.md",
     "1 - Projetos/Faculdade/Semestre 2/Banco de Dados",
     "3 - Recursos/Mindset/Arrumar a minha vida.md",
     "2 - Areas/TAG/TAG - Portal de Vendas/NOVO",
     "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
-    "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
     "2 - Areas/Finanças/Renda extra.md",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Aula 1 - apresentação.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
-    "1 - Projetos/Faculdade/Semestre 1/Redes/Redes.md",
-    "1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Engenharia de Software.md",
-    "1 - Projetos/Faculdade/Faculdade.md",
-    "1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Conteúdo Do semestre.md",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos",
     "1 - Projetos/Faculdade/Semestre 2",
-    "3 - Recursos/Financeiro/Como deixar de ser pobre.md",
-    "3 - Recursos/Financeiro/Do zero ao bilhão - Primo Rico e Guilherme Benchmol.md",
-    "2 - Areas/TAG/TAG - Site principal/Estrturar da aplicação.md",
-    "2 - Areas/TAG/TAG - Site principal/Alterações realizadas no site da TAG Systems.md",
-    "3 - Recursos/Financeiro/Financeiro.md",
-    "2 - Areas/TAG/TAG - Site principal/Novo Site.md",
     "2 - Areas/TAG/TAG - Site principal/Fluxo do novo site.canvas",
-    "3 - Recursos/Profissional/Conseguir trabalho.md",
-    "2 - Areas/Finanças/Mentalidade financeira.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Novo Portal.md",
-    "4 - Arquivos/Quack/Nome da empresa.md",
-    "2 - Areas/Finanças/organização financeira.md",
-    "2 - Areas/Finanças/Quitar dívidas.md",
-    "2 - Areas/Finanças/A psicologia financeira.md",
     "2 - Areas/TAG/TAG - Treinamento",
     "2 - Areas/Programação",
-    "1 - Projetos/Blaze/Git.canvas",
+    "4 - Arquivos/Blaze/Git.canvas",
     "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
     "2 - Areas/TAG/ADVPL",
-    "1 - Projetos/Blaze/Untitled",
-    "1 - Projetos/Wine",
     "4 - Arquivos/Images/Pasted image 20240130093505.png",
     "4 - Arquivos/Images/Pasted image 20240130094545.png",
     "4 - Arquivos/Images/Pasted image 20240130094459.png",

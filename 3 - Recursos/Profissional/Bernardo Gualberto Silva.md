@@ -4,11 +4,11 @@ São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva
 Desenvolvedor apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Comprometido com aprendizado contínuo.
 
 ## Experiência Profissional
-### TPR Systems | São Bernardo do Campo, São Paulo | 01/2024 - presente
+### TPR Systems | São Bernardo do Campo, São Paulo | 01/2024 - 03/2024
 - **Cargo**: [Desenvolvedor]
 - Responsabilidades: Realizar a codificação de funcionalidades em sistemas web full-stack no ecosistema JavaScript e integrando com o sistema TOTVS através da plataforma Fluig.
 - Tecnologias:  
-	+ JavaScript, TypeScript e Angular  
+	+ JavaScript, TypeScript, Vue.JS, Nuxt.JS e Angular  
 	+ API, Fetch  
 	+ SQL (MySql e SQL Server)  
 	+ Bash

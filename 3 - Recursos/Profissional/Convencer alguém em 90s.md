@@ -10,4 +10,4 @@ Exercícios:
 1. Olhar a cor do olho de todo mundo
 2. Sorrir na frente do espelho e repetir ótimo de diversos tons (bravo, triste, sexy, alto ...) três dias seguidos, quando encontrar com alguém dizer ótimo baixinho
 3. Imitar a postura de quem estou conversando, para o outros se sentir confortavél, como um *camaleão*
-4. 
+
