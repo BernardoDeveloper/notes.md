@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a889b83218d3c73f",
+        "id": "ed9026b01379e55e",
         "type": "tabs",
         "children": [
           {
-            "id": "3d14b8abaa2d8ebe",
+            "id": "49099cce48e305dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Empreender/Ideia.md",
+                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Empreender/Ideia.md",
+                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Empreender/Ideia.md",
+                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Empreender/Ideia.md"
+                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md"
               }
             }
           },
@@ -159,48 +159,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d14b8abaa2d8ebe",
+  "active": "49099cce48e305dc",
   "lastOpenFiles": [
-    "3 - Recursos/Profissional/Convencer alguém em 90s.md",
+    "1 - Projetos/Empreender/Techinical/Bank Structure.canvas",
+    "1 - Projetos/Empreender/Techinical/API de pagamentos.md",
+    "1 - Projetos/Empreender/Techinical/Untitled.md",
+    "2 - Areas/Conexão inexplicavél/Aliança.md",
+    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fazenda Urbana.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Projeto de Interface do usuário.md",
+    "1 - Projetos/Faculdade/PIM/Fazenda Urbana",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Interface e interação.md",
+    "1 - Projetos/Estudo de design/Tipografia.md",
+    "3 - Recursos/Mindset/Forma de estudar e como se cansar menos nos estudos.md",
+    "1 - Projetos/Empreender/Techinical/API do WhatsApp.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Diagramação de um sistema.canvas",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Estrutura de software.md",
     "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
-    "1 - Projetos/Empreender/Ideia.md",
-    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Requisitos Funcionais e Não Funcionais.md",
-    "1 - Projetos/Empreender",
-    "1 - Projetos/Freelancer/Aprender JavaScript e Angular.md",
-    "Untitled.md",
-    "1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Revisao - Engenharia de software.md",
-    "1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Conteúdo inicial.md",
-    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Engenharia de software 2.md",
-    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2",
-    "2 - Areas/TAG/Acessos TCLOUD.md",
-    "2 - Areas/Conexão inexplicavél/Conexão perfeita.md",
-    "Reunião sobre o portal.md",
-    "2 - Areas/Conexão inexplicavél/Conteúdo para enviar.md",
-    "2 - Areas/Conexão inexplicavél/Como o casal enriquece junto.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula 01.md",
-    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
-    "1 - Projetos/Estudo de design/Cores.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Interface do usuário.md",
+    "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
+    "1 - Projetos/Empreender/Backlog.md",
+    "1 - Projetos/Empreender/Micro-saas barbearia.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Untitled.md",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Conceitos iniciais.md",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
-    "3 - Recursos/Profissional/Atlas.md",
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Banco de dados.md",
-    "2 - Areas/TAG/TAG - Portal de Vendas/NOVO/Sistema de carregaemento.md",
+    "1 - Projetos/Empreender/Techinical",
+    "1 - Projetos/CV - IA/CV - IA.md",
+    "1 - Projetos/Empreender/Qual dor irei resolver? O que preciso? Terá landin page?.md",
+    "1 - Projetos/CV - IA",
+    "1 - Projetos/Empreender/Ideia.md",
+    "3 - Recursos/Profissional/Profissional.md",
+    "Untitled.md",
+    "Reunião sobre o portal.md",
+    "1 - Projetos/Estudo de design/Cores.md",
+    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
+    "1 - Projetos/Empreender",
+    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2",
     "1 - Projetos/Faculdade/Semestre 2/Banco de Dados",
-    "3 - Recursos/Mindset/Arrumar a minha vida.md",
     "2 - Areas/TAG/TAG - Portal de Vendas/NOVO",
     "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
-    "2 - Areas/Finanças/Renda extra.md",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos",
     "1 - Projetos/Faculdade/Semestre 2",
     "2 - Areas/TAG/TAG - Site principal/Fluxo do novo site.canvas",
-    "2 - Areas/TAG/TAG - Treinamento",
-    "2 - Areas/Programação",
     "4 - Arquivos/Blaze/Git.canvas",
     "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
-    "2 - Areas/TAG/ADVPL",
     "4 - Arquivos/Images/Pasted image 20240130093505.png",
     "4 - Arquivos/Images/Pasted image 20240130094545.png",
     "4 - Arquivos/Images/Pasted image 20240130094459.png",

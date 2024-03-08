@@ -1,4 +1,4 @@
-São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva@gmail.com | [Linkedin](https://www.linkedin.com/in/bernardogualberto/) | [GitHub](https://github.com/BernardoDeveloper)
+São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva@gmail.com | [Linkedin](https://www.linkedin.com/in/bernardogualberto/)
 
 ## Resumo Profissional
 Desenvolvedor apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Comprometido com aprendizado contínuo.
@@ -24,6 +24,10 @@ Desenvolvedor apaixonado por criar aplicações de alta qualidade e performance.
 	+ Linux  
 	+ Bash  
 	+ Git
+
+### Wheaton Vidros Brasil | São Bernardo do campo, São Paulo | 01/2023 - 05/2023
+- **Cargo**: [Auxiliar industrial]
+- Responsabilidades: Realizar a verificação dos frascos de vidros e o empacotamento e montagem dos pallets
 
 ### Global Vant | Home Office, Mato Grosso | 05/2021 - 03/2022
 - **Cargo**: [Desenvolvedor]

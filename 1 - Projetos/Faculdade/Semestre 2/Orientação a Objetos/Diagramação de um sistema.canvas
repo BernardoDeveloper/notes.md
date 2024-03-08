@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"84a15761b2c2ccc8","type":"text","text":"Controle de acesso\nRelação: N para N","x":-80,"y":100,"width":185,"height":60,"color":"4"},
+		{"id":"4a73577448af1257","type":"text","text":"Sistema","x":-205,"y":-30,"width":125,"height":60,"color":"5"},
+		{"id":"f378419580921ba0","type":"text","text":"Usuário","x":105,"y":-30,"width":120,"height":60,"color":"5"},
+		{"id":"0a82af01429201e0","type":"text","text":"Controle de usuário só existe se tiver usuário e sistema","x":-112,"y":200,"width":250,"height":85,"color":"3"},
+		{"id":"2d5180e02d1fa7c1","type":"text","text":"Dados de usuário: ID, login, senha","x":341,"y":-30,"width":250,"height":60,"color":"1"},
+		{"id":"6e1949f8f4ecbc9d","type":"text","text":"Dados do sistema: ID, Nome, Servidor (Outra coisa criando uma relação)","x":-540,"y":-45,"width":250,"height":91,"color":"1"},
+		{"id":"2164057fea96d61c","type":"text","text":"Azul: Objeto\nAmarelo: descrição\nVermelho: dados","x":-485,"y":-240,"width":195,"height":100,"color":"2"},
+		{"id":"e6589b5d3d5dcae4","type":"text","text":"Dados do controle de acesso: ID, ID_Usuário, ID_Sistema, Observação, Data_Ini, Data_Fim","x":300,"y":71,"width":250,"height":119,"color":"1"}
+	],
+	"edges":[
+		{"id":"46d6862bc8333dd2","fromNode":"4a73577448af1257","fromSide":"bottom","toNode":"84a15761b2c2ccc8","toSide":"left","color":"5"},
+		{"id":"73fbfeb5597df5de","fromNode":"f378419580921ba0","fromSide":"bottom","toNode":"84a15761b2c2ccc8","toSide":"right","color":"5"},
+		{"id":"e617150b49de7720","fromNode":"84a15761b2c2ccc8","fromSide":"bottom","toNode":"0a82af01429201e0","toSide":"top","color":"3"},
+		{"id":"a77c2944ed077483","fromNode":"f378419580921ba0","fromSide":"right","toNode":"2d5180e02d1fa7c1","toSide":"left","color":"1"},
+		{"id":"ec9b9e7a1c5fe99b","fromNode":"4a73577448af1257","fromSide":"left","toNode":"6e1949f8f4ecbc9d","toSide":"right","color":"1"},
+		{"id":"312b05e4e57847c1","fromNode":"84a15761b2c2ccc8","fromSide":"right","toNode":"e6589b5d3d5dcae4","toSide":"left","color":"1"}
+	]
+}
