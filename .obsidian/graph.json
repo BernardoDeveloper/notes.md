@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 16728642
       }
+    },
+    {
+      "query": "micro-saas",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5059671085660554,
+  "scale": 0.3492530641575898,
   "close": true
 }

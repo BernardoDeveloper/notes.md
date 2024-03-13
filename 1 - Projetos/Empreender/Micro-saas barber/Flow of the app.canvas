@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"3b0633f26f5cafb5","x":40,"y":80,"width":710,"height":520,"type":"group","label":"App System"},
+		{"id":"cf4f0773f3fe7630","x":-160,"y":-100,"width":285,"height":90,"color":"5","type":"text","text":"Landing page (to sell the idea to users)"},
+		{"id":"f1ee9bb940e51f34","x":60,"y":100,"width":260,"height":80,"color":"1","type":"text","text":"login page: to peoples of the service can log in the app"},
+		{"id":"055a5591225de0f5","x":-540,"y":-100,"width":268,"height":88,"color":"4","type":"text","text":"Princing area, to new users can buy the plan"},
+		{"id":"a9db8a26b8511b8d","x":64,"y":300,"width":253,"height":89,"color":"2","type":"text","text":"page to barber connect the whatsapp in your own app"},
+		{"id":"5285ffbd37904879","x":480,"y":290,"width":250,"height":109,"color":"4","type":"text","text":"In this moment the bot is running in the whatsapp of user"},
+		{"id":"066922e732decf9d","x":66,"y":480,"width":250,"height":72,"color":"2","type":"text","text":"The calendar, of all registers of the users"}
+	],
+	"edges":[
+		{"id":"604199b6792f6336","fromNode":"cf4f0773f3fe7630","fromSide":"bottom","toNode":"f1ee9bb940e51f34","toSide":"left","color":"1"},
+		{"id":"7cded6d630676db5","fromNode":"cf4f0773f3fe7630","fromSide":"left","toNode":"055a5591225de0f5","toSide":"right","color":"4"},
+		{"id":"13eaa9a92347fc0a","fromNode":"f1ee9bb940e51f34","fromSide":"bottom","toNode":"a9db8a26b8511b8d","toSide":"top","color":"2"},
+		{"id":"21c0a1685af88923","fromNode":"a9db8a26b8511b8d","fromSide":"right","toNode":"5285ffbd37904879","toSide":"left","color":"4"},
+		{"id":"bdf08a5becd41f73","fromNode":"a9db8a26b8511b8d","fromSide":"bottom","toNode":"066922e732decf9d","toSide":"top","color":"2"}
+	]
+}

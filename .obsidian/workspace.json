@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9026b01379e55e",
+        "id": "e46a30198d1e0c2c",
         "type": "tabs",
         "children": [
           {
-            "id": "49099cce48e305dc",
+            "id": "2588fc1138f7e8db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
+                "file": "1 - Projetos/Empreender/Micro-saas barber/Ponte para começar o trabalho no outro dia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ce2d2c413c3b7fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
+                "file": "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
+                "file": "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md"
+                "file": "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md"
               }
             }
           },
@@ -159,46 +172,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49099cce48e305dc",
+  "active": "5ce2d2c413c3b7fc",
   "lastOpenFiles": [
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 16-03.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Projeto de Interface do usuário.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Interface e interação.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Ponte para começar o trabalho no outro dia.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Estudar sobre SSR, SGR, CSR e ISR.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Fluxo do banco de dados.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Nível De Autorização.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Database structure.canvas",
+    "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Diagramação de um sistema.canvas",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Estrutura de software.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Conceitos iniciais.md",
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Apresentação para a próxima aula.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Estrutura & Arquitetura da aplicação.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Calendar References Article.md",
+    "2 - Areas/TAG/TAG Systems.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Databas.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Untitled",
+    "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.md",
+    "1 - Projetos/Empreender/Micro-saas barber",
+    "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
     "1 - Projetos/Empreender/Techinical/Bank Structure.canvas",
     "1 - Projetos/Empreender/Techinical/API de pagamentos.md",
     "1 - Projetos/Empreender/Techinical/Untitled.md",
     "2 - Areas/Conexão inexplicavél/Aliança.md",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fazenda Urbana.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Projeto de Interface do usuário.md",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Interface e interação.md",
     "1 - Projetos/Estudo de design/Tipografia.md",
     "3 - Recursos/Mindset/Forma de estudar e como se cansar menos nos estudos.md",
     "1 - Projetos/Empreender/Techinical/API do WhatsApp.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Diagramação de um sistema.canvas",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Estrutura de software.md",
     "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
-    "1 - Projetos/Empreender/Techinical/Next 14 server and client components.md",
-    "1 - Projetos/Empreender/Backlog.md",
-    "1 - Projetos/Empreender/Micro-saas barbearia.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Untitled.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Conceitos iniciais.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
     "1 - Projetos/Empreender/Techinical",
-    "1 - Projetos/CV - IA/CV - IA.md",
-    "1 - Projetos/Empreender/Qual dor irei resolver? O que preciso? Terá landin page?.md",
     "1 - Projetos/CV - IA",
-    "1 - Projetos/Empreender/Ideia.md",
-    "3 - Recursos/Profissional/Profissional.md",
-    "Untitled.md",
-    "Reunião sobre o portal.md",
-    "1 - Projetos/Estudo de design/Cores.md",
-    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
     "1 - Projetos/Empreender",
     "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2",
     "1 - Projetos/Faculdade/Semestre 2/Banco de Dados",
     "2 - Areas/TAG/TAG - Portal de Vendas/NOVO",
     "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos",
-    "1 - Projetos/Faculdade/Semestre 2",
     "2 - Areas/TAG/TAG - Site principal/Fluxo do novo site.canvas",
     "4 - Arquivos/Blaze/Git.canvas",
     "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
