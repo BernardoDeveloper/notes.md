@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
+                "file": "1 - Projetos/Empreender/Micro-saas barber/Ponte para começar o trabalho no outro dia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
+                "file": "1 - Projetos/Empreender/Micro-saas barber/Ponte para começar o trabalho no outro dia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md"
+                "file": "1 - Projetos/Empreender/Micro-saas barber/Ponte para começar o trabalho no outro dia.md"
               }
             }
           },
@@ -172,10 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ce2d2c413c3b7fc",
+  "active": "2588fc1138f7e8db",
   "lastOpenFiles": [
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 16-03.md",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 16-03.md",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Projeto de Interface do usuário.md",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Interface e interação.md",
     "1 - Projetos/Empreender/Micro-saas barber/Ponte para começar o trabalho no outro dia.md",
