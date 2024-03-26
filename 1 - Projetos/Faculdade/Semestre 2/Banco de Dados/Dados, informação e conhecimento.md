@@ -12,4 +12,3 @@ Informação um dado com determinado propósito, a informação é um dado anali
 
 Um banco é uma coleção de dados *relacionados*
 SGBD: Sistema de gerenciamneto de banco de dados. Temos alguns softwares disponíveis para criar as estruturas de banco de dados.
-

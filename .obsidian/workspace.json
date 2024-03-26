@@ -4,46 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "e46a30198d1e0c2c",
+        "id": "1fd8cc035c766d8a",
         "type": "tabs",
         "children": [
           {
-            "id": "2588fc1138f7e8db",
+            "id": "48d9648bea34e75d",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Pesquisa sobre metologia de prototipagem.md",
+                "file": "A cura da procastinação.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "dcd2db3a6f7ccfc8",
+            "id": "f6d8425c4aeb0b12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Apresentação para a próxima aula.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f92a73e91deb4afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - Recursos/Profissional/Procastinando a procastinação.md",
-                "mode": "source",
-                "source": false
+                "file": "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
+                "viewState": {
+                  "x": 272.4082202097442,
+                  "y": 303.19819527265275,
+                  "zoom": -0.6999999999999996
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -109,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Pesquisa sobre metologia de prototipagem.md",
+                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Pesquisa sobre metologia de prototipagem.md",
+                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Pesquisa sobre metologia de prototipagem.md"
+                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md"
               }
             }
           },
@@ -183,41 +177,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2588fc1138f7e8db",
+  "active": "d6e09918fb6be55c",
   "lastOpenFiles": [
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Conteúdo que irá cair na NP1.md",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Organização das falas.md",
+    "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Lynx Cam.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 26-03.md",
+    "5 - Caixa de entrada/CORS FrontEnd error.md",
+    "A cura da procastinação.md",
+    "1 - Projetos/Empreender/Micro-saas barber/1 - Estrutura do projeto.md",
+    "1 - Projetos/Empreender/Micro-saas barber/3- Requisitos funcionais e não funcionais.md",
+    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Inspeção de Software.md",
+    "5 - Caixa de entrada/A verdade sobre o dinheiro, como obter riquesa.md",
+    "3 - Recursos/Mindset/Como ler, estudar Podcast do Joel Jota como ler e não esquecer.md",
+    "3 - Recursos/Mindset/Como desenvolver mais, mentalmente, aprender mais.md",
+    "5 - Caixa de entrada",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Engenharia Cognitiva, Semiótica e estilos de interação.md",
+    "2 - Areas/Finanças/Valores da conta Inter.md",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Apresentação para a próxima aula.md",
+    "3 - Recursos/Profissional/Procastinando a procastinação.md",
+    "3 - Recursos/Livros gratuitos para ler no Kindle.md",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Pesquisa sobre metologia de prototipagem.md",
+    "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
+    "3 - Recursos/Profissional/Conversa da ofcdesk.md",
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
     "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Teste em software.md",
-    "3 - Recursos/Profissional/Procastinando a procastinação.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
     "1 - Projetos/Empreender/Micro-saas barber/Database structure.canvas",
-    "2 - Areas/Finanças/Valores da conta Inter.md",
     "3 - Recursos/Profissional/Profissional.md",
     "3 - Recursos/Profissional/Itaú.md",
     "3 - Recursos/Profissional/Crescer com desenvolvimento em VueJS.md",
     "3 - Recursos/Profissional/Atlas.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 16-03.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Fluxo do banco de dados.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Ponte para começar o trabalho no outro dia.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Estrutura & Arquitetura da aplicação.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Estudar sobre SSR, SGR, CSR e ISR.md",
     "4 - Arquivos/Images/valor-01.jpeg",
     "3 - Recursos/Imagens",
     "4 - Arquivos/Images/valor-02.jpeg",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Aula terórica 3.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Projeto de Interface do usuário.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Interface e interação.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Nível De Autorização.md",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Diagramação de um sistema.canvas",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Estrutura de software.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Sistemas Orientado a objetos.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Conceitos iniciais.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Calendar References Article.md",
-    "2 - Areas/TAG/TAG Systems.md",
-    "1 - Projetos/Empreender/Micro-saas barber/Databas.md",
     "1 - Projetos/Empreender/Micro-saas barber/Untitled",
-    "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.md",
     "1 - Projetos/Empreender/Micro-saas barber",
     "1 - Projetos/Empreender/Techinical/Bank Structure.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana",
@@ -226,7 +224,6 @@
     "1 - Projetos/Empreender",
     "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2",
     "1 - Projetos/Faculdade/Semestre 2/Banco de Dados",
-    "2 - Areas/TAG/TAG - Portal de Vendas/NOVO",
     "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
     "2 - Areas/TAG/TAG - Site principal/Fluxo do novo site.canvas",
     "4 - Arquivos/Blaze/Git.canvas",
@@ -237,8 +234,6 @@
     "4 - Arquivos/Images/Pasted image 20240130093618.png",
     "4 - Arquivos/Images/Pasted image 20240130093606.png",
     "4 - Arquivos/Images/Pasted image 20240124205431.png",
-    "4 - Arquivos/Images/Pasted image 20240124203728.png",
-    "2 - Areas/TAG/TAG - Protheus, ADVPL/Arquitetura Protheus.canvas",
-    "1 - Projetos/Faculdade/PIM/Museu/Listagem Dos Temas.canvas"
+    "4 - Arquivos/Images/Pasted image 20240124203728.png"
   ]
 }

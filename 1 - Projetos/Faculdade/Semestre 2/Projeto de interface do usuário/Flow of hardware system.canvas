@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"574ba3da853c700d","x":-125,"y":-30,"width":285,"height":107,"color":"1","type":"text","text":"**Hardware: Nvdia Jetson Nano**\nCapaz de executar as operações e conexões que necessitamos"},
+		{"id":"f1eaba4f1fef116a","x":220,"y":140,"width":269,"height":126,"color":"2","type":"text","text":"**Câmera: Arlo Ultra 2**\nPosui componentes necessários para auxiliar com a integração da inteligência artifical"},
+		{"id":"16cc4fd7501ba976","x":-440,"y":203,"width":295,"height":123,"color":"4","type":"text","text":"**Fechadura: August Smart Lock**\nPossui uma API para comandos e podendo integrar com nosso hardware"}
+	],
+	"edges":[
+		{"id":"fb08c7b7cc34244c","fromNode":"574ba3da853c700d","fromSide":"bottom","toNode":"f1eaba4f1fef116a","toSide":"left","color":"2","label":"comunicação por cabo\n> velocidade"},
+		{"id":"7961221dc370e9df","fromNode":"574ba3da853c700d","fromSide":"bottom","toNode":"16cc4fd7501ba976","toSide":"top","color":"4","label":"comunicação via API"}
+	]
+}

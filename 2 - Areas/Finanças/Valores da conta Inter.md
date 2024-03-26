@@ -10,12 +10,12 @@ Valor que eu depositei
 $200 + 250 + 300 = 750$
 
 Totalizando `R$ 2750,00`
-Valor atual com os investimentos `R$ 2810,52`
+Valor atual com os investimentos `R$ 2812,07`
 
-Diferença do lucro `R$ 60,52`
-Lucro para cada um `R$ 30,26`
+Diferença do lucro `R$ 62,07`
+Lucro para cada um `R$ 31,035`
 
-Enviar para ela: `R$ 2030,26`
+Enviar para ela: `R$ 2031,35`
 Para eu: `R$ 780,26`
 
 ### Prints dos valores que foram depositados

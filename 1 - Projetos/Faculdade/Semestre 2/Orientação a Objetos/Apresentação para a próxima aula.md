@@ -29,3 +29,13 @@ Definindo o processo de software entre analista, arquiteto, desenvolvedor, testa
 Precisaremos apresentar como professores, explicando a nossa sala o conteúdo sobre o modelo de prototipagem
 
 2 pontos: protótipos utilizavéis e não utilizaveis e ferramentas de prototipção
+
+## Minha fala
+*1. Definição de Prototipação:*
+A prototipação é uma abordagem no desenvolvimento de produtos e sistemas que envolve a criação de modelos preliminares ou protótipos para validar conceitos, testar funcionalidades e obter feedback dos usuários. Esses protótipos podem ser físicos ou digitais, dependendo do tipo de produto ou sistema em desenvolvimento.
+
+Essa técnica permite que os desenvolvedores e designers avaliem ideias de forma rápida e eficiente, antes de investir recursos significativos na produção em larga escala. Ao criar protótipos, é possível identificar e corrigir problemas de design ou funcionalidade em estágios iniciais do desenvolvimento, reduzindo custos e riscos associados ao processo.
+
+Além disso, a prototipação facilita uma abordagem iterativa e incremental no desenvolvimento, permitindo adaptações rápidas às mudanças de requisitos ou preferências do usuário. Ao receber feedback dos usuários, os protótipos podem ser ajustados e melhorados ao longo do tempo, resultando em produtos finais que atendem melhor às necessidades e expectativas do público-alvo.
+
+Em resumo, a prototipação é uma técnica valiosa para o desenvolvimento de produtos e sistemas, pois permite validar conceitos, testar funcionalidades e obter feedback dos usuários de forma rápida e eficiente, reduzindo custos e riscos associados ao desenvolvimento.
