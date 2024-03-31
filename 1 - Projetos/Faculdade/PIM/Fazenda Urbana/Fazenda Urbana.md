@@ -4,6 +4,7 @@ Related: [[Faculdade]]
 ---
 
 Primeiro pesquisar ou visitar uma fazendo urbana
+
 Precisamos criar uma aplicação que deve ter 4 coisas:
 1. controle de produção
 2. forncedores

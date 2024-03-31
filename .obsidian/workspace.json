@@ -4,40 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "1fd8cc035c766d8a",
+        "id": "5c91f0310f60de63",
         "type": "tabs",
         "children": [
           {
-            "id": "48d9648bea34e75d",
+            "id": "93bf6cac37ff3cf0",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A cura da procastinação.md",
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "f6d8425c4aeb0b12",
+            "id": "bfde3b17684fe3e2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Fluxo do projeto.canvas",
                 "viewState": {
-                  "x": 124.72603296630797,
-                  "y": 436.522391419271,
-                  "zoom": -0.6999999999999996
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md"
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md"
               }
             }
           },
@@ -177,18 +174,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6e09918fb6be55c",
+  "active": "93bf6cac37ff3cf0",
   "lastOpenFiles": [
+    "1 - Projetos/WebScrapping Wagner PHP/Sistema e requisitos.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Fluxo do projeto.canvas",
+    "4 - Arquivos/Images/Pasted image 20240330232007.png",
+    "A cura da procastinação.md",
+    "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
+    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Recursos inciais para começar o PIM da fazenda urbana.md",
+    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fazenda Urbana.md",
+    "1 - Projetos/Inntecnet/Projetos, Testes e estimativas.md",
+    "1 - Projetos/Inntecnet",
+    "1 - Projetos/WebScrapping Wagner PHP/WebScrapping Wagner PHP.md",
+    "1 - Projetos/WebScrapping Wagner PHP",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 26-03.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Lynx Cam.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Organização das falas.md",
+    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
+    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
     "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Conteúdo que irá cair na NP1.md",
     "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Dados, informação e conhecimento.md",
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Organização das falas.md",
-    "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Lynx Cam.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 26-03.md",
     "5 - Caixa de entrada/CORS FrontEnd error.md",
-    "A cura da procastinação.md",
     "1 - Projetos/Empreender/Micro-saas barber/1 - Estrutura do projeto.md",
     "1 - Projetos/Empreender/Micro-saas barber/3- Requisitos funcionais e não funcionais.md",
     "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Inspeção de Software.md",
@@ -201,16 +208,9 @@
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Apresentação para a próxima aula.md",
     "3 - Recursos/Profissional/Procastinando a procastinação.md",
     "3 - Recursos/Livros gratuitos para ler no Kindle.md",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Pesquisa sobre metologia de prototipagem.md",
     "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
-    "3 - Recursos/Profissional/Conversa da ofcdesk.md",
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
-    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2/Teste em software.md",
     "1 - Projetos/Empreender/Micro-saas barber/Database structure.canvas",
-    "3 - Recursos/Profissional/Profissional.md",
-    "3 - Recursos/Profissional/Itaú.md",
-    "3 - Recursos/Profissional/Crescer com desenvolvimento em VueJS.md",
-    "3 - Recursos/Profissional/Atlas.md",
     "4 - Arquivos/Images/valor-01.jpeg",
     "3 - Recursos/Imagens",
     "4 - Arquivos/Images/valor-02.jpeg",
@@ -222,18 +222,14 @@
     "1 - Projetos/Empreender/Techinical",
     "1 - Projetos/CV - IA",
     "1 - Projetos/Empreender",
-    "1 - Projetos/Faculdade/Semestre 2/Engenharia de software 2",
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados",
     "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
     "2 - Areas/TAG/TAG - Site principal/Fluxo do novo site.canvas",
     "4 - Arquivos/Blaze/Git.canvas",
-    "2 - Areas/TAG/Apresentações/Integração do grafana e TomTicket.canvas",
     "4 - Arquivos/Images/Pasted image 20240130093505.png",
     "4 - Arquivos/Images/Pasted image 20240130094545.png",
     "4 - Arquivos/Images/Pasted image 20240130094459.png",
     "4 - Arquivos/Images/Pasted image 20240130093618.png",
     "4 - Arquivos/Images/Pasted image 20240130093606.png",
-    "4 - Arquivos/Images/Pasted image 20240124205431.png",
-    "4 - Arquivos/Images/Pasted image 20240124203728.png"
+    "4 - Arquivos/Images/Pasted image 20240124205431.png"
   ]
 }
