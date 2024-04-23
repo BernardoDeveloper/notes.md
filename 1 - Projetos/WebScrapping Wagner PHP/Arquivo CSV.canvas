@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"39f8f142091801ca","type":"group","x":-255,"y":-720,"width":584,"height":262,"color":"4","label":"Ok"},
+		{"id":"4b6f953d731aeeb6","type":"text","text":"Buscar todos os pedidos de venda","x":-235,"y":-700,"width":250,"height":73,"color":"1"},
+		{"id":"0b287a95afa12725","type":"text","text":"**ID**: Buscar um pedido de venda (traz todas as informações)","x":15,"y":-560,"width":294,"height":82,"color":"3"},
+		{"id":"44bb9483bbc51256","type":"text","text":"Arquivo .csv","x":82,"y":-400,"width":161,"height":60,"color":"4"},
+		{"id":"1be0262e49b4288f","type":"text","text":"1. Valores da Nota Fiscal\n2. Código do produto e descrição\n- CFOP","x":15,"y":-200,"width":271,"height":169,"color":"5"},
+		{"id":"1dbe0c29c19845e2","type":"text","text":"\n**CFOP:**\nBuscar o código fiscal da operação na nota fiscal (buscando a natureza e trazendo o valor)","x":480,"y":-584,"width":300,"height":131,"color":"6"}
+	],
+	"edges":[
+		{"id":"d295a11f8d0758d4","fromNode":"44bb9483bbc51256","fromSide":"bottom","toNode":"1be0262e49b4288f","toSide":"top","color":"4","label":"informações"},
+		{"id":"5e872d7069a78402","fromNode":"4b6f953d731aeeb6","fromSide":"bottom","toNode":"0b287a95afa12725","toSide":"left","color":"1","label":"id"},
+		{"id":"8be45664c832e417","fromNode":"0b287a95afa12725","fromSide":"bottom","toNode":"44bb9483bbc51256","toSide":"top","color":"3"},
+		{"id":"70005648f5d0d262","fromNode":"0b287a95afa12725","fromSide":"right","toNode":"1dbe0c29c19845e2","toSide":"left","color":"2","label":"id nfe"},
+		{"id":"baae4f31bce4cb86","fromNode":"1dbe0c29c19845e2","fromSide":"bottom","toNode":"44bb9483bbc51256","toSide":"right","color":"6"}
+	]
+}

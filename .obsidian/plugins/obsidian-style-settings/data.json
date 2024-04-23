@@ -19,5 +19,13 @@
   "sanctum@@no-sanctum-icons": false,
   "sanctum@@nav-folder-indicators": false,
   "sanctum@@colorful-active-nav": false,
-  "typomagical-colour@@theme-variant": "obsidian-high-contrast"
+  "typomagical-colour@@theme-variant": "obsidian-high-contrast",
+  "mado-miniflow@@theme-color": "theme-daisy-blue",
+  "mado-miniflow@@toggle-tab-height": false,
+  "mado-miniflow@@toggle-tab-height-stacked": false,
+  "mado-miniflow@@toggle-scrollbar-overlay": true,
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-raven-dt",
+  "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
+  "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-yellow-dt"
 }

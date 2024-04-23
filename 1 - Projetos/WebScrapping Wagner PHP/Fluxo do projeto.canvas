@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"08093a2487e12f13","x":-198,"y":113,"width":250,"height":60,"color":"3","type":"text","text":"API Bling ERP"},
-		{"id":"50d79dd480260eae","x":-198,"y":-120,"width":250,"height":80,"color":"2","type":"text","text":"PHP Job: generate acess token"}
+		{"id":"08093a2487e12f13","type":"text","text":"API Bling ERP","x":-198,"y":160,"width":250,"height":60,"color":"3"},
+		{"id":"50d79dd480260eae","type":"text","text":"PHP Job: generate acess token","x":-219,"y":-120,"width":292,"height":80,"color":"2"}
 	],
 	"edges":[
 		{"id":"86d6a688dc6efdc9","fromNode":"50d79dd480260eae","fromSide":"bottom","toNode":"08093a2487e12f13","toSide":"top","color":"2","label":"Envia constantemente uma requisição\npara manter o token de acesso"}

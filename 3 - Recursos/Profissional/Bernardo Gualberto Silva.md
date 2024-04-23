@@ -4,6 +4,17 @@ São Bernardo Do Campo, São Paulo | +55 (11) 969235721 | bernardogualbertosilva
 Desenvolvedor apaixonado por criar aplicações de alta qualidade e performance. Experiência sólida em desenvolvimento web e conhecimento do ecossistema JavaScript. Comprometido com aprendizado contínuo.
 
 ## Experiência Profissional
+### Inntecnet | Diadema, São Paulo | 03/2024 - presente
+- **Cargo**: [Desenvolvedor]
+- Responsabilidades: Programando o projeto de regularização da APIMEC, e manutenções em projetos web e no sistema Protheus.
+- Tecnologias:  
+	+ C#, .Net, Entity Framework
+	+ JavaScript, JQuery  
+	+ API, Fetch  
+	+ SQL (MySql e SQL Server)  
+	+ Bash
+	+ Git
+
 ### TPR Systems | São Bernardo do Campo, São Paulo | 01/2024 - 03/2024
 - **Cargo**: [Desenvolvedor]
 - Responsabilidades: Realizar a codificação de funcionalidades em sistemas web full-stack no ecosistema JavaScript e integrando com o sistema TOTVS através da plataforma Fluig.
