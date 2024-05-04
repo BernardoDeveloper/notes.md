@@ -20,8 +20,24 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "d0f7123853b8a75d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
+                "viewState": {
+                  "x": -69,
+                  "y": -160,
+                  "zoom": 0
+                }
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Projeto Pedro - Oftalmo/Design do projeto.md"
+                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas"
               }
             }
           },
@@ -159,13 +177,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6e09918fb6be55c",
+  "active": "d0f7123853b8a75d",
   "lastOpenFiles": [
-    "1 - Projetos/Projeto Pedro - Oftalmo/Projeto Oftalmo.md",
+    "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
     "1 - Projetos/Projeto Pedro - Oftalmo/Design do projeto.md",
+    "1 - Projetos/Projeto Pedro - Oftalmo/Projeto Oftalmo.md",
     "1 - Projetos/Projeto Pedro - Oftalmo/Reunião inicial de planejamento.md",
     "Life.md",
-    "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
     "1 - Projetos/Projeto Pedro/Untitled.md",
     "1 - Projetos/Projeto Pedro - Oftalmo",
     "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
