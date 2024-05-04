@@ -20,17 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "aa4899921e5406b8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +87,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +103,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md"
+                "file": "1 - Projetos/Projeto Pedro - Oftalmo/Design do projeto.md"
               }
             }
           },
@@ -170,13 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "aa4899921e5406b8",
+  "active": "d6e09918fb6be55c",
   "lastOpenFiles": [
+    "1 - Projetos/Projeto Pedro - Oftalmo/Projeto Oftalmo.md",
+    "1 - Projetos/Projeto Pedro - Oftalmo/Design do projeto.md",
+    "1 - Projetos/Projeto Pedro - Oftalmo/Reunião inicial de planejamento.md",
+    "Life.md",
     "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
+    "1 - Projetos/Projeto Pedro/Untitled.md",
+    "1 - Projetos/Projeto Pedro - Oftalmo",
+    "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
+    "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
     "1 - Projetos/WebScrapping Wagner PHP/Arquivo CSV.canvas",
     "1 - Projetos/WebScrapping Wagner PHP/Estrutura e organização do projeto.md",
     "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md",
-    "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
     "1 - Projetos/WebScrapping Wagner PHP/Entrega do projeto.md",
     "2 - Areas/GYM/Training.md",
     "2 - Areas/Saúde/Treino.md",
@@ -204,11 +200,7 @@
     "1 - Projetos/WebScrapping Wagner PHP/WebScrapping Wagner PHP.md",
     "1 - Projetos/WebScrapping Wagner PHP",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 26-03.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Lynx Cam.md",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Organização das falas.md",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Projeto lógico.md",
-    "1 - Projetos/Faculdade/Semestre 2/Banco de Dados/Conteúdo que irá cair na NP1.md",
     "5 - Caixa de entrada",
     "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
@@ -221,9 +213,7 @@
     "1 - Projetos/Empreender/Micro-saas barber",
     "1 - Projetos/Empreender/Techinical/Bank Structure.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana",
-    "1 - Projetos/Empreender/Techinical",
     "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
-    "2 - Areas/TAG/TAG - Site principal/Fluxo do novo site.canvas",
     "4 - Arquivos/Images/Pasted image 20240130093505.png",
     "4 - Arquivos/Images/Pasted image 20240130094545.png",
     "4 - Arquivos/Images/Pasted image 20240130094459.png"

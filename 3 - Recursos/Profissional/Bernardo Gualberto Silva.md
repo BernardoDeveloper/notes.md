@@ -67,6 +67,8 @@ Desenvolvedor apaixonado por criar aplicações de alta qualidade e performance.
 
 ## Certificações
 - UI Design para iniciantes | Origamid | 01/2024
+- C# compleo OOP e .NET | Udemy | 01/2024
+- Web API com C# e .NET Core | Udemy | 01/2024
 - Spring Data MongoDB | AmigosCode | 06/2021
 - Spring Boot For Beginners | AmigosCode | 06/2021
 - BASH Script | NetworkChuck | 06/2023
