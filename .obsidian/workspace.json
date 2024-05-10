@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "f82c9604c88e9f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -87,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
+                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
+                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md"
+                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md"
               }
             }
           },
@@ -161,13 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03fe6a20160d5f77",
+  "active": "f82c9604c88e9f1e",
   "lastOpenFiles": [
+    "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
     "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fluxo do sistema.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Conxão banco de dados.md",
     "1 - Projetos/WebScrapping Wagner PHP/Estrutura e organização do projeto.md",
-    "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
     "1 - Projetos/Estudo de design/Identidade Visual.md",
     "1 - Projetos/Estudo de design/Cores.md",
     "1 - Projetos/Estudo de design/Conseguir trabalhos.md",
@@ -215,7 +228,6 @@
     "1 - Projetos/Empreender/Micro-saas barber",
     "1 - Projetos/Empreender/Techinical/Bank Structure.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana",
-    "2 - Areas/TAG/TAG - Portal de Vendas/Abstração do problema de pesquisar na tabela.canvas",
     "4 - Arquivos/Images/Pasted image 20240130093505.png",
     "4 - Arquivos/Images/Pasted image 20240130094545.png",
     "4 - Arquivos/Images/Pasted image 20240130094459.png"
