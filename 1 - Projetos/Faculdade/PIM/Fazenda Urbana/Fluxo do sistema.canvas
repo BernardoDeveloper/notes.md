@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"26f31e39958db604","x":-600,"y":-220,"width":1130,"height":405,"type":"group","label":"Cadastro de produto"},
+		{"id":"5be3a240e8ef8ec9","x":-220,"y":-200,"width":305,"height":110,"color":"3","type":"text","text":"**Tela inicial:**\nListagem para todas as outras operações do sistema"},
+		{"id":"7be8a818636b437f","x":-580,"y":105,"width":250,"height":60,"color":"1","type":"text","text":"Criar"},
+		{"id":"f1fa55a2229f2535","x":-300,"y":105,"width":250,"height":60,"color":"1","type":"text","text":"Ler"},
+		{"id":"a1c22edbbd058958","x":-20,"y":105,"width":250,"height":60,"color":"1","type":"text","text":"Atualizar"},
+		{"id":"1793cdfed693cdca","x":260,"y":105,"width":250,"height":60,"color":"1","type":"text","text":"Deletar"}
+	],
+	"edges":[
+		{"id":"70425b37c15723f2","fromNode":"5be3a240e8ef8ec9","fromSide":"bottom","toNode":"7be8a818636b437f","toSide":"top","color":"3"},
+		{"id":"e656e048dac9bd7d","fromNode":"5be3a240e8ef8ec9","fromSide":"bottom","toNode":"f1fa55a2229f2535","toSide":"top","color":"3"},
+		{"id":"bbffd64c4327220e","fromNode":"5be3a240e8ef8ec9","fromSide":"bottom","toNode":"a1c22edbbd058958","toSide":"top","color":"3"},
+		{"id":"5ff506bfa8cc88fd","fromNode":"5be3a240e8ef8ec9","fromSide":"bottom","toNode":"1793cdfed693cdca","toSide":"top","color":"3"}
+	]
+}

@@ -1,9 +1,17 @@
 {
 	"nodes":[
-		{"id":"82c23fdb39923fc8","x":-544,"y":-190,"width":250,"height":60,"type":"text","text":"tabela 1\n"},
-		{"id":"c9a1766eef4dc200","x":156,"y":-190,"width":250,"height":60,"type":"text","text":"tabela 2"}
+		{"id":"82c23fdb39923fc8","type":"text","text":"**Sales_order_id**\nUma tabela com todos os ID dos pedidos de venda para realizar a busca","x":-560,"y":-285,"width":250,"height":125,"color":"1"},
+		{"id":"a02ceceb46624883","type":"text","text":"É realizado uma busca nessa tabela e para cada ID é realizado uma busca para trazer todas as informações","x":-573,"y":-80,"width":277,"height":131,"color":"6"},
+		{"id":"666135fcb203389b","type":"text","text":"**Natureza_operacoes**\nUma tabela com todas os IDs de uma *Natureza de operação*.","x":-106,"y":-42,"width":286,"height":102,"color":"3"},
+		{"id":"f391dacbf682af0e","type":"text","text":"*Dados de nota fiscal*\nBusca na tabela **Natureza_operacoes** e verifica se o ID é igual da **Nota_fiscal** e busca as informações da *natureza de operações* da *nota fiscal*","x":-605,"y":140,"width":340,"height":154,"color":"2"},
+		{"id":"c9a1766eef4dc200","type":"text","text":"**Token table**\nTerá duas colunas, uma com o refresh_token e access_token para poder acessar a API","x":-106,"y":-285,"width":250,"height":160,"color":"4"},
+		{"id":"7ffde67272ec0687","type":"text","text":"- Legenda\nOs card que tem o nome em **negrito** são tabelas do banco de dados","x":-380,"y":-460,"width":347,"height":112,"color":"5"},
+		{"id":"2dcc77e114a35678","type":"text","text":"Com tudo pronto, gera o *arquivo*","x":-558,"y":398,"width":248,"height":62,"color":"4"}
 	],
 	"edges":[
-		{"id":"23794093ebd850e7","fromNode":"82c23fdb39923fc8","fromSide":"right","toNode":"c9a1766eef4dc200","toSide":"left"}
+		{"id":"e0e8c23e7f3f208c","fromNode":"82c23fdb39923fc8","fromSide":"bottom","toNode":"a02ceceb46624883","toSide":"top","color":"1"},
+		{"id":"985d378cd6a37109","fromNode":"a02ceceb46624883","fromSide":"bottom","toNode":"f391dacbf682af0e","toSide":"top","color":"6"},
+		{"id":"26740734905f8827","fromNode":"f391dacbf682af0e","fromSide":"right","toNode":"666135fcb203389b","toSide":"left","color":"2"},
+		{"id":"13e2aed6183a682a","fromNode":"f391dacbf682af0e","fromSide":"bottom","toNode":"2dcc77e114a35678","toSide":"top","color":"2"}
 	]
 }

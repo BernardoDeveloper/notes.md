@@ -28,5 +28,9 @@
   "obsidian-prism-theme@@color-scheme-style-dt": "pt-color-scheme-style-minimal-dt",
   "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
   "obsidian-prism-theme@@dark-accent-color-preset": "pt-accent-color-yellow-dt",
-  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-yellow-lt"
+  "obsidian-prism-theme@@light-accent-color-preset": "pt-accent-color-yellow-lt",
+  "Editor@@bold-color@@light": "#000000",
+  "Editor@@italic-color@@light": "#000000",
+  "Editor@@bold-color@@dark": "#FFFFFF",
+  "Editor@@italic-color@@dark": "#FFFFFF"
 }

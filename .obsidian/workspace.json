@@ -20,24 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d0f7123853b8a75d",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
-                "viewState": {
-                  "x": -69,
-                  "y": -160,
-                  "zoom": 0
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
+                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
+                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas"
+                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md"
               }
             }
           },
@@ -177,34 +161,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d0f7123853b8a75d",
+  "active": "03fe6a20160d5f77",
   "lastOpenFiles": [
+    "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
+    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fluxo do sistema.canvas",
+    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Conxão banco de dados.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Estrutura e organização do projeto.md",
     "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
+    "1 - Projetos/Estudo de design/Identidade Visual.md",
+    "1 - Projetos/Estudo de design/Cores.md",
+    "1 - Projetos/Estudo de design/Conseguir trabalhos.md",
+    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Fluxo do projeto.canvas",
+    "1 - Projetos/WebScrapping Wagner PHP/WebScrapping Wagner PHP.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Sistema e requisitos.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Entrega do projeto.md",
+    "1 - Projetos/WebScrapping Wagner PHP/Arquivo CSV.canvas",
     "1 - Projetos/Projeto Pedro - Oftalmo/Design do projeto.md",
     "1 - Projetos/Projeto Pedro - Oftalmo/Projeto Oftalmo.md",
     "1 - Projetos/Projeto Pedro - Oftalmo/Reunião inicial de planejamento.md",
     "Life.md",
     "1 - Projetos/Projeto Pedro/Untitled.md",
     "1 - Projetos/Projeto Pedro - Oftalmo",
-    "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
     "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
-    "1 - Projetos/WebScrapping Wagner PHP/Arquivo CSV.canvas",
-    "1 - Projetos/WebScrapping Wagner PHP/Estrutura e organização do projeto.md",
-    "1 - Projetos/WebScrapping Wagner PHP/Planejamento do projeto.md",
-    "1 - Projetos/WebScrapping Wagner PHP/Entrega do projeto.md",
     "2 - Areas/GYM/Training.md",
     "2 - Areas/Saúde/Treino.md",
     "4 - Arquivos/Images/Pasted image 20240416220216.png",
     "4 - Arquivos/Images/Pasted image 20240416220141.png",
     "4 - Arquivos/Images/Pasted image 20240413112555.png",
-    "1 - Projetos/Estudo de design/Identidade Visual.md",
     "2 - Areas/GYM",
     "1 - Projetos/Estudo de design/Design.md",
-    "1 - Projetos/Estudo de design/Cores.md",
-    "1 - Projetos/Estudo de design/Conseguir trabalhos.md",
-    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
-    "1 - Projetos/WebScrapping Wagner PHP/Fluxo do projeto.canvas",
-    "1 - Projetos/WebScrapping Wagner PHP/Sistema e requisitos.md",
     "6 - Planejamento",
     "3 - Recursos/Livros gratuitos para ler no Kindle.md",
     "1 - Projetos/CV - IA/CV - IA.md",
@@ -213,11 +200,8 @@
     "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Recursos inciais para começar o PIM da fazenda urbana.md",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fazenda Urbana.md",
-    "1 - Projetos/Inntecnet/Projetos, Testes e estimativas.md",
     "1 - Projetos/Inntecnet",
-    "1 - Projetos/WebScrapping Wagner PHP/WebScrapping Wagner PHP.md",
     "1 - Projetos/WebScrapping Wagner PHP",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Apresentação dia 26-03.md",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
     "5 - Caixa de entrada",
     "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
