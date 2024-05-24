@@ -22,12 +22,12 @@
             }
           },
           {
-            "id": "f82c9604c88e9f1e",
+            "id": "8c6040eb7571c5b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
+                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 340.5
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
+                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
+                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md"
+                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md"
               }
             }
           },
@@ -174,9 +174,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82c9604c88e9f1e",
+  "active": "8c6040eb7571c5b5",
   "lastOpenFiles": [
+    "2 - Areas/Trabalho - CONNIT/Connit.md",
+    "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
+    "2 - Areas/Trabalho - CONNIT/WebScrapping Bling",
     "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
+    "2 - Areas/Trabalho - OFCDesk",
+    "Untitled",
+    "2 - Areas/Trabalho - CONNIT",
+    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
     "1 - Projetos/WebScrapping Wagner PHP/Estrutura de tabelas do banco de dados.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fluxo do sistema.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Conxão banco de dados.md",
@@ -211,8 +218,6 @@
     "4 - Arquivos/Images/Pasted image 20240330232007.png",
     "A cura da procastinação.md",
     "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
-    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Recursos inciais para começar o PIM da fazenda urbana.md",
-    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fazenda Urbana.md",
     "1 - Projetos/Inntecnet",
     "1 - Projetos/WebScrapping Wagner PHP",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
@@ -221,13 +226,9 @@
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
     "1 - Projetos/Empreender/Micro-saas barber/Database structure.canvas",
     "4 - Arquivos/Images/valor-01.jpeg",
-    "3 - Recursos/Imagens",
     "4 - Arquivos/Images/valor-02.jpeg",
     "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Diagramação de um sistema.canvas",
-    "1 - Projetos/Empreender/Micro-saas barber/Untitled",
-    "1 - Projetos/Empreender/Micro-saas barber",
     "1 - Projetos/Empreender/Techinical/Bank Structure.canvas",
-    "1 - Projetos/Faculdade/PIM/Fazenda Urbana",
     "4 - Arquivos/Images/Pasted image 20240130093505.png",
     "4 - Arquivos/Images/Pasted image 20240130094545.png",
     "4 - Arquivos/Images/Pasted image 20240130094459.png"

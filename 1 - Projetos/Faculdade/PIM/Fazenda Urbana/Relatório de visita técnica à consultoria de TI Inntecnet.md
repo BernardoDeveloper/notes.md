@@ -14,8 +14,8 @@ No dia da visita foi feito o levantamento do *tipo de contratação* dos profiss
 
 | Pessoa             | Tipo de contrato | Setor             |
 | ------------------ | ---------------- | ----------------- |
-| Gustavo Bender     | estagiário       | Desenvolvimento   |
-| Ayslan             | estagiário       | Desenvolvimento   |
+| Gustavo Bender     | Estagiário       | Desenvolvimento   |
+| Ayslan             | Estagiário       | Desenvolvimento   |
 | Kaique Lima        | PJ               | Desenvolvimento   |
 | Bernardo Gualberto | PJ               | Desenvolvimento   |
 | Jusias Pereira     | CLT              | Desenvolvimento   |
