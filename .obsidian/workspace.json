@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e2386912b7f7c73d",
+        "id": "794827d7d5d1b40f",
         "type": "tabs",
         "children": [
           {
-            "id": "03fe6a20160d5f77",
+            "id": "0750e390734cfa3f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -50,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hat",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f17ee65762f691db",
+  "active": "d6e09918fb6be55c",
   "lastOpenFiles": [
     "1 - Projetos/Quack/Nome da empresa.md",
     "1 - Projetos/Quack/Ideias para o sistema.md",
