@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "8c6040eb7571c5b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "train",
+                "query": "hat",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +67,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
+                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
+                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md"
+                "file": "6 - Planejamento/Planejamento e objetivos 1st semestre.md"
               }
             }
           },
@@ -174,10 +162,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c6040eb7571c5b5",
+  "active": "f17ee65762f691db",
   "lastOpenFiles": [
-    "2 - Areas/Trabalho - CONNIT/Connit.md",
+    "1 - Projetos/Quack/Nome da empresa.md",
+    "1 - Projetos/Quack/Ideias para o sistema.md",
     "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
+    "2 - Areas/Trabalho - CONNIT/Connit.md",
     "2 - Areas/Trabalho - CONNIT/WebScrapping Bling",
     "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
     "2 - Areas/Trabalho - OFCDesk",
@@ -214,9 +204,7 @@
     "1 - Projetos/Estudo de design/Design.md",
     "6 - Planejamento",
     "3 - Recursos/Livros gratuitos para ler no Kindle.md",
-    "1 - Projetos/CV - IA/CV - IA.md",
     "4 - Arquivos/Images/Pasted image 20240330232007.png",
-    "A cura da procastinação.md",
     "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
     "1 - Projetos/Inntecnet",
     "1 - Projetos/WebScrapping Wagner PHP",
