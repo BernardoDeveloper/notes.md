@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"3b9227c0e43bcf3c","x":-615,"y":-145,"width":109,"height":50,"color":"2","type":"text","text":"Login"},
+		{"id":"ce6fe811984eefff","x":-740,"y":-280,"width":125,"height":60,"color":"1","type":"text","text":"Usuário"},
+		{"id":"4f0c53d71fdcb0c9","x":-400,"y":-160,"width":260,"height":80,"color":"4","type":"text","text":"Lista todas as Notas Fiscais por data (Em Aberto) "},
+		{"id":"4fc0803fe8ed8c55","x":-394,"y":53,"width":254,"height":67,"color":"4","type":"text","text":"Lista todas as notas do dia que foi solicitado"},
+		{"id":"edb72920f7ac9fcd","x":106,"y":56,"width":250,"height":60,"color":"2","type":"text","text":"Listagem dos itens da NFe"},
+		{"id":"863dea8460f79229","x":106,"y":-400,"width":500,"height":400,"color":"1","type":"text","text":"**Dados que são enviados para a NFe**\n\n1. Número da nota\n2. Data da emissão F1_EMISSAO (quando a nota é criada)\n3. Data da digitação F1_DTDIGIT (quando foi lançado a nota no sistema)\n4. Código do fornecedor (Tabela SA2)\n5. Loja do fornecedor\n6. Nome do fornecedor\n7. Nome reduzido\n8. Identificador do fornecedor (CNPJ)\n9. Numero de serie da NFe\n10. Nmr especie\n11. Nmr do RECNO\n\n\n"},
+		{"id":"d2b23bdc8b8d5542","x":434,"y":56,"width":346,"height":244,"color":"2","type":"text","text":"Com o número do RECNO ele faz uma busca em *getItemInvoice(nmr_recno)*\n\n**RECF1** - cabeçalho da NFe (faz uma busca)\nFaz um SELECT buscando todos os itens com o dado do cabeçalho da Nota\n\n**SELECT** busca os dados da NFe"},
+		{"id":"95e75be2328d0bc4","x":67,"y":300,"width":328,"height":130,"color":"1","type":"text","text":"envia os dados do RECNO"}
+	],
+	"edges":[
+		{"id":"952fb563d2a3166e","fromNode":"3b9227c0e43bcf3c","fromSide":"right","toNode":"4f0c53d71fdcb0c9","toSide":"left","color":"2"},
+		{"id":"ddd1110689a9bbf7","fromNode":"ce6fe811984eefff","fromSide":"bottom","toNode":"3b9227c0e43bcf3c","toSide":"left","color":"1"},
+		{"id":"2088da382ce2f2f2","fromNode":"4f0c53d71fdcb0c9","fromSide":"bottom","toNode":"4fc0803fe8ed8c55","toSide":"top","color":"4","label":"clicar em visualizar"},
+		{"id":"37f18c4aab9fd217","fromNode":"4fc0803fe8ed8c55","fromSide":"right","toNode":"edb72920f7ac9fcd","toSide":"left","color":"4","label":"editar"},
+		{"id":"94651fd04991dba5","fromNode":"863dea8460f79229","fromSide":"left","toNode":"4f0c53d71fdcb0c9","toSide":"right","color":"1"},
+		{"id":"2dbdc10b0e293624","fromNode":"d2b23bdc8b8d5542","fromSide":"left","toNode":"edb72920f7ac9fcd","toSide":"right","color":"2"},
+		{"id":"5bd82b2c0deb2c23","fromNode":"edb72920f7ac9fcd","fromSide":"bottom","toNode":"95e75be2328d0bc4","toSide":"top","color":"1","label":"clicar em confirmar (POST)"}
+	]
+}
