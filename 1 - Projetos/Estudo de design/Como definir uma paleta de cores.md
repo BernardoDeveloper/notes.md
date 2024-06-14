@@ -18,3 +18,4 @@ As cores se baseiam na natureza, ela nunca tem cores fixas e sempre é influenci
 
 - Cada cor tem sua própria **luminosidade**
 
+[[Como usar as cores]]

@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6abcb0c91818d099",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Projetos/Estudo de design/Como usar as cores.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
+                "file": "1 - Projetos/Estudo de design/Como usar as cores.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
+                "file": "1 - Projetos/Estudo de design/Como usar as cores.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md"
+                "file": "1 - Projetos/Estudo de design/Como usar as cores.md"
               }
             }
           },
@@ -159,8 +172,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6e09918fb6be55c",
+  "active": "6abcb0c91818d099",
   "lastOpenFiles": [
+    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
+    "4 - Arquivos/Images/Pasted image 20240605180314.png",
+    "4 - Arquivos/Images/Pasted image 20240605180036.png",
+    "1 - Projetos/Estudo de design/Como usar as cores.md",
     "4 - Arquivos/Images/Pasted image 20240604180219.png",
     "1 - Projetos/Estudo de design/Cores.md",
     "1 - Projetos/1 - VTCONN/APP Pollar/Fluxo do sistema.canvas",
@@ -182,7 +199,6 @@
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Estrutura e organização do projeto.md",
     "1 - Projetos/Estudo de design/Identidade Visual.md",
     "1 - Projetos/Estudo de design/Conseguir trabalhos.md",
-    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Fluxo do projeto.canvas",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/WebScrapping Wagner PHP.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Sistema e requisitos.md",
@@ -202,7 +218,6 @@
     "4 - Arquivos/Images/Pasted image 20240416220141.png",
     "4 - Arquivos/Images/Pasted image 20240413112555.png",
     "2 - Areas/GYM",
-    "1 - Projetos/Estudo de design/Design.md",
     "6 - Planejamento",
     "4 - Arquivos/Images/Pasted image 20240330232007.png",
     "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
@@ -213,9 +228,6 @@
     "1 - Projetos/Empreender/Micro-saas barber/Database structure.canvas",
     "4 - Arquivos/Images/valor-01.jpeg",
     "4 - Arquivos/Images/valor-02.jpeg",
-    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Diagramação de um sistema.canvas",
-    "4 - Arquivos/Images/Pasted image 20240130093505.png",
-    "4 - Arquivos/Images/Pasted image 20240130094545.png",
-    "4 - Arquivos/Images/Pasted image 20240130094459.png"
+    "1 - Projetos/Faculdade/Semestre 2/Orientação a Objetos/Diagramação de um sistema.canvas"
   ]
 }
