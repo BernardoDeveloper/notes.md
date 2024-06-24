@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "070ef09d8c2b883e",
+        "id": "c4040bafe531c866",
         "type": "tabs",
         "children": [
           {
-            "id": "be86310d4013a024",
+            "id": "b717da9d6679c4a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6abcb0c91818d099",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - Projetos/Estudo de design/Como usar as cores.md",
+                "file": "1 - Projetos/Quack/Reunião/21.06.24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Como usar as cores.md",
+                "file": "1 - Projetos/Quack/Reunião/21.06.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Como usar as cores.md",
+                "file": "1 - Projetos/Quack/Reunião/21.06.24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Como usar as cores.md"
+                "file": "1 - Projetos/Quack/Reunião/21.06.24.md"
               }
             }
           },
@@ -172,20 +159,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6abcb0c91818d099",
+  "active": "b717da9d6679c4a9",
   "lastOpenFiles": [
+    "1 - Projetos/Quack/Nome da empresa.md",
+    "1 - Projetos/Quack/Reunião/21.06.24.md",
+    "1 - Projetos/Quack/Ideias para o sistema.md",
+    "4 - Arquivos/Como conseguir projetos de design.md",
+    "4 - Arquivos/Começar a empreender.md",
+    "1 - Projetos/Quack/Reunião",
     "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
+    "1 - Projetos/Estudo de design/Como usar as cores.md",
     "4 - Arquivos/Images/Pasted image 20240605180314.png",
     "4 - Arquivos/Images/Pasted image 20240605180036.png",
-    "1 - Projetos/Estudo de design/Como usar as cores.md",
     "4 - Arquivos/Images/Pasted image 20240604180219.png",
     "1 - Projetos/Estudo de design/Cores.md",
     "1 - Projetos/1 - VTCONN/APP Pollar/Fluxo do sistema.canvas",
     "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
     "1 - Projetos/1 - VTCONN/APP Pollar",
     "1 - Projetos/1 - VTCONN",
-    "1 - Projetos/Quack/Nome da empresa.md",
-    "1 - Projetos/Quack/Ideias para o sistema.md",
     "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
     "2 - Areas/Trabalho - CONNIT/Connit.md",
     "2 - Areas/Trabalho - CONNIT/WebScrapping Bling",
@@ -212,8 +203,6 @@
     "1 - Projetos/Projeto Pedro/Untitled.md",
     "1 - Projetos/Projeto Pedro - Oftalmo",
     "3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
-    "2 - Areas/GYM/Training.md",
-    "2 - Areas/Saúde/Treino.md",
     "4 - Arquivos/Images/Pasted image 20240416220216.png",
     "4 - Arquivos/Images/Pasted image 20240416220141.png",
     "4 - Arquivos/Images/Pasted image 20240413112555.png",
@@ -221,7 +210,6 @@
     "6 - Planejamento",
     "4 - Arquivos/Images/Pasted image 20240330232007.png",
     "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
-    "1 - Projetos/Inntecnet",
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
     "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
