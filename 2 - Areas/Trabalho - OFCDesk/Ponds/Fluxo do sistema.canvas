@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"179e806ad2d9eaa1","type":"text","text":"Submitals","x":-40,"y":26,"width":138,"height":60,"color":"4"},
+		{"id":"75f112c97eac9b35","type":"text","text":"RFI","x":-229,"y":26,"width":89,"height":60,"color":"4"},
+		{"id":"9ed11403cbfb8af8","type":"text","text":"Procore: Trigger","x":-160,"y":-120,"width":180,"height":60,"color":"3"},
+		{"id":"78a31818e2f7c61a","type":"text","text":"Cadastrar no siHub","x":340,"y":-120,"width":202,"height":60,"color":"1"}
+	],
+	"edges":[
+		{"id":"f7d4937bc9116e27","fromNode":"9ed11403cbfb8af8","fromSide":"right","toNode":"78a31818e2f7c61a","toSide":"left","color":"3","label":"trigger disparada"},
+		{"id":"de0fb567378302bc","fromNode":"75f112c97eac9b35","fromSide":"top","toNode":"9ed11403cbfb8af8","toSide":"bottom","color":"4"},
+		{"id":"ccc59714e3eb9faa","fromNode":"179e806ad2d9eaa1","fromSide":"top","toNode":"9ed11403cbfb8af8","toSide":"bottom","color":"4"}
+	]
+}

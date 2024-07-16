@@ -1,0 +1,1 @@
+Objetivo: Dar emfâse
