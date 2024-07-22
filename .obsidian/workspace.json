@@ -4,56 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "c7b389a67296ddf1",
+        "id": "3ccba1359974f496",
         "type": "tabs",
         "children": [
           {
-            "id": "eb984a4ac79f9076",
+            "id": "deebca01e7ca7728",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Areas/Trabalho - OFCDesk/Ponds/Procore/RFI.md",
+                "file": "2 - Areas/Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "180f19629543e485",
+            "id": "d5fe0e204813f8d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Sombras & gradiente.md",
+                "file": "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
                 "mode": "source",
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "45e2e00fa83c115d",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "aa0c99cc3c4aa96d",
+            "id": "5be1fcc097321dd0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "2 - Areas/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
-                "viewState": {
-                  "x": 156.5,
-                  "y": -17,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -120,7 +106,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Sombras & gradiente.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +122,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 - Projetos/Estudo de design/Sombras & gradiente.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +143,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1 - Projetos/Estudo de design/Sombras & gradiente.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,8 +176,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "180f19629543e485",
+  "active": "5be1fcc097321dd0",
   "lastOpenFiles": [
+    "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
+    "2 - Areas/Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
+    "2 - Areas/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
+    "2 - Areas/Trabalho - OFCDesk/Ponds/Procore/RFI.md",
+    "1 - Projetos/Estudo de design/Sombras & gradiente.md",
     "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
     "1 - Projetos/Estudo de design/Cores.md",
     "1 - Projetos/Estudo de design/Resumo sobre a diretriz de contraste WCAG.md",
@@ -205,12 +192,8 @@
     "1 - Projetos/Estudo de design/Identidade Visual.md",
     "1 - Projetos/Estudo de design/Lista de estudo.md",
     "1 - Projetos/Estudo de design/Se tornar um designer.md",
-    "1 - Projetos/Estudo de design/Sombras & gradiente.md",
     "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião de alinhamento sobre como o projeto irá funcionar.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Procore/RFI.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
     "2 - Areas/Trabalho - OFCDesk/Ponds/Procore",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Untitled.md",
     "2 - Areas/Trabalho - OFCDesk/ofcdesk.md",
     "2 - Areas/Trabalho - OFCDesk/Ponds",
     "1 - Projetos/Quack/Reunião/21.06.24.md",
@@ -238,7 +221,6 @@
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Conxão banco de dados.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Estrutura e organização do projeto.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Fluxo do projeto.canvas",
-    "1 - Projetos/1 - VTCONN/WebScrapping PHP/WebScrapping Wagner PHP.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Arquivo CSV.canvas",
     "1 - Projetos/Projeto Pedro - Oftalmo",
     "4 - Arquivos/Images/Pasted image 20240416220216.png",

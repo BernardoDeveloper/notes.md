@@ -2,7 +2,7 @@
   "obsidian-typewriter@@shrink-formatting": true,
   "obsidian-typewriter@@active-line-highlight": true,
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
-  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
   "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "none",
   "sanctum@@color-accent-rgb-d": "165, 119, 218",
   "sanctum@@color-accent-rgb-l": "165, 119, 218",
@@ -32,5 +32,10 @@
   "Editor@@bold-color@@light": "#000000",
   "Editor@@italic-color@@light": "#000000",
   "Editor@@bold-color@@dark": "#FFFFFF",
-  "Editor@@italic-color@@dark": "#FFFFFF"
+  "Editor@@italic-color@@dark": "#FFFFFF",
+  "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
+  "anuppuccin-theme-settings@@anp-toggle-metadata": false,
+  "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
+  "anuppuccin-theme-settings@@anp-hide-status-bar": false,
+  "anuppuccin-theme-settings@@anp-tooltip-toggle": false
 }
