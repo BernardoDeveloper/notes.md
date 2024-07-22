@@ -35,8 +35,12 @@
             "id": "5be1fcc097321dd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -178,6 +186,7 @@
   },
   "active": "5be1fcc097321dd0",
   "lastOpenFiles": [
+    "Untitled.md",
     "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
     "2 - Areas/Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
     "2 - Areas/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
@@ -219,7 +228,6 @@
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Estrutura de tabelas do banco de dados.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fluxo do sistema.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Conxão banco de dados.md",
-    "1 - Projetos/1 - VTCONN/WebScrapping PHP/Estrutura e organização do projeto.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Fluxo do projeto.canvas",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Arquivo CSV.canvas",
     "1 - Projetos/Projeto Pedro - Oftalmo",
