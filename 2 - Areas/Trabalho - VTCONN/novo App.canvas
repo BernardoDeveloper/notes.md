@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"44d9ee00bfc44f7a","type":"group","x":-200,"y":-200,"width":620,"height":480,"color":"3","label":"case 1: empresa"},
+		{"id":"69e44bc01d7db5a0","type":"group","x":540,"y":-480,"width":280,"height":260,"color":"3","label":"case 2: funcionário"},
+		{"id":"4029d92ddd7915e6","type":"text","text":"Tela de apresentação","x":-180,"y":-180,"width":220,"height":60,"color":"5"},
+		{"id":"4785758e9effa955","type":"text","text":"Cria uma conta da empresa","x":-180,"y":-80,"width":220,"height":80,"color":"2"},
+		{"id":"e87977ac933e50ad","type":"text","text":"Escolher o plano de assinatura (os múdulos)","x":-180,"y":40,"width":220,"height":100,"color":"2"},
+		{"id":"16ea1f93340797ba","type":"text","text":"Tela de configuração\n\nUma empresa tem N funcionário. 1 para muitos\nTer uma sessão para a empresa criar conta de funcionários\nDefinir acessos ao funcionário","x":141,"y":0,"width":259,"height":260,"color":"1"},
+		{"id":"e1b90fa56f860f9b","type":"text","text":"### Tela inicial:\nSelecionar empresa ou funcionário","x":-15,"y":-493,"width":286,"height":141,"color":"4"},
+		{"id":"fff0793e58965356","type":"text","text":"funcionários acessa tela de login","x":560,"y":-460,"width":240,"height":73,"color":"2"},
+		{"id":"ed26b51cc6d48cc1","type":"text","text":"adiciona o cadastro fornecdio pela empresa","x":560,"y":-319,"width":240,"height":79,"color":"1"},
+		{"id":"1501489399299b30","type":"text","text":"Tela com os módulos do sistema","x":555,"y":0,"width":250,"height":68,"color":"4"}
+	],
+	"edges":[
+		{"id":"e7379d918a5e46c8","fromNode":"4029d92ddd7915e6","fromSide":"bottom","toNode":"4785758e9effa955","toSide":"top","color":"5"},
+		{"id":"08d716945fd59414","fromNode":"4785758e9effa955","fromSide":"bottom","toNode":"e87977ac933e50ad","toSide":"top","color":"2"},
+		{"id":"6430da40f0e0d61b","fromNode":"e87977ac933e50ad","fromSide":"right","toNode":"16ea1f93340797ba","toSide":"left","color":"2"},
+		{"id":"8a4605ef8efddd9c","fromNode":"16ea1f93340797ba","fromSide":"right","toNode":"1501489399299b30","toSide":"left","color":"1","label":"funcionários"},
+		{"id":"dc6a48371b8a03c8","fromNode":"e1b90fa56f860f9b","fromSide":"bottom","toNode":"44d9ee00bfc44f7a","toSide":"top","color":"4","label":"empresa"},
+		{"id":"6f78fe9b17f60e35","fromNode":"fff0793e58965356","fromSide":"bottom","toNode":"ed26b51cc6d48cc1","toSide":"top","color":"2"},
+		{"id":"fd0ecc556e5a515e","fromNode":"e1b90fa56f860f9b","fromSide":"right","toNode":"69e44bc01d7db5a0","toSide":"left","color":"4","label":"funcionário"},
+		{"id":"d9b025994f7db1f9","fromNode":"ed26b51cc6d48cc1","fromSide":"bottom","toNode":"1501489399299b30","toSide":"top","color":"1"}
+	]
+}

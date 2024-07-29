@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3ccba1359974f496",
+        "id": "197479f3b37f7957",
         "type": "tabs",
         "children": [
           {
-            "id": "deebca01e7ca7728",
+            "id": "ee028dd98198d7dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - Areas/Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d5fe0e204813f8d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5be1fcc097321dd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
+                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md"
               }
             }
           },
@@ -184,11 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5be1fcc097321dd0",
+  "active": "ee028dd98198d7dc",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
+    "2 - Areas/Trabalho - VTCONN/App Inventário/Criar uma nova versão reestilizado.md",
+    "2 - Areas/Trabalho - VTCONN/Acessos do servidor.md",
+    "2 - Areas/Trabalho - VTCONN/novo App.canvas",
+    "2 - Areas/Trabalho - VTCONN/Levantamento sobre o novo APP.md",
+    "2 - Areas/Trabalho - CONNIT/BackOffice.md",
     "2 - Areas/Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
+    "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
+    "2 - Areas/Trabalho - VTCONN/Reembolso de despesas",
+    "Untitled.md",
+    "2 - Areas/Trabalho - VTCONN/App Inventário",
+    "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
     "2 - Areas/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
     "2 - Areas/Trabalho - OFCDesk/Ponds/Procore/RFI.md",
     "1 - Projetos/Estudo de design/Sombras & gradiente.md",
@@ -215,22 +198,15 @@
     "4 - Arquivos/Images/Pasted image 20240605180036.png",
     "4 - Arquivos/Images/Pasted image 20240604180219.png",
     "1 - Projetos/1 - VTCONN/APP Pollar/Fluxo do sistema.canvas",
-    "6 - Planejamento/Planejamento e objetivos 1st semestre.md",
     "1 - Projetos/1 - VTCONN/APP Pollar",
     "1 - Projetos/1 - VTCONN",
-    "2 - Areas/Trabalho - CONNIT/WebScrapping Bling/WebScrapping Bling.md",
-    "2 - Areas/Trabalho - CONNIT/Connit.md",
-    "2 - Areas/Trabalho - CONNIT/WebScrapping Bling",
+    "2 - Areas/Trabalho - VTCONN/WebScrapping Bling",
     "2 - Areas/Trabalho - OFCDesk",
     "Untitled",
-    "2 - Areas/Trabalho - CONNIT",
-    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Relatório de visita técnica à consultoria de TI Inntecnet.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Estrutura de tabelas do banco de dados.canvas",
     "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fluxo do sistema.canvas",
-    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Conxão banco de dados.md",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Fluxo do projeto.canvas",
     "1 - Projetos/1 - VTCONN/WebScrapping PHP/Arquivo CSV.canvas",
-    "1 - Projetos/Projeto Pedro - Oftalmo",
     "4 - Arquivos/Images/Pasted image 20240416220216.png",
     "4 - Arquivos/Images/Pasted image 20240416220141.png",
     "4 - Arquivos/Images/Pasted image 20240413112555.png",
@@ -239,7 +215,6 @@
     "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
     "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
-    "1 - Projetos/Empreender/Micro-saas barber/Database structure.canvas",
     "4 - Arquivos/Images/valor-01.jpeg",
     "4 - Arquivos/Images/valor-02.jpeg"
   ]
