@@ -1,7 +1,7 @@
 Source: UNIP
 Project: #project/faculdade 
 Areas: #areas/coding 
-Related: [[1 - Projetos/Faculdade/Semestre 1/Engenharia de Software I/Engenharia de Software]]
+Related: [[Engenharia de Software]]
 
 ---
 

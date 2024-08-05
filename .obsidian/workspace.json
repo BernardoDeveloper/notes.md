@@ -11,12 +11,38 @@
             "id": "ee028dd98198d7dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
-                "mode": "source",
-                "source": false
+                "file": "Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
+                "viewState": {
+                  "x": 253,
+                  "y": 10,
+                  "zoom": 0
+                }
               }
+            }
+          },
+          {
+            "id": "450db8c3e671e7dd",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
+                "viewState": {
+                  "x": 397.00755105805786,
+                  "y": 128.2211240906168,
+                  "zoom": -0.20255407308168422
+                }
+              }
+            }
+          },
+          {
+            "id": "f5c395261330ced0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "acesso",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -85,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
+                "file": "Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
+                "file": "Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md"
+                "file": "Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas"
               }
             }
           },
@@ -161,59 +188,59 @@
   },
   "active": "ee028dd98198d7dc",
   "lastOpenFiles": [
-    "2 - Areas/Trabalho - VTCONN/App Inventário/Criar uma nova versão reestilizado.md",
-    "2 - Areas/Trabalho - VTCONN/Acessos do servidor.md",
-    "2 - Areas/Trabalho - VTCONN/novo App.canvas",
-    "2 - Areas/Trabalho - VTCONN/Levantamento sobre o novo APP.md",
+    "Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
+    "Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
+    "Trabalho - VTCONN/novo App.canvas",
+    "Trabalho - VTCONN/Reembolso de despesas/Untitled.md",
+    "Trabalho - VTCONN/App Inventário/Criar uma nova versão reestilizado.md",
+    "Trabalho - VTCONN/Acessos do servidor.md",
+    "Trabalho - VTCONN/WebScrapping Bling/WebScrapping Bling.md",
+    "Trabalho - VTCONN/Levantamento sobre o novo APP.md",
+    "Trabalho - VTCONN/Connit.md",
+    "0 - PARA/4 - Arquivos/Assistência técnica/Core - Acesso do usuário.md",
+    "0 - PARA/4 - Arquivos/Assistência técnica/Core - Acesso do Administrador.md",
+    "0 - PARA/4 - Arquivos/TAG/Acessos TCLOUD.md",
+    "Studies/Guide of studies about programming.md",
+    "Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
+    "Studies",
+    "0 - PARA",
+    "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Untitled.md",
     "2 - Areas/Trabalho - CONNIT/BackOffice.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
-    "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
-    "2 - Areas/Trabalho - VTCONN/Reembolso de despesas",
+    "Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
+    "Trabalho - VTCONN/Reembolso de despesas",
     "Untitled.md",
-    "2 - Areas/Trabalho - VTCONN/App Inventário",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Procore/RFI.md",
-    "1 - Projetos/Estudo de design/Sombras & gradiente.md",
-    "1 - Projetos/Estudo de design/Como definir uma paleta de cores.md",
-    "1 - Projetos/Estudo de design/Cores.md",
-    "1 - Projetos/Estudo de design/Resumo sobre a diretriz de contraste WCAG.md",
-    "1 - Projetos/Estudo de design/Como usar as cores.md",
-    "1 - Projetos/Estudo de design/Conseguir trabalhos.md",
-    "1 - Projetos/Estudo de design/Design.md",
-    "1 - Projetos/Estudo de design/Identidade Visual.md",
-    "1 - Projetos/Estudo de design/Lista de estudo.md",
-    "1 - Projetos/Estudo de design/Se tornar um designer.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Reunião de alinhamento sobre como o projeto irá funcionar.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds/Procore",
-    "2 - Areas/Trabalho - OFCDesk/ofcdesk.md",
-    "2 - Areas/Trabalho - OFCDesk/Ponds",
-    "1 - Projetos/Quack/Reunião/21.06.24.md",
-    "1 - Projetos/Quack/Nome da empresa.md",
-    "1 - Projetos/Quack/Ideias para o sistema.md",
-    "4 - Arquivos/Como conseguir projetos de design.md",
-    "4 - Arquivos/Começar a empreender.md",
-    "1 - Projetos/Quack/Reunião",
+    "Trabalho - VTCONN/App Inventário",
+    "Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
+    "Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
+    "Trabalho - OFCDesk/Ponds/Procore/RFI.md",
+    "Estudo de design/Sombras & gradiente.md",
+    "Estudo de design/Como definir uma paleta de cores.md",
+    "Estudo de design/Cores.md",
+    "Estudo de design/Resumo sobre a diretriz de contraste WCAG.md",
+    "Estudo de design/Como usar as cores.md",
+    "Estudo de design/Conseguir trabalhos.md",
+    "Estudo de design/Design.md",
+    "Estudo de design/Identidade Visual.md",
+    "Trabalho - OFCDesk/Ponds/Procore",
+    "Trabalho - OFCDesk/Ponds",
+    "0 - PARA/1 - Projetos/Quack/Reunião",
     "4 - Arquivos/Images/Pasted image 20240605180314.png",
     "4 - Arquivos/Images/Pasted image 20240605180036.png",
     "4 - Arquivos/Images/Pasted image 20240604180219.png",
-    "1 - Projetos/1 - VTCONN/APP Pollar/Fluxo do sistema.canvas",
-    "1 - Projetos/1 - VTCONN/APP Pollar",
-    "1 - Projetos/1 - VTCONN",
-    "2 - Areas/Trabalho - VTCONN/WebScrapping Bling",
-    "2 - Areas/Trabalho - OFCDesk",
-    "Untitled",
-    "1 - Projetos/1 - VTCONN/WebScrapping PHP/Estrutura de tabelas do banco de dados.canvas",
-    "1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fluxo do sistema.canvas",
-    "1 - Projetos/1 - VTCONN/WebScrapping PHP/Fluxo do projeto.canvas",
-    "1 - Projetos/1 - VTCONN/WebScrapping PHP/Arquivo CSV.canvas",
+    "0 - PARA/1 - Projetos/1 - VTCONN/APP Pollar/Fluxo do sistema.canvas",
+    "0 - PARA/1 - Projetos/1 - VTCONN/APP Pollar",
+    "0 - PARA/1 - Projetos/1 - VTCONN",
+    "Trabalho - VTCONN/WebScrapping Bling",
+    "0 - PARA/1 - Projetos/1 - VTCONN/WebScrapping PHP/Estrutura de tabelas do banco de dados.canvas",
+    "0 - PARA/1 - Projetos/Faculdade/PIM/Fazenda Urbana/Fluxo do sistema.canvas",
+    "0 - PARA/1 - Projetos/1 - VTCONN/WebScrapping PHP/Fluxo do projeto.canvas",
+    "0 - PARA/1 - Projetos/1 - VTCONN/WebScrapping PHP/Arquivo CSV.canvas",
     "4 - Arquivos/Images/Pasted image 20240416220216.png",
     "4 - Arquivos/Images/Pasted image 20240416220141.png",
     "4 - Arquivos/Images/Pasted image 20240413112555.png",
     "4 - Arquivos/Images/Pasted image 20240330232007.png",
-    "1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
-    "1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
-    "1 - Projetos/Empreender/Micro-saas barber/Flow of the app.canvas",
+    "0 - PARA/1 - Projetos/Empreender/Micro-saas barber/2 - Estrutura do projeto.canvas",
+    "0 - PARA/1 - Projetos/Faculdade/Semestre 2/Projeto de interface do usuário/Flow of hardware system.canvas",
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
     "4 - Arquivos/Images/valor-01.jpeg",
     "4 - Arquivos/Images/valor-02.jpeg"
