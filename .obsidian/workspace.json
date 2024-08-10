@@ -43,7 +43,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Video YouTube - A velocidade do mundo moderno.md",
+                "file": "🖊️Start - write ONLY WRITE/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Video YouTube - A velocidade do mundo moderno.md",
+                "file": "🖊️Start - write ONLY WRITE/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Video YouTube - A velocidade do mundo moderno.md",
+                "file": "🖊️Start - write ONLY WRITE/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Video YouTube - A velocidade do mundo moderno.md"
+                "file": "🖊️Start - write ONLY WRITE/Untitled.md"
               }
             }
           },
@@ -193,8 +192,9 @@
   },
   "active": "6c3db6c0942154b5",
   "lastOpenFiles": [
-    "😁Work/Trabalho - VTCONN/Untitled.canvas",
     "🖊️Start - write ONLY WRITE/Video YouTube - A velocidade do mundo moderno.md",
+    "🖊️Start - write ONLY WRITE/Untitled.md",
+    "😁Work/Trabalho - VTCONN/Untitled.canvas",
     "😁Work/Trabalho - VTCONN/Reembolso de despesas/database reembolso.canvas",
     "😁Work/Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
     "😁Work/Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
