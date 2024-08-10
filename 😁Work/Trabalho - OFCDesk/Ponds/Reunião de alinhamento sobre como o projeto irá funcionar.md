@@ -17,7 +17,7 @@ System Hub (output é o ACC) - receber os dados -> ele conecta no ACC
 
 #### Fluxo do sistema
 O app do Procore terá um trigger no na entidade do RFI e do Submitals e toda vez que for disparado ele deve fazer o cadastro dentro do siHub
-![[Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas|Fluxo do sistema]]
+![[😁Work/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas|Fluxo do sistema]]
 
 #### Documentações
 1. ACC Autodesk Countruction Cloud API's

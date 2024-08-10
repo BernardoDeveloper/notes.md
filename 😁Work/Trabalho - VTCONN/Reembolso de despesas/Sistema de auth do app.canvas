@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b508fc86a694d231","type":"text","text":"usuário acessa a aplicação","x":-460,"y":-200,"width":250,"height":60,"color":"1"},
+		{"id":"ddcd42f1eabacd24","type":"text","text":"Selecionar:\n1. Empresa\n2. Funcionário","x":-120,"y":-200,"width":250,"height":120,"color":"4"},
+		{"id":"39d8127cf7ea0ec1","type":"text","text":"**Empresa:**\n1. Criar conta\n2. Acesso a lista de todos os funcionários registrados no sistema -> seleciona os funcionários que pertence a ela","x":-120,"y":20,"width":340,"height":220,"color":"2"},
+		{"id":"ca0e81ffebe88178","type":"text","text":"**Funcionário:**\n1. Cria uma conta","x":220,"y":-190,"width":250,"height":100,"color":"2"},
+		{"id":"71fb71512bf7240d","type":"text","text":"Tela para criar um reembolso","x":560,"y":-174,"width":252,"height":68,"color":"6"},
+		{"id":"6ab35c5e4047e9a3","type":"text","text":"Tela para listar o histórico de reembolsos realizados","x":300,"y":20,"width":250,"height":60,"color":"6"},
+		{"id":"b92ff9214e764aa7","type":"text","text":"Tela para listar todos os reembolsos pendentes","x":300,"y":160,"width":250,"height":60,"color":"6"},
+		{"id":"83f427ba0a4e6015","type":"text","text":"Informa para qual empresa irá fazer o reembolso.\n\n**OBS:** irá listar somente as empresas que esse funcionário pertence\n","x":659,"y":-15,"width":307,"height":205,"color":"3"}
+	],
+	"edges":[
+		{"id":"a169125b07dfa271","fromNode":"b508fc86a694d231","fromSide":"right","toNode":"ddcd42f1eabacd24","toSide":"left","color":"1"},
+		{"id":"33f8a97b1d48576a","fromNode":"ddcd42f1eabacd24","fromSide":"bottom","toNode":"39d8127cf7ea0ec1","toSide":"top","color":"4"},
+		{"id":"15f3a7e26b9deece","fromNode":"ddcd42f1eabacd24","fromSide":"right","toNode":"ca0e81ffebe88178","toSide":"left","color":"4"},
+		{"id":"678dea4445d94dfd","fromNode":"ca0e81ffebe88178","fromSide":"right","toNode":"71fb71512bf7240d","toSide":"left","color":"2"},
+		{"id":"844b61bd892c6fdf","fromNode":"39d8127cf7ea0ec1","fromSide":"right","toNode":"b92ff9214e764aa7","toSide":"left","color":"2"},
+		{"id":"c0089d33636f601e","fromNode":"39d8127cf7ea0ec1","fromSide":"right","toNode":"6ab35c5e4047e9a3","toSide":"left","color":"2"},
+		{"id":"9aa8632e3318bfb0","fromNode":"71fb71512bf7240d","fromSide":"bottom","toNode":"83f427ba0a4e6015","toSide":"top","color":"6"}
+	]
+}

@@ -1,21 +1,21 @@
 {
 	"nodes":[
 		{"id":"ea60833b64866d30","type":"group","x":391,"y":-298,"width":879,"height":998,"color":"6","label":"Empresa: processo de aprovação ou reprovação do reembolso"},
-		{"id":"fa1ab93cb1032dee","type":"group","x":-360,"y":-200,"width":651,"height":540,"color":"2","label":"Funcionário: processo de reembolso"},
-		{"id":"5ed7c2a194758a43","type":"text","text":"Usuário acessa a aplicação","x":-340,"y":-180,"width":250,"height":60,"color":"2"},
-		{"id":"4d67ece386424e5e","type":"text","text":"Abre processo de reembolso","x":-340,"y":-60,"width":250,"height":74,"color":"1"},
-		{"id":"6907fcaf9a75473a","type":"text","text":"Informa o que foi gasto\nAnexa o comprovante\n\n*Comprovante:* pode ser o extrato bancário ou um comprovante da compra feita","x":20,"y":-23,"width":250,"height":203,"color":"3"},
-		{"id":"41d17a2d48e02dd5","type":"text","text":"Envia o reembolso","x":21,"y":260,"width":250,"height":60,"color":"4"},
+		{"id":"fa1ab93cb1032dee","type":"group","x":-380,"y":-220,"width":651,"height":540,"color":"2","label":"Funcionário: processo de reembolso"},
 		{"id":"8aa763eb0fe7f43a","type":"text","text":"Funcionário da empresa loga na aplicação","x":423,"y":-188,"width":250,"height":68,"color":"2"},
 		{"id":"4c6cfd5284d37e29","type":"text","text":"Lista de todos os processos de reembolsos abertos","x":411,"y":-32,"width":275,"height":92,"color":"1"},
 		{"id":"c1d0946664fea68b","type":"text","text":"Apenas X funcionários podem aprovar ou reprovar os processos de reembolsos","x":780,"y":-278,"width":250,"height":124,"color":"3"},
-		{"id":"dcca02d534eb106f","type":"text","text":"Tela com todos os processos de reembolso","x":-340,"y":180,"width":250,"height":60,"color":"1"},
 		{"id":"2b739e72adea353e","type":"text","text":"Tela com todas as informações do reembolso\n\n1. Nome\n2. Descrição\n3. Valor\n4. Anexos\n5. Status\n\nBotão para aprovar ou reporvar\n","x":800,"y":-23,"width":298,"height":284,"color":"3"},
 		{"id":"f627f3fbc98494dd","type":"text","text":"Conectado ao ERP","x":655,"y":380,"width":250,"height":60,"color":"4"},
 		{"id":"376cf0c5aa31053d","type":"text","text":"Não conectado ao ERP","x":1000,"y":380,"width":250,"height":60,"color":"4"},
 		{"id":"7279c36f10c9ab0e","type":"text","text":"Debita o valor dentro do módulo financeiro, informando o status do gasto e informações adicionais","x":429,"y":160,"width":244,"height":160,"color":"6"},
 		{"id":"b4a2365cfcacc6dc","type":"text","text":"Na tela de reembolso históricos: terá as informações do reembolso e do pagamento realizado","x":999,"y":537,"width":250,"height":143,"color":"6"},
-		{"id":"fb6640ffa70bead7","type":"text","text":"Informar no aplicativo do funcionário o motivo de ter reprovado","x":507,"y":566,"width":273,"height":85,"color":"1"}
+		{"id":"fb6640ffa70bead7","type":"text","text":"Informar no aplicativo do funcionário o motivo de ter reprovado","x":507,"y":566,"width":273,"height":85,"color":"1"},
+		{"id":"5ed7c2a194758a43","type":"text","text":"Usuário acessa a aplicação","x":-360,"y":-200,"width":250,"height":60,"color":"2"},
+		{"id":"4d67ece386424e5e","type":"text","text":"Abre processo de reembolso","x":-360,"y":-80,"width":250,"height":74,"color":"1"},
+		{"id":"6907fcaf9a75473a","type":"text","text":"Informa o que foi gasto\nAnexa o comprovante\n\n*Comprovante:* pode ser o extrato bancário ou um comprovante da compra feita","x":0,"y":-43,"width":250,"height":203,"color":"3"},
+		{"id":"41d17a2d48e02dd5","type":"text","text":"Envia o reembolso","x":1,"y":240,"width":250,"height":60,"color":"4"},
+		{"id":"dcca02d534eb106f","type":"text","text":"Tela com todos os processos de reembolso","x":-360,"y":180,"width":250,"height":60,"color":"1"}
 	],
 	"edges":[
 		{"id":"0aa3ee8ac64a04e8","fromNode":"5ed7c2a194758a43","fromSide":"bottom","toNode":"4d67ece386424e5e","toSide":"top","color":"2"},

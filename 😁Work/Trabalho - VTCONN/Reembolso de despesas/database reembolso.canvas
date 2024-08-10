@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"5f50b003e6b18ba9","type":"text","text":"**Enterprise**\n\n- id INT\n- name STRING\n- password STRING\n- use_protheus BOOL\n- created_at DATETIME\n- updated_at DATETIME","x":-143,"y":-174,"width":263,"height":254,"color":"2"},
+		{"id":"95e586da90a4d4cc","type":"text","text":"**Employee**\n\n- id INT\n- name STRING\n- password STRING\n- enterprise_id INT **FK**\n- created_at DATETIME\n- updated_at DATETIME","x":320,"y":-174,"width":273,"height":254,"color":"3"},
+		{"id":"2f35f728453c1a49","x":768,"y":180,"width":250,"height":196,"color":"5","type":"text","text":"**Types of expenses**\n\n- id INT"},
+		{"id":"1c5728aec5ae8b29","type":"text","text":"**Refunds**\n\n- id INT\n- employee_id INT **FK**\n- enterprise_id INT **FK**\n- title STRING\n- description STRING\n- value INT\n- status BOOL\n- attachment VARBINARY(max)\n- created_at DATETIME\n- updated_at DATETIME","x":320,"y":180,"width":317,"height":360,"color":"4"}
+	],
+	"edges":[
+		{"id":"807b692a2e27a048","fromNode":"5f50b003e6b18ba9","fromSide":"right","toNode":"95e586da90a4d4cc","toSide":"left","color":"2","label":"N - N"},
+		{"id":"2514b2b02d3422dd","fromNode":"95e586da90a4d4cc","fromSide":"bottom","toNode":"1c5728aec5ae8b29","toSide":"top","color":"3","label":"1 - N"},
+		{"id":"96564416a90d8ead","fromNode":"5f50b003e6b18ba9","fromSide":"bottom","toNode":"1c5728aec5ae8b29","toSide":"left","color":"2","label":"1 - N"},
+		{"id":"18a3ad82cdb6b3d0","fromNode":"1c5728aec5ae8b29","fromSide":"right","toNode":"2f35f728453c1a49","toSide":"left","color":"4","label":"1 - 1"}
+	]
+}
