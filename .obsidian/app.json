@@ -6,7 +6,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "spellcheck": true,
+  "spellcheck": false,
   "vimMode": false,
   "showLineNumber": false,
   "alwaysUpdateLinks": true,

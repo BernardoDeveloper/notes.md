@@ -8,49 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0d73406d79391079",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "😁Work/Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
-                "viewState": {
-                  "x": 253,
-                  "y": 20,
-                  "zoom": -0.0005519460786148437
-                }
-              }
-            }
-          },
-          {
-            "id": "9636ef02a971511b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "😁Work/Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
-                "viewState": {
-                  "x": 445,
-                  "y": 201,
-                  "zoom": -0.211043988767905
-                }
-              }
-            }
-          },
-          {
             "id": "6c3db6c0942154b5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🖊️Start - write ONLY WRITE/How to earn money and business idea.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "53a1eec2fdc5d631",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Untitled.md",
+                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "right": {
     "id": "059745c1e83c377a",
@@ -116,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Untitled.md",
+                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Untitled.md",
+                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Untitled.md"
+                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md"
               }
             }
           },
@@ -190,14 +175,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c3db6c0942154b5",
+  "active": "53a1eec2fdc5d631",
   "lastOpenFiles": [
+    "🖊️Start - write ONLY WRITE/How to earn money and business idea.md",
+    "📖Literature/Couple financial organization.md",
+    "📖Literature/Fernanda Almeida Cordeiro.md",
+    "Comercial de dez segundos.md",
+    "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
+    "📖Literature/Não temos tempo porque não queremos.md",
+    "0 - PARA/1 - Projetos/Faculdade/Semestre 3/Gerenciamento de Projeto/Projeto.md",
+    "🖊️Start - write ONLY WRITE/qrcodes.pdf",
+    "0 - PARA/1 - Projetos/Faculdade/Semestre 3/Gerenciamento de Projeto",
+    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
+    "Pasted image 20240813100639.png",
+    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
+    "0 - PARA/3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
+    "0 - PARA/1 - Projetos/Faculdade/Semestre 3/NET/classroom.md",
+    "0 - PARA/1 - Projetos/Faculdade/Semestre 3/NET",
+    "0 - PARA/1 - Projetos/Faculdade/Semestre 3",
+    "🖊️Start - write ONLY WRITE/Mental clarity.md",
     "🖊️Start - write ONLY WRITE/Video YouTube - A velocidade do mundo moderno.md",
-    "🖊️Start - write ONLY WRITE/Untitled.md",
     "😁Work/Trabalho - VTCONN/Untitled.canvas",
     "😁Work/Trabalho - VTCONN/Reembolso de despesas/database reembolso.canvas",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
     "😁Work/Trabalho - VTCONN/Reembolso de despesas/System to register the users in application.md",
     "👀What I'm doing/2024-08-09.md",
     "👀What I'm doing/Untitled.md",
@@ -220,20 +219,7 @@
     "😁Work/Trabalho - VTCONN/WebScrapping Bling/WebScrapping Bling.md",
     "😁Work/Trabalho - VTCONN/Levantamento sobre o novo APP.md",
     "😁Work/Trabalho - VTCONN/Connit.md",
-    "0 - PARA/4 - Arquivos/Assistência técnica/Core - Acesso do usuário.md",
-    "0 - PARA/4 - Arquivos/Assistência técnica/Core - Acesso do Administrador.md",
-    "0 - PARA/4 - Arquivos/TAG/Acessos TCLOUD.md",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Criar um novo app.md",
-    "Studies",
-    "0 - PARA",
-    "2 - Areas/Trabalho - VTCONN/Reembolso de despesas/Untitled.md",
-    "2 - Areas/Trabalho - CONNIT/BackOffice.md",
-    "😁Work/Trabalho - OFCDesk/Ponds/O que conseguimos e não conseguimos integrar com o Procore.md",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas",
-    "😁Work/Trabalho - VTCONN/App Inventário",
-    "😁Work/Trabalho - OFCDesk/Ponds/Reunião sobre tirar dúvidas.md",
     "😁Work/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
-    "😁Work/Trabalho - OFCDesk/Ponds/Procore/RFI.md",
     "4 - Arquivos/Images/Pasted image 20240605180314.png",
     "4 - Arquivos/Images/Pasted image 20240605180036.png",
     "4 - Arquivos/Images/Pasted image 20240604180219.png",
@@ -246,7 +232,6 @@
     "4 - Arquivos/Images/Pasted image 20240413112555.png",
     "4 - Arquivos/Images/Pasted image 20240330232007.png",
     "4 - Arquivos/Images/Pasted image 20240314073135.png",
-    "4 - Arquivos/Images/valor-01.jpeg",
-    "4 - Arquivos/Images/valor-02.jpeg"
+    "4 - Arquivos/Images/valor-01.jpeg"
   ]
 }
