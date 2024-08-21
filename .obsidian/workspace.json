@@ -22,19 +22,58 @@
             }
           },
           {
-            "id": "53a1eec2fdc5d631",
+            "id": "bb9f7145a521de92",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "😁Work/Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
+                "viewState": {
+                  "x": 445,
+                  "y": 201,
+                  "zoom": -0.6211826886339097
+                }
+              }
+            }
+          },
+          {
+            "id": "22cf3de03c2f4ace",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
+                "file": "😁Work/Trabalho - VTCONN/Reembolso de despesas/Logic to create the Authentication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fedfd37b0d0d118e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "📖Literature/Marketing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38501924fb8f807f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reunião - freelancer.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -101,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
+                "file": "Reunião - freelancer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
+                "file": "Reunião - freelancer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md"
+                "file": "Reunião - freelancer.md"
               }
             }
           },
@@ -175,50 +214,50 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53a1eec2fdc5d631",
+  "active": "38501924fb8f807f",
   "lastOpenFiles": [
+    "Reunião - freelancer.md",
     "🖊️Start - write ONLY WRITE/How to earn money and business idea.md",
-    "📖Literature/Couple financial organization.md",
-    "📖Literature/Fernanda Almeida Cordeiro.md",
-    "Comercial de dez segundos.md",
-    "🖊️Start - write ONLY WRITE/Logic to solve the problems of inventory app.md",
+    "📖Literature/Como enganar seu cérebro para fazer coisas difíceis.md",
+    "📖Literature/Marketing.md",
+    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Logic to create the Authentication.md",
+    "😁Work/Trabalho - VTCONN/Reembolso de despesas/database reembolso.canvas",
+    "😁Work/Trabalho - VTCONN/App Inventário/Logic to solve the problems of inventory app.md",
+    "0 - PARA/3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
+    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
+    "😁Work/Trabalho - VTCONN/Reembolso de despesas/System to register the users in application.md",
+    "😁Work/Trabalho - VTCONN/Connit.md",
+    "😁Work/Trabalho - VTCONN/App Inventário/Criar uma nova versão reestilizado.md",
+    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
+    "😁Work/Trabalho - VTCONN/novo App.canvas",
     "📖Literature/Não temos tempo porque não queremos.md",
+    "How this conncet with my knowledge.md",
+    "Life.md",
+    "0 - PARA/4 - Arquivos/Images/Pasted image 20240813100639.png",
+    "🗿Gratitude Journal/2024-08.md",
+    "🗿Gratitude Journal",
+    "Comercial de dez segundos.md",
+    "😁Work/Trabalho - VTCONN/Untitled.canvas",
+    "📖Literature/Fernanda Almeida Cordeiro.md",
+    "📖Literature/Couple financial organization.md",
     "0 - PARA/1 - Projetos/Faculdade/Semestre 3/Gerenciamento de Projeto/Projeto.md",
     "🖊️Start - write ONLY WRITE/qrcodes.pdf",
     "0 - PARA/1 - Projetos/Faculdade/Semestre 3/Gerenciamento de Projeto",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Sistema de auth do app.canvas",
-    "Pasted image 20240813100639.png",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas/Fluxo app reembolso de despesas.canvas",
-    "0 - PARA/3 - Recursos/Profissional/Bernardo Gualberto Silva.md",
     "0 - PARA/1 - Projetos/Faculdade/Semestre 3/NET/classroom.md",
     "0 - PARA/1 - Projetos/Faculdade/Semestre 3/NET",
     "0 - PARA/1 - Projetos/Faculdade/Semestre 3",
     "🖊️Start - write ONLY WRITE/Mental clarity.md",
     "🖊️Start - write ONLY WRITE/Video YouTube - A velocidade do mundo moderno.md",
-    "😁Work/Trabalho - VTCONN/Untitled.canvas",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas/database reembolso.canvas",
-    "😁Work/Trabalho - VTCONN/Reembolso de despesas/System to register the users in application.md",
     "👀What I'm doing/2024-08-09.md",
     "👀What I'm doing/Untitled.md",
     "👀What I'm doing",
-    "😁Work/Trabalho - VTCONN/novo App.canvas",
     "🖊️Start - write ONLY WRITE/Play with my girlfriend.md",
-    "How this conncet with my knowledge.md",
     "📖Literature/Guide of studies about programming.md",
     "🖊️Start - write ONLY WRITE",
-    "Life.md",
     "A cura da procastinação.md",
     "😁Work",
-    "📖Literature/Organization.md",
     "Concepts",
     "📖Literature",
-    "Ideas",
-    "Trabalho - VTCONN/Reembolso de despesas/Untitled.md",
-    "😁Work/Trabalho - VTCONN/App Inventário/Criar uma nova versão reestilizado.md",
-    "😁Work/Trabalho - VTCONN/Acessos do servidor.md",
-    "😁Work/Trabalho - VTCONN/WebScrapping Bling/WebScrapping Bling.md",
-    "😁Work/Trabalho - VTCONN/Levantamento sobre o novo APP.md",
-    "😁Work/Trabalho - VTCONN/Connit.md",
     "😁Work/Trabalho - OFCDesk/Ponds/Fluxo do sistema.canvas",
     "4 - Arquivos/Images/Pasted image 20240605180314.png",
     "4 - Arquivos/Images/Pasted image 20240605180036.png",

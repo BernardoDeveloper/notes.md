@@ -9,7 +9,7 @@
   "sanctum@@checkbox-color-rgb": "165, 119, 218",
   "Appearance-dark@@theme-dark-style-select": "theme-dark-background-black",
   "sanctum@@dark-mode-contrast-mode": "sanctum-black",
-  "Appearance-light@@card-layout-open-light": false,
+  "Appearance-light@@card-layout-open-light": true,
   "Appearance-dark@@card-layout-open-dark": false,
   "minimal-style@@callouts-style": "callouts-default",
   "minimal-style@@window-title-off": false,
@@ -38,5 +38,10 @@
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
-  "typomagical-colour@@background-color-enable": false
+  "typomagical-colour@@background-color-enable": false,
+  "Components@@tab-autohide": true,
+  "Components@@status-bar-autohide": false,
+  "Components@@Ribbon-autohide": true,
+  "Components@@nav-header-autohide": false,
+  "Components@@tab-title-bar-autohide": false
 }

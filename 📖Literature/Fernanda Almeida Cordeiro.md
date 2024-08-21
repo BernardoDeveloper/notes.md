@@ -4,6 +4,8 @@ São Bernardo Do Campo, São Paulo | +55 (11) 95901-6791 | fernandaalmeidacordei
 Sou altamente organizada e em função desenvolvi uma ótima comunicação verbal e escrita.  
 Ótimo desempenho e sociabilidade em trabalhos grupais, facilidade em aprender e boa desenvoltura em relações interpessoais.
 
+**Horário disponível:** tarde/noite
+
 ## Educação
 #### USCS | São Caetano, São Paulo | 12/2028
 - **Título**: [Bacharelado de Psicologia]

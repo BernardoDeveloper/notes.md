@@ -1,14 +1,14 @@
 {
 	"nodes":[
-		{"id":"18ae5a293c7477b2","x":-346,"y":-278,"width":446,"height":318,"color":"2","type":"group","label":"Servidor VTCONN"},
-		{"id":"4d64990138a0b998","x":365,"y":-540,"width":255,"height":260,"color":"1","type":"group","label":"Servidro Cloud POLLAR"},
+		{"id":"18ae5a293c7477b2","type":"group","x":-346,"y":-278,"width":446,"height":318,"color":"2","label":"Servidor VTCONN"},
+		{"id":"4d64990138a0b998","type":"group","x":365,"y":-540,"width":255,"height":260,"color":"1","label":"Servidro Cloud POLLAR"},
 		{"id":"db130d2d02ae94ce","type":"text","text":"Servidor","x":-298,"y":-258,"width":138,"height":60,"color":"3"},
 		{"id":"02dd8f5b0e8042b6","type":"text","text":"SQL Server","x":-80,"y":-258,"width":160,"height":60,"color":"3"},
 		{"id":"6637e168908cdbaf","type":"text","text":"REST (TypeScript)","x":-326,"y":-40,"width":195,"height":60,"color":"1"},
 		{"id":"e7d27a8ef8a089c0","type":"text","text":"App Reembolso","x":140,"y":-40,"width":188,"height":60,"color":"4"},
-		{"id":"2da50cebaf8a2725","x":147,"y":-140,"width":174,"height":60,"color":"6","type":"text","text":"APP Inventário"},
-		{"id":"f0e40d6cc7a221d1","x":400,"y":-360,"width":170,"height":60,"type":"text","text":"REST (ADVPL)"},
-		{"id":"faadd0a8685de3cf","x":385,"y":-520,"width":200,"height":60,"type":"text","text":"Servidor POLLAR"}
+		{"id":"2da50cebaf8a2725","type":"text","text":"APP Inventário","x":147,"y":-140,"width":174,"height":60,"color":"6"},
+		{"id":"f0e40d6cc7a221d1","type":"text","text":"REST (ADVPL)","x":400,"y":-360,"width":170,"height":60},
+		{"id":"faadd0a8685de3cf","type":"text","text":"Servidor POLLAR","x":385,"y":-520,"width":200,"height":60}
 	],
 	"edges":[
 		{"id":"43eb2c970a150167","fromNode":"db130d2d02ae94ce","fromSide":"right","toNode":"02dd8f5b0e8042b6","toSide":"left","color":"3"},

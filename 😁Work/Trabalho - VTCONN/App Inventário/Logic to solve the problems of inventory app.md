@@ -19,6 +19,7 @@ Need use a library called *react-native-camera* and has this video as resource: 
 
 - [ ] Create a page to after read the values, add in the system
 - [ ] Register the information of QR Code in local database
+- [x] Open camera with Expo
 
 #### To send page
 List the items to send to Protheus
